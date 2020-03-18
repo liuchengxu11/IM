@@ -1,0 +1,117 @@
+{
+  "uid" : "292c6f8f80f3f04d",
+  "name" : "test_get_user_dingDingDeptList[userId=-133744432730233274-id为石城榕]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingDeptList[userId=-133744432730233274-id为石城榕]",
+  "historyId" : "50f406c4685293bdb88b07034b2ba0dd",
+  "time" : {
+    "start" : 1584417369820,
+    "stop" : 1584417370085,
+    "duration" : 265
+  },
+  "description" : "\n        钉钉-获取当前登录人部门列表\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取当前登录人部门列表\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1584417369819,
+      "stop" : 1584417369819,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取当前登录人部门列表\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b48245a81a4bb1f2",
+      "name" : "地址",
+      "source" : "b48245a81a4bb1f2.txt",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "7411c3093d943766",
+      "name" : "请求头",
+      "source" : "7411c3093d943766.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "f690d572c3c9469f",
+      "name" : "响应",
+      "source" : "f690d572c3c9469f.txt",
+      "type" : "text/plain",
+      "size" : 353
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "feature",
+    "value" : "获取当前登录人部门列表"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "45314-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "'id为石城榕'"
+  }, {
+    "name" : "test1",
+    "value" : "'userId='"
+  }, {
+    "name" : "test2",
+    "value" : "'133744432730233274'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "292c6f8f80f3f04d.json",
+  "parameterValues" : [ "'id为石城榕'", "'userId='", "'133744432730233274'" ]
+}

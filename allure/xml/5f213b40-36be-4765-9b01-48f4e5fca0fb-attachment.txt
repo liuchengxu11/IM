@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "desc": "成功",
+    "data": {
+        "deptId": null,
+        "deptName": null,
+        "userId": null,
+        "userName": null
+    }
+}

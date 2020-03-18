@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de0cfeae-3067-42e1-932a-05882a4d2530" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YYyYKa3cd2dynC206hQpEnpf0R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Utils/app_common" />
+      <recent name="$PROJECT_DIR$/Utils" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="appium_driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IM_sunxing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestData/ny_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestData/ny_app/appium_driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IM_sunxing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IM_sunxing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_111.Test_123.test_111" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="IM_sunxing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestData/ny_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_111.Test_123.test_111&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.pytest for test_111.Test_123.test_111" />
+        <item itemvalue="Python.appium_driver" />
+        <item itemvalue="Python.common" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0cfeae-3067-42e1-932a-05882a4d2530" name="Default Changelist" comment="" />
+      <created>1583133868981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583133868981</updated>
+      <workItem from="1583133870500" duration="1682000" />
+      <workItem from="1583215184204" duration="28890000" />
+      <workItem from="1583413119515" duration="2669000" />
+      <workItem from="1583472205955" duration="16989000" />
+      <workItem from="1583827006715" duration="4048000" />
+      <workItem from="1583907873462" duration="17966000" />
+      <workItem from="1584081897671" duration="6210000" />
+      <workItem from="1584255204081" duration="10000" />
+      <workItem from="1584256110805" duration="726000" />
+      <workItem from="1584334109175" duration="640000" />
+      <workItem from="1584349602633" duration="782000" />
+      <workItem from="1584414944388" duration="1815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="523" height="466" key="DebuggerActiveHint" timestamp="1583921479590">
+      <screen x="44" y="23" width="1636" height="1027" />
+    </state>
+    <state width="523" height="466" key="DebuggerActiveHint/44.23.1636.1027@44.23.1636.1027" timestamp="1583921479590" />
+    <state width="1591" height="345" key="GridCell.Tab.0.bottom" timestamp="1584417361976">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1598" height="347" key="GridCell.Tab.0.bottom/1680.-131.3440.1417/36.23.1644.1027@36.23.1644.1027" timestamp="1583414909262" />
+    <state width="1591" height="206" key="GridCell.Tab.0.bottom/1680.-131.3440.1417/38.23.1642.1027@38.23.1642.1027" timestamp="1584254633188" />
+    <state width="1598" height="183" key="GridCell.Tab.0.bottom/34.23.1646.1027@34.23.1646.1027" timestamp="1583315441574" />
+    <state width="1598" height="247" key="GridCell.Tab.0.bottom/35.23.1645.1027@35.23.1645.1027" timestamp="1583314982689" />
+    <state width="1600" height="448" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583487169135" />
+    <state width="1600" height="435" key="GridCell.Tab.0.bottom/37.23.1643.1027@37.23.1643.1027" timestamp="1583489117862" />
+    <state width="1591" height="345" key="GridCell.Tab.0.bottom/38.23.1642.1027@38.23.1642.1027" timestamp="1584417361976" />
+    <state width="1591" height="380" key="GridCell.Tab.0.bottom/39.23.1641.1027@39.23.1641.1027" timestamp="1584415760166" />
+    <state width="1591" height="352" key="GridCell.Tab.0.bottom/40.23.1640.1027@40.23.1640.1027" timestamp="1584084079755" />
+    <state width="1591" height="331" key="GridCell.Tab.0.bottom/42.23.1638.1027@42.23.1638.1027" timestamp="1583892960677" />
+    <state width="1591" height="433" key="GridCell.Tab.0.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039184" />
+    <state width="1591" height="345" key="GridCell.Tab.0.bottom/44.23.1636.1027@44.23.1636.1027" timestamp="1583921449567" />
+    <state width="1591" height="149" key="GridCell.Tab.0.bottom/45.23.1635.1027@45.23.1635.1027" timestamp="1583911057714" />
+    <state width="1591" height="345" key="GridCell.Tab.0.center" timestamp="1584417361976">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1598" height="347" key="GridCell.Tab.0.center/1680.-131.3440.1417/36.23.1644.1027@36.23.1644.1027" timestamp="1583414909261" />
+    <state width="1591" height="206" key="GridCell.Tab.0.center/1680.-131.3440.1417/38.23.1642.1027@38.23.1642.1027" timestamp="1584254633188" />
+    <state width="1598" height="183" key="GridCell.Tab.0.center/34.23.1646.1027@34.23.1646.1027" timestamp="1583315441573" />
+    <state width="1598" height="247" key="GridCell.Tab.0.center/35.23.1645.1027@35.23.1645.1027" timestamp="1583314982688" />
+    <state width="1600" height="448" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583487169135" />
+    <state width="1600" height="435" key="GridCell.Tab.0.center/37.23.1643.1027@37.23.1643.1027" timestamp="1583489117861" />
+    <state width="1591" height="345" key="GridCell.Tab.0.center/38.23.1642.1027@38.23.1642.1027" timestamp="1584417361976" />
+    <state width="1591" height="380" key="GridCell.Tab.0.center/39.23.1641.1027@39.23.1641.1027" timestamp="1584415760166" />
+    <state width="1591" height="352" key="GridCell.Tab.0.center/40.23.1640.1027@40.23.1640.1027" timestamp="1584084079754" />
+    <state width="1591" height="331" key="GridCell.Tab.0.center/42.23.1638.1027@42.23.1638.1027" timestamp="1583892960676" />
+    <state width="1591" height="433" key="GridCell.Tab.0.center/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039184" />
+    <state width="1591" height="345" key="GridCell.Tab.0.center/44.23.1636.1027@44.23.1636.1027" timestamp="1583921449566" />
+    <state width="1591" height="149" key="GridCell.Tab.0.center/45.23.1635.1027@45.23.1635.1027" timestamp="1583911057713" />
+    <state width="1591" height="345" key="GridCell.Tab.0.left" timestamp="1584417361975">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1598" height="347" key="GridCell.Tab.0.left/1680.-131.3440.1417/36.23.1644.1027@36.23.1644.1027" timestamp="1583414909260" />
+    <state width="1591" height="206" key="GridCell.Tab.0.left/1680.-131.3440.1417/38.23.1642.1027@38.23.1642.1027" timestamp="1584254633187" />
+    <state width="1598" height="183" key="GridCell.Tab.0.left/34.23.1646.1027@34.23.1646.1027" timestamp="1583315441573" />
+    <state width="1598" height="247" key="GridCell.Tab.0.left/35.23.1645.1027@35.23.1645.1027" timestamp="1583314982688" />
+    <state width="1600" height="448" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583487169134" />
+    <state width="1600" height="435" key="GridCell.Tab.0.left/37.23.1643.1027@37.23.1643.1027" timestamp="1583489117861" />
+    <state width="1591" height="345" key="GridCell.Tab.0.left/38.23.1642.1027@38.23.1642.1027" timestamp="1584417361975" />
+    <state width="1591" height="380" key="GridCell.Tab.0.left/39.23.1641.1027@39.23.1641.1027" timestamp="1584415760165" />
+    <state width="1591" height="352" key="GridCell.Tab.0.left/40.23.1640.1027@40.23.1640.1027" timestamp="1584084079753" />
+    <state width="1591" height="331" key="GridCell.Tab.0.left/42.23.1638.1027@42.23.1638.1027" timestamp="1583892960676" />
+    <state width="1591" height="433" key="GridCell.Tab.0.left/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039184" />
+    <state width="1591" height="345" key="GridCell.Tab.0.left/44.23.1636.1027@44.23.1636.1027" timestamp="1583921449566" />
+    <state width="1591" height="149" key="GridCell.Tab.0.left/45.23.1635.1027@45.23.1635.1027" timestamp="1583911057713" />
+    <state width="1591" height="345" key="GridCell.Tab.0.right" timestamp="1584417361976">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1598" height="347" key="GridCell.Tab.0.right/1680.-131.3440.1417/36.23.1644.1027@36.23.1644.1027" timestamp="1583414909261" />
+    <state width="1591" height="206" key="GridCell.Tab.0.right/1680.-131.3440.1417/38.23.1642.1027@38.23.1642.1027" timestamp="1584254633188" />
+    <state width="1598" height="183" key="GridCell.Tab.0.right/34.23.1646.1027@34.23.1646.1027" timestamp="1583315441573" />
+    <state width="1598" height="247" key="GridCell.Tab.0.right/35.23.1645.1027@35.23.1645.1027" timestamp="1583314982688" />
+    <state width="1600" height="448" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583487169135" />
+    <state width="1600" height="435" key="GridCell.Tab.0.right/37.23.1643.1027@37.23.1643.1027" timestamp="1583489117862" />
+    <state width="1591" height="345" key="GridCell.Tab.0.right/38.23.1642.1027@38.23.1642.1027" timestamp="1584417361976" />
+    <state width="1591" height="380" key="GridCell.Tab.0.right/39.23.1641.1027@39.23.1641.1027" timestamp="1584415760166" />
+    <state width="1591" height="352" key="GridCell.Tab.0.right/40.23.1640.1027@40.23.1640.1027" timestamp="1584084079754" />
+    <state width="1591" height="331" key="GridCell.Tab.0.right/42.23.1638.1027@42.23.1638.1027" timestamp="1583892960677" />
+    <state width="1591" height="433" key="GridCell.Tab.0.right/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039184" />
+    <state width="1591" height="345" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1583921449567" />
+    <state width="1591" height="149" key="GridCell.Tab.0.right/45.23.1635.1027@45.23.1635.1027" timestamp="1583911057714" />
+    <state width="1591" height="433" key="GridCell.Tab.1.bottom" timestamp="1583922039185">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1591" height="433" key="GridCell.Tab.1.bottom/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039185" />
+    <state width="1591" height="345" key="GridCell.Tab.1.bottom/44.23.1636.1027@44.23.1636.1027" timestamp="1583921451541" />
+    <state width="1591" height="433" key="GridCell.Tab.1.center" timestamp="1583922039185">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1591" height="433" key="GridCell.Tab.1.center/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039185" />
+    <state width="1591" height="345" key="GridCell.Tab.1.center/44.23.1636.1027@44.23.1636.1027" timestamp="1583921451541" />
+    <state width="1591" height="433" key="GridCell.Tab.1.left" timestamp="1583922039185">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1591" height="433" key="GridCell.Tab.1.left/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039185" />
+    <state width="1591" height="345" key="GridCell.Tab.1.left/44.23.1636.1027@44.23.1636.1027" timestamp="1583921451540" />
+    <state width="1591" height="433" key="GridCell.Tab.1.right" timestamp="1583922039185">
+      <screen x="43" y="23" width="1637" height="1027" />
+    </state>
+    <state width="1591" height="433" key="GridCell.Tab.1.right/43.23.1637.1027@43.23.1637.1027" timestamp="1583922039185" />
+    <state width="1591" height="345" key="GridCell.Tab.1.right/44.23.1636.1027@44.23.1636.1027" timestamp="1583921451541" />
+    <state x="361" y="175" key="SettingsEditor" timestamp="1583313743362">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="361" y="175" key="SettingsEditor/36.23.1644.1027@36.23.1644.1027" timestamp="1583313743362" />
+    <state width="816" height="513" key="XDebugger.FullValuePopup" timestamp="1583921479569">
+      <screen x="44" y="23" width="1636" height="1027" />
+    </state>
+    <state width="816" height="513" key="XDebugger.FullValuePopup/44.23.1636.1027@44.23.1636.1027" timestamp="1583921479569" />
+    <state x="631" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1584081905401">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="630" y="369" key="com.intellij.ide.util.TipDialog/38.23.1642.1027@38.23.1642.1027" timestamp="1583472216489" />
+    <state x="631" y="369" key="com.intellij.ide.util.TipDialog/39.23.1641.1027@39.23.1641.1027" timestamp="1584081905401" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IM_sunxing$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1583892960665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestData/ny_app" />
+    <SUITE FILE_PATH="coverage/IM_sunxing$common.coverage" NAME="common Coverage Results" MODIFIED="1583390182532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/IM_sunxing$pytest_for_test_111_Test_123_test_111.coverage" NAME="pytest for test_111.Test_123.test_111 Coverage Results" MODIFIED="1583893304162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestData/ny_app" />
+    <SUITE FILE_PATH="coverage/IM_sunxing$run.coverage" NAME="run Coverage Results" MODIFIED="1584417361971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+{
+    "errcode": 0,
+    "userPermits": "",
+    "userPerimits": "",
+    "outerDept": false,
+    "errmsg": "ok",
+    "deptManagerUseridList": "",
+    "parentid": 224110056,
+    "groupContainSubDept": false,
+    "outerPermitUsers": "",
+    "outerPermitDepts": "",
+    "deptPerimits": "",
+    "createDeptGroup": true,
+    "name": "江苏战区",
+    "id": 241295858,
+    "autoAddUser": true,
+    "deptHiding": false,
+    "deptPermits": "",
+    "order": 241295858
+}

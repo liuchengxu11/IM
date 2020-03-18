@@ -1,0 +1,1 @@
+http://test.gateway.sunxing.net/sunxing-im/api/user/dingDingRoleList

@@ -1,0 +1,19 @@
+{
+    "code": 200,
+    "desc": "成功",
+    "data": [
+        {
+            "deptName": "广州战团",
+            "roleName": [
+                {
+                    "name": "CM",
+                    "groupName": "招商",
+                    "id": 947651132
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "石城榕",
+            "userId": "133744432730233274"
+        }
+    ]
+}

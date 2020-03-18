@@ -1,0 +1,1811 @@
+[ {
+  "uid" : "45e53f59c9098c1a",
+  "name" : "test_get_user_dingDingUserList[userId=--userId为空]",
+  "time" : {
+    "start" : 1584417365304,
+    "stop" : 1584417365367,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "782aa7334d9a4cc5",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-7953655070]",
+  "time" : {
+    "start" : 1584417364329,
+    "stop" : 1584417364350,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1128b8b65a00667b",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365517]",
+  "time" : {
+    "start" : 1584417364136,
+    "stop" : 1584417364149,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6e2adef577e04320",
+  "name" : "test_post_user_dingDingRoleList[deptId=-236295909]",
+  "time" : {
+    "start" : 1584417364705,
+    "stop" : 1584417364719,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "69639926eda1d8bf",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-947651132]",
+  "time" : {
+    "start" : 1584417364618,
+    "stop" : 1584417364639,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5aafa22e5448437c",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365528]",
+  "time" : {
+    "start" : 1584417364520,
+    "stop" : 1584417364535,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1210a9774be2637b",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-7953655070]",
+  "time" : {
+    "start" : 1584417364319,
+    "stop" : 1584417364338,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8c81f1a0714df48b",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-南部军区]",
+  "time" : {
+    "start" : 1584417365373,
+    "stop" : 1584417368449,
+    "duration" : 3076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8234c54ef0f92ef6",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-224110056]",
+  "time" : {
+    "start" : 1584417363788,
+    "stop" : 1584417363855,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc94842564a8de23",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-133744432730233274-id为石城榕]",
+  "time" : {
+    "start" : 1584417365263,
+    "stop" : 1584417365623,
+    "duration" : 360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13953423d8f321e7",
+  "name" : "test_post_user_dingDingRoleList[deptId=-267097103]",
+  "time" : {
+    "start" : 1584417364949,
+    "stop" : 1584417364964,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "52f5cab07327f9ef",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241951934]",
+  "time" : {
+    "start" : 1584417364747,
+    "stop" : 1584417364761,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ba0fcb4a49477a2c",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241141885]",
+  "time" : {
+    "start" : 1584417363602,
+    "stop" : 1584417363694,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3d3e872427fe7c4",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365515]",
+  "time" : {
+    "start" : 1584417364291,
+    "stop" : 1584417364307,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "620661bdf4e9cf51",
+  "name" : "test_post_user_dingDingRoleList[deptId=-240405944]",
+  "time" : {
+    "start" : 1584417364674,
+    "stop" : 1584417364695,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "37d1de5a3c2a1eab",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365516]",
+  "time" : {
+    "start" : 1584417364429,
+    "stop" : 1584417364446,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "837d2f06a4d2b958",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365530]",
+  "time" : {
+    "start" : 1584417364636,
+    "stop" : 1584417364661,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6a8268ff087fa691",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-24]",
+  "time" : {
+    "start" : 1584417363418,
+    "stop" : 1584417363475,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5db90427ad600e92",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-242030847]",
+  "time" : {
+    "start" : 1584417363921,
+    "stop" : 1584417363991,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f6c339b792a782f",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365514]",
+  "time" : {
+    "start" : 1584417364238,
+    "stop" : 1584417364259,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5066ff617038469c",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-879471193]",
+  "time" : {
+    "start" : 1584417364117,
+    "stop" : 1584417364130,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "292c6f8f80f3f04d",
+  "name" : "test_get_user_dingDingDeptList[userId=-133744432730233274-id为石城榕]",
+  "time" : {
+    "start" : 1584417369820,
+    "stop" : 1584417370085,
+    "duration" : 265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8da2445a6667326",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-242358873]",
+  "time" : {
+    "start" : 1584417363704,
+    "stop" : 1584417363796,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b38d07ef7119abb",
+  "name" : "test_get_user_dingDingUser[userId=-06130487-userId错误]",
+  "time" : {
+    "start" : 1584417363425,
+    "stop" : 1584417363490,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f52323f9c8daed14",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-山东战区]",
+  "time" : {
+    "start" : 1584417369699,
+    "stop" : 1584417369815,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79ee1a9f76fdc015",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战团]",
+  "time" : {
+    "start" : 1584417365952,
+    "stop" : 1584417366430,
+    "duration" : 478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c50c39c9e6fe339",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-236295909]",
+  "time" : {
+    "start" : 1584417363466,
+    "stop" : 1584417363599,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e7d1c31314456b2",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241974895]",
+  "time" : {
+    "start" : 1584417364762,
+    "stop" : 1584417364779,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "663838bc771bc98",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-267097103]",
+  "time" : {
+    "start" : 1584417364258,
+    "stop" : 1584417364315,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d19a13dae6c7ab91",
+  "name" : "test_get_user_dingDingUserList[userId=-28373101361631065137-id为严亮]",
+  "time" : {
+    "start" : 1584417369193,
+    "stop" : 1584417371850,
+    "duration" : 2657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae00115e17a865e3",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-]",
+  "time" : {
+    "start" : 1584417363787,
+    "stop" : 1584417363846,
+    "duration" : 59
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53aa8928f6f908d5",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365517]",
+  "time" : {
+    "start" : 1584417364480,
+    "stop" : 1584417364495,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ea577033691d6d75",
+  "name" : "test_get_user_dingDingUser[userId=-28373101361631065137-id为严亮]",
+  "time" : {
+    "start" : 1584417363191,
+    "stop" : 1584417363396,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0d043b2e0d02943",
+  "name" : "test_get_user_dingDingUserList[userId=-061052015035430487-id为谢玉霞]",
+  "time" : {
+    "start" : 1584417364996,
+    "stop" : 1584417365298,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e92c3359d6157ac0",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-广州战营]",
+  "time" : {
+    "start" : 1584417366568,
+    "stop" : 1584417368491,
+    "duration" : 1923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64352ff40a30cda4",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365521]",
+  "time" : {
+    "start" : 1584417364608,
+    "stop" : 1584417364624,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9040985cebe72ccf",
+  "name" : "test_get_user_dingDingDept",
+  "time" : {
+    "start" : 1584417363190,
+    "stop" : 1584417363401,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "858410c923732c73",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-广东战区]",
+  "time" : {
+    "start" : 1584417368129,
+    "stop" : 1584417369660,
+    "duration" : 1531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e310e8073a27b4f",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241396898]",
+  "time" : {
+    "start" : 1584417363564,
+    "stop" : 1584417363647,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccf4ba4517a0d067",
+  "name" : "test_get_user_dingDingDeptList[userId=-061052015035430487-id为谢玉霞]",
+  "time" : {
+    "start" : 1584417369416,
+    "stop" : 1584417369784,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3f8db0c91cb7f75",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-240405944]",
+  "time" : {
+    "start" : 1584417363496,
+    "stop" : 1584417363608,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d74ccbff251e2133",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365529]",
+  "time" : {
+    "start" : 1584417364566,
+    "stop" : 1584417364581,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1704f1b18404ed8c",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241295858]",
+  "time" : {
+    "start" : 1584417364694,
+    "stop" : 1584417364713,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "652bd0249e4c2491",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-240730909]",
+  "time" : {
+    "start" : 1584417363436,
+    "stop" : 1584417363534,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4d8631df1f4e49b",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241974895]",
+  "time" : {
+    "start" : 1584417363913,
+    "stop" : 1584417363991,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4def1920dc608b6",
+  "name" : "test_post_user_dingDingRoleList[deptId=-242358873]",
+  "time" : {
+    "start" : 1584417364864,
+    "stop" : 1584417364883,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "192c5b5d0c39266b",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-abc-userId错误]",
+  "time" : {
+    "start" : 1584417364940,
+    "stop" : 1584417364992,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "123768cd80f69e28",
+  "name" : "test_post_user_dingDingRoleList[deptId=-240450889]",
+  "time" : {
+    "start" : 1584417364737,
+    "stop" : 1584417364751,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6a29b6f3fa2fc139",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365525]",
+  "time" : {
+    "start" : 1584417364543,
+    "stop" : 1584417364563,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9a30594638997888",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241754918]",
+  "time" : {
+    "start" : 1584417364700,
+    "stop" : 1584417364716,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2199164f39c19ab4",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-客户管理中心]",
+  "time" : {
+    "start" : 1584417365474,
+    "stop" : 1584417369172,
+    "duration" : 3698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f960edf91b16331",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365520]",
+  "time" : {
+    "start" : 1584417364449,
+    "stop" : 1584417364468,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e92fca14dae6b76b",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营2]",
+  "time" : {
+    "start" : 1584417366435,
+    "stop" : 1584417366563,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "652e7c2192b2fe2c",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-947684115]",
+  "time" : {
+    "start" : 1584417364505,
+    "stop" : 1584417364519,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "61dc8e57f9164779",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-福建战区]",
+  "time" : {
+    "start" : 1584417367840,
+    "stop" : 1584417367989,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8dfcd06061baa24",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-242030847]",
+  "time" : {
+    "start" : 1584417363699,
+    "stop" : 1584417363816,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8e502ee95dd38b5",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-243154034]",
+  "time" : {
+    "start" : 1584417364186,
+    "stop" : 1584417364254,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fceaf8697e215a6",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-242129987]",
+  "time" : {
+    "start" : 1584417363651,
+    "stop" : 1584417363782,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "759d4f2e448abbb3",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-]",
+  "time" : {
+    "start" : 1584417364685,
+    "stop" : 1584417364708,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c51467552994e07d",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-城市招商部]",
+  "time" : {
+    "start" : 1584417368454,
+    "stop" : 1584417370997,
+    "duration" : 2543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "982a815dcd2b4ec4",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241295858]",
+  "time" : {
+    "start" : 1584417363589,
+    "stop" : 1584417363651,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0c902caead208a1",
+  "name" : "test_get_user_dingDingUser[userId=--userId为空]",
+  "time" : {
+    "start" : 1584417363405,
+    "stop" : 1584417363461,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c5b4489f0887c30",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241295858]",
+  "time" : {
+    "start" : 1584417363858,
+    "stop" : 1584417363917,
+    "duration" : 59
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "145d9253ad964b70",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241951934]",
+  "time" : {
+    "start" : 1584417363821,
+    "stop" : 1584417363883,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef1d06a07d9ff3c4",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-240730909]",
+  "time" : {
+    "start" : 1584417363850,
+    "stop" : 1584417363909,
+    "duration" : 59
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2aee304699fc873",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365526]",
+  "time" : {
+    "start" : 1584417363969,
+    "stop" : 1584417364013,
+    "duration" : 44
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a86e11a4419ce064",
+  "name" : "test_get_user_dingDingDeptList[userId=-120048633333525706-id为蔡延伟]",
+  "time" : {
+    "start" : 1584417369790,
+    "stop" : 1584417370033,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8191f3f65949cfd2",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-上海战区]",
+  "time" : {
+    "start" : 1584417368496,
+    "stop" : 1584417368617,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7b8557949d3ad98",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365510]",
+  "time" : {
+    "start" : 1584417364317,
+    "stop" : 1584417364333,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f65af4ca09b0c87f",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365529]",
+  "time" : {
+    "start" : 1584417364225,
+    "stop" : 1584417364246,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d0571a4a9d47ac3a",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241396898]",
+  "time" : {
+    "start" : 1584417364755,
+    "stop" : 1584417364770,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "99a9f8d6b20ff9df",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-隼行测试]",
+  "time" : {
+    "start" : 1584417365628,
+    "stop" : 1584417369693,
+    "duration" : 4065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d12cb2da6b6592e",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365528]",
+  "time" : {
+    "start" : 1584417364173,
+    "stop" : 1584417364193,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9b983945dfa659e1",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365509]",
+  "time" : {
+    "start" : 1584417364400,
+    "stop" : 1584417364419,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "72494a292ce9043a",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365526]",
+  "time" : {
+    "start" : 1584417364605,
+    "stop" : 1584417364628,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b7816578a2e7aebe",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营工作组1]",
+  "time" : {
+    "start" : 1584417369215,
+    "stop" : 1584417369334,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54fb893a581f5e55",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-温州战团]",
+  "time" : {
+    "start" : 1584417367994,
+    "stop" : 1584417368123,
+    "duration" : 129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25dcded3a6543931",
+  "name" : "test_get_user_dingDingDeptList[userId=-abc-userId错误]",
+  "time" : {
+    "start" : 1584417370366,
+    "stop" : 1584417370453,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e709a2f6c72259f",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241570938]",
+  "time" : {
+    "start" : 1584417363611,
+    "stop" : 1584417363698,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55cc2f1022b10287",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-911587957]",
+  "time" : {
+    "start" : 1584417364517,
+    "stop" : 1584417364533,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fecf8dda6bf0ef95",
+  "name" : "test_post_user_dingDingRoleList[deptId=-24]",
+  "time" : {
+    "start" : 1584417364811,
+    "stop" : 1584417364830,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dfdea5a094b67db3",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-广州战团]",
+  "time" : {
+    "start" : 1584417371002,
+    "stop" : 1584417372953,
+    "duration" : 1951
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39f43c3a4a92a60b",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365520]",
+  "time" : {
+    "start" : 1584417364310,
+    "stop" : 1584417364328,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5aec484ea0e1e1e6",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365523]",
+  "time" : {
+    "start" : 1584417364433,
+    "stop" : 1584417364448,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b063558d90024c2",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-242044930]",
+  "time" : {
+    "start" : 1584417363655,
+    "stop" : 1584417363751,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "336ee3917bf17ccf",
+  "name" : "test_post_user_dingDingRoleList[deptId=-]",
+  "time" : {
+    "start" : 1584417364648,
+    "stop" : 1584417364666,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a602f11d7427a799",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365510]",
+  "time" : {
+    "start" : 1584417364003,
+    "stop" : 1584417364031,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "40eece8a7b4173af",
+  "name" : "test_get_user_dingDingUser[userId=-061052015035430487-id为谢玉霞]",
+  "time" : {
+    "start" : 1584417363191,
+    "stop" : 1584417363421,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7aba9fb3cb7071c",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365525]",
+  "time" : {
+    "start" : 1584417364271,
+    "stop" : 1584417364284,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b27f79d455722c01",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-abc]",
+  "time" : {
+    "start" : 1584417369339,
+    "stop" : 1584417369411,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a1e377d6f712176",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-242044930]",
+  "time" : {
+    "start" : 1584417363995,
+    "stop" : 1584417364061,
+    "duration" : 66
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3083c9657bf26d9",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-879471193]",
+  "time" : {
+    "start" : 1584417364673,
+    "stop" : 1584417364695,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bd9896fa11602cc5",
+  "name" : "test_get_user_dingDingDeptList[userId=-28373101361631065137-id为严亮]",
+  "time" : {
+    "start" : 1584417369706,
+    "stop" : 1584417370040,
+    "duration" : 334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a83efe11dd77ee7",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241141885]",
+  "time" : {
+    "start" : 1584417363868,
+    "stop" : 1584417363923,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd399177b2a3c197",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-941504101]",
+  "time" : {
+    "start" : 1584417364564,
+    "stop" : 1584417364579,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fb40eb8f1bbd4996",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365519]",
+  "time" : {
+    "start" : 1584417364574,
+    "stop" : 1584417364590,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cfb0e049a912300a",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365509]",
+  "time" : {
+    "start" : 1584417363887,
+    "stop" : 1584417363912,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "95a0292fb87d7a86",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-dasdasda]",
+  "time" : {
+    "start" : 1584417364167,
+    "stop" : 1584417364192,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d91346b9e89a08aa",
+  "name" : "test_post_user_dingDingRoleList[deptId=-240730909]",
+  "time" : {
+    "start" : 1584417364792,
+    "stop" : 1584417364806,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9adab9411c0f2af6",
+  "name" : "test_post_user_dingDingRoleList[deptId=-242129987]",
+  "time" : {
+    "start" : 1584417364805,
+    "stop" : 1584417364827,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9931b8b765502e8e",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365521]",
+  "time" : {
+    "start" : 1584417364055,
+    "stop" : 1584417364071,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ce090e62366a4f64",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365513]",
+  "time" : {
+    "start" : 1584417364514,
+    "stop" : 1584417364527,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c886dd4241a29814",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-224110056]",
+  "time" : {
+    "start" : 1584417363496,
+    "stop" : 1584417363586,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bdf51ab52e59f90",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-222994918]",
+  "time" : {
+    "start" : 1584417363703,
+    "stop" : 1584417363822,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66abadf3c15c4d3e",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365508]",
+  "time" : {
+    "start" : 1584417364076,
+    "stop" : 1584417364094,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "32e21b03a6996bf9",
+  "name" : "test_get_user_dingDingUserList[userId=-06130487-userId错误]",
+  "time" : {
+    "start" : 1584417365411,
+    "stop" : 1584417365468,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b70cac50f7f82c93",
+  "name" : "test_get_user_dingDingDeptList[userId=-06130487-userId错误]",
+  "time" : {
+    "start" : 1584417370040,
+    "stop" : 1584417370096,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd84f26ed86ab052",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-941504101]",
+  "time" : {
+    "start" : 1584417364020,
+    "stop" : 1584417364060,
+    "duration" : 40
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "634a8a6010e61c1f",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365513]",
+  "time" : {
+    "start" : 1584417364177,
+    "stop" : 1584417364205,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "29ba7785811784f2",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-947684115]",
+  "time" : {
+    "start" : 1584417364378,
+    "stop" : 1584417364399,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "482321540ff7d707",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-]",
+  "time" : {
+    "start" : 1584417364281,
+    "stop" : 1584417364294,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "788c7c83baf0667e",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365518]",
+  "time" : {
+    "start" : 1584417364528,
+    "stop" : 1584417364542,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f45f6eeefc6da156",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-240450889]",
+  "time" : {
+    "start" : 1584417363834,
+    "stop" : 1584417363894,
+    "duration" : 60
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cbd66db054b3050",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营工作组2]",
+  "time" : {
+    "start" : 1584417369665,
+    "stop" : 1584417369812,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccc436f7339e17d",
+  "name" : "test_get_user_dingDingUser[userId=-120048633333525706-id为蔡延伟]",
+  "time" : {
+    "start" : 1584417363191,
+    "stop" : 1584417363407,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27513740bb350b5b",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-7953655071]",
+  "time" : {
+    "start" : 1584417363926,
+    "stop" : 1584417363957,
+    "duration" : 31
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1017801259105ddb",
+  "name" : "test_post_user_dingDingRoleList[deptId=-242044930]",
+  "time" : {
+    "start" : 1584417364742,
+    "stop" : 1584417364754,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c68a766648576e1c",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-浙江战区]",
+  "time" : {
+    "start" : 1584417368622,
+    "stop" : 1584417369209,
+    "duration" : 587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdced7dd0da7ef82",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-947651132]",
+  "time" : {
+    "start" : 1584417364224,
+    "stop" : 1584417364246,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "890d2aa760ca48b2",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-222994918]",
+  "time" : {
+    "start" : 1584417363473,
+    "stop" : 1584417363559,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b001d76e655e0c36",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365516]",
+  "time" : {
+    "start" : 1584417363994,
+    "stop" : 1584417364022,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "be4d2ce103a68009",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-宁波战团]",
+  "time" : {
+    "start" : 1584417365672,
+    "stop" : 1584417365800,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60ee68bf271de72c",
+  "name" : "test_get_user_dingDingUserList[userId=-120048633333525706-id为蔡延伟]",
+  "time" : {
+    "start" : 1584417364940,
+    "stop" : 1584417369186,
+    "duration" : 4246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "941c5bee98b001e3",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-工作组]",
+  "time" : {
+    "start" : 1584417369574,
+    "stop" : 1584417369702,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f365229687bda95",
+  "name" : "test_get_user_dingDingUserList[userId=-133744432730233274-id为石城榕]",
+  "time" : {
+    "start" : 1584417365511,
+    "stop" : 1584417367834,
+    "duration" : 2323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b25f441267abe9a",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-06130487-userId错误]",
+  "time" : {
+    "start" : 1584417364978,
+    "stop" : 1584417365046,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4603a645b6f21f3e",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-243154034]",
+  "time" : {
+    "start" : 1584417363665,
+    "stop" : 1584417363782,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b92b31ab310236c",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365524]",
+  "time" : {
+    "start" : 1584417364219,
+    "stop" : 1584417364238,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "45c553a0baa2e479",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365512]",
+  "time" : {
+    "start" : 1584417364462,
+    "stop" : 1584417364477,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "309cc4a2243b8618",
+  "name" : "test_post_user_dingDingRoleList[deptId=-222994918]",
+  "time" : {
+    "start" : 1584417364831,
+    "stop" : 1584417364849,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7d76d0281ab2f78e",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-dasdasda]",
+  "time" : {
+    "start" : 1584417364630,
+    "stop" : 1584417364657,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6c9c99a0f2b18fe2",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365508]",
+  "time" : {
+    "start" : 1584417364403,
+    "stop" : 1584417364427,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "74c91d83e0e922ff",
+  "name" : "test_get_user_dingDingDeptList[userId=--userId为空]",
+  "time" : {
+    "start" : 1584417370047,
+    "stop" : 1584417370121,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc74209151c8a892",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-240450889]",
+  "time" : {
+    "start" : 1584417363478,
+    "stop" : 1584417363567,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2f522639a9b60bb",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365515]",
+  "time" : {
+    "start" : 1584417364373,
+    "stop" : 1584417364393,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7d15b61e932a6d71",
+  "name" : "test_post_user_dingDingRoleList[deptId=-224110056]",
+  "time" : {
+    "start" : 1584417364779,
+    "stop" : 1584417364795,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1a07246b25d25f8e",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-120048633333525706-id为蔡延伟]",
+  "time" : {
+    "start" : 1584417364870,
+    "stop" : 1584417364997,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e8134c12d11a38d",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-]",
+  "time" : {
+    "start" : 1584417363327,
+    "stop" : 1584417363432,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f16f98594e8f065",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365512]",
+  "time" : {
+    "start" : 1584417364131,
+    "stop" : 1584417364145,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "40dfe150fcd5b8a2",
+  "name" : "test_post_user_dingDingRoleList[deptId=-243154034]",
+  "time" : {
+    "start" : 1584417364862,
+    "stop" : 1584417364880,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b7b35b8d3cb0f46f",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241754918]",
+  "time" : {
+    "start" : 1584417363897,
+    "stop" : 1584417363966,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a96d29f339f7f1e",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365527]",
+  "time" : {
+    "start" : 1584417364465,
+    "stop" : 1584417364483,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9ab4d9dcb8cfe263",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241570938]",
+  "time" : {
+    "start" : 1584417364804,
+    "stop" : 1584417364827,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eda554ad8862698f",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365519]",
+  "time" : {
+    "start" : 1584417364252,
+    "stop" : 1584417364276,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ead7e8b4041ddded",
+  "name" : "test_post_user_dingDingRoleList[deptId=-242030847]",
+  "time" : {
+    "start" : 1584417364815,
+    "stop" : 1584417364840,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2bbf84d5d2f2ce58",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-911240948]",
+  "time" : {
+    "start" : 1584417364329,
+    "stop" : 1584417364350,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3bf61abc20cc1ef",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365524]",
+  "time" : {
+    "start" : 1584417364497,
+    "stop" : 1584417364512,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "92e1d1f0c0dbb0d5",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-240405944]",
+  "time" : {
+    "start" : 1584417363887,
+    "stop" : 1584417363944,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31eb8eb5d187012f",
+  "name" : "test_get_user_dingDingUser[userId=-133744432730233274-id为石城榕]",
+  "time" : {
+    "start" : 1584417363191,
+    "stop" : 1584417363321,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d9b3db387cc8dc2",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365514]",
+  "time" : {
+    "start" : 1584417364559,
+    "stop" : 1584417364572,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "df1b04e3f524588d",
+  "name" : "test_get_user_dingDingUserList[userId=-manager2564-id为曹林]",
+  "time" : {
+    "start" : 1584417365051,
+    "stop" : 1584417365506,
+    "duration" : 455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a790d25349fe35de",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-江苏战区]",
+  "time" : {
+    "start" : 1584417365806,
+    "stop" : 1584417365947,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c628f71f46773c0",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241754918]",
+  "time" : {
+    "start" : 1584417363572,
+    "stop" : 1584417363661,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "781577ed934716e5",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-manager2564-id为曹林]",
+  "time" : {
+    "start" : 1584417364911,
+    "stop" : 1584417365258,
+    "duration" : 347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf2c06d8800d3f0",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=--userId为空]",
+  "time" : {
+    "start" : 1584417364900,
+    "stop" : 1584417364974,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae6b0f421dc78bc9",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365530]",
+  "time" : {
+    "start" : 1584417364281,
+    "stop" : 1584417364294,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "16651237ceebd333",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-东部军区]",
+  "time" : {
+    "start" : 1584417365415,
+    "stop" : 1584417365667,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22ddc8eebf3cb732",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241974895]",
+  "time" : {
+    "start" : 1584417363540,
+    "stop" : 1584417363605,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f99bd7d38947f809",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365518]",
+  "time" : {
+    "start" : 1584417364182,
+    "stop" : 1584417364214,
+    "duration" : 32
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b9ad0d067e3d03cb",
+  "name" : "test_get_user_dingDingUser[userId=-abc-userId错误]",
+  "time" : {
+    "start" : 1584417363412,
+    "stop" : 1584417363468,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87c064b0f89ddb99",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-911587957]",
+  "time" : {
+    "start" : 1584417364400,
+    "stop" : 1584417364419,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b31a9c4a525cd3bb",
+  "name" : "test_get_user_dingDingUserList[userId=-abc-userId错误]",
+  "time" : {
+    "start" : 1584417365344,
+    "stop" : 1584417365406,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef0db8bc1b160eae",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241396898]",
+  "time" : {
+    "start" : 1584417363827,
+    "stop" : 1584417363883,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b98048dc471d0743",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-242358873]",
+  "time" : {
+    "start" : 1584417364130,
+    "stop" : 1584417364183,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc2cd752d1957327",
+  "name" : "test_get_user_dingDingDeptList[userId=-manager2564-id为曹林]",
+  "time" : {
+    "start" : 1584417369818,
+    "stop" : 1584417370361,
+    "duration" : 543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc173b0117c03f1c",
+  "name" : "test_post_user_dingDingRoleList[deptId=-241141885]",
+  "time" : {
+    "start" : 1584417364841,
+    "stop" : 1584417364861,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b92840d83690fa46",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-242129987]",
+  "time" : {
+    "start" : 1584417364066,
+    "stop" : 1584417364125,
+    "duration" : 59
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59a853dee8960b51",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365523]",
+  "time" : {
+    "start" : 1584417364163,
+    "stop" : 1584417364188,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ceeb0fa3ab9e6254",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-24]",
+  "time" : {
+    "start" : 1584417363756,
+    "stop" : 1584417363830,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d385c8f67cb25a9c",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-267097103]",
+  "time" : {
+    "start" : 1584417363611,
+    "stop" : 1584417363698,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ad0abe3a5c531da",
+  "name" : "test_get_user_dingDingDeptDetail[deptId=-241951934]",
+  "time" : {
+    "start" : 1584417363401,
+    "stop" : 1584417363490,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e00cb64df9141efb",
+  "name" : "test_get_user_dingDingUser[userId=-manager2564-id为曹林]",
+  "time" : {
+    "start" : 1584417363191,
+    "stop" : 1584417363413,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d501c1b5990c07ae",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-7953655071]",
+  "time" : {
+    "start" : 1584417364552,
+    "stop" : 1584417364566,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "60fb08afc5dd7a15",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-241570938]",
+  "time" : {
+    "start" : 1584417363948,
+    "stop" : 1584417364017,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1f912b695fdbe9a",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-911240948]",
+  "time" : {
+    "start" : 1584417364453,
+    "stop" : 1584417364469,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ac9e4525c3279e05",
+  "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365527]",
+  "time" : {
+    "start" : 1584417364126,
+    "stop" : 1584417364140,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "266fc3514cdb61f0",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-28373101361631065137-id为严亮]",
+  "time" : {
+    "start" : 1584417365001,
+    "stop" : 1584417365338,
+    "duration" : 337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "916f59b58b89d74c",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-061052015035430487-id为谢玉霞]",
+  "time" : {
+    "start" : 1584417364999,
+    "stop" : 1584417365402,
+    "duration" : 403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32c1b9e706199c0e",
+  "name" : "test_get_user_dindDingDeptMember[deptId=-236295909]",
+  "time" : {
+    "start" : 1584417363801,
+    "stop" : 1584417363864,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e2e198cf35a3381",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-]",
+  "time" : {
+    "start" : 1584417371855,
+    "stop" : 1584417372750,
+    "duration" : 895
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5719c4758af8497",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营1]",
+  "time" : {
+    "start" : 1584417369177,
+    "stop" : 1584417369569,
+    "duration" : 392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

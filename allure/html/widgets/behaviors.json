@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "1e7bf4a64c455e8f9f5d8b1c665d881d",
+    "name" : "钉钉",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 11
+    }
+  } ]
+}

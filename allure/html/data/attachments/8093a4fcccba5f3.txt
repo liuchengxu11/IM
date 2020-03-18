@@ -1,0 +1,7 @@
+{
+    "errcode": 0,
+    "userIds": [
+        "manager2564"
+    ],
+    "errmsg": "ok"
+}

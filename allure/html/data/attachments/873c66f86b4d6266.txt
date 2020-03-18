@@ -1,0 +1,47 @@
+{
+    "errcode": 0,
+    "unionid": "cdAkiPGbklJUoK8t2iPTX9NgiEiE",
+    "openId": "cdAkiPGbklJUoK8t2iPTX9NgiEiE",
+    "roles": [
+        {
+            "id": 795365507,
+            "name": "主管理员",
+            "groupName": "默认",
+            "type": 101
+        },
+        {
+            "id": 911587957,
+            "name": "BD",
+            "groupName": "招商"
+        },
+        {
+            "id": 947684115,
+            "name": "VP",
+            "groupName": "招商"
+        }
+    ],
+    "remark": "",
+    "userid": "061052015035430487",
+    "isLeaderInDepts": "{267097103:false}",
+    "isBoss": false,
+    "isSenior": false,
+    "tel": "",
+    "department": [
+        267097103
+    ],
+    "workPlace": "",
+    "email": "",
+    "orderInDepts": "{267097103:176333525480801512}",
+    "mobile": "16621176307",
+    "errmsg": "ok",
+    "active": true,
+    "avatar": "https://static-legacy.dingtalk.com/media/lADPDgQ9rtAl4dbNAtDNAtA_720_720.jpg",
+    "isAdmin": true,
+    "tags": {},
+    "isHide": false,
+    "jobnumber": "",
+    "name": "谢玉霞",
+    "extattr": {},
+    "stateCode": "86",
+    "position": ""
+}

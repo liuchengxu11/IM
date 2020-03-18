@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "269e4b5ad0ab1fd2f9effa6eb51eb02e",
+    "name" : "TestSuite.im_select_dept_role",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 83,
+      "skipped" : 0,
+      "passed" : 98,
+      "unknown" : 0,
+      "total" : 181
+    }
+  } ]
+}

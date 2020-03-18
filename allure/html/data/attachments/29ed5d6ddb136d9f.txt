@@ -1,0 +1,22 @@
+{
+    "errcode": 0,
+    "userPermits": "",
+    "userPerimits": "",
+    "orgDeptOwner": "3040650629946683",
+    "outerDept": false,
+    "errmsg": "ok",
+    "deptManagerUseridList": "",
+    "parentid": 242129987,
+    "groupContainSubDept": false,
+    "outerPermitUsers": "",
+    "outerPermitDepts": "",
+    "deptPerimits": "",
+    "createDeptGroup": true,
+    "name": "广州战营",
+    "deptGroupChatId": "chatfea0f78c698f81672ad656d770e835d0",
+    "id": 241754918,
+    "autoAddUser": true,
+    "deptHiding": false,
+    "deptPermits": "",
+    "order": 241754918
+}

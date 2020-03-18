@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "desc": "成功",
+    "data": [
+        {
+            "deptName": "杭州战营工作组1",
+            "roleName": null,
+            "mobile": "15618226315",
+            "userName": "小猪猪",
+            "userId": "014564284523591311",
+            "email": null
+        }
+    ]
+}

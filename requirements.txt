@@ -82,7 +82,7 @@ python-dateutil==2.8.0
 PyYAML==3.12
 pyzmq==18.1.0
 qtconsole==4.5.5
-requests==2.18.4
+requests==2.20.0
 requests-toolbelt==0.9.1
 selenium==3.141.0
 Send2Trash==1.5.0

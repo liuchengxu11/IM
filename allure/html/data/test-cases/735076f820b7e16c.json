@@ -1,0 +1,125 @@
+{
+  "uid" : "735076f820b7e16c",
+  "name" : "test_get_user_dindDingGetUserLeader[userId=-abc-userId错误]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dindDingGetUserLeader[userId=-abc-userId错误]",
+  "historyId" : "41787e307c7b8599c432fc5af06ca04c",
+  "time" : {
+    "start" : 1584590788038,
+    "stop" : 1584590788130,
+    "duration" : 92
+  },
+  "description" : "\n        钉钉-获取用户上级详情\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取用户上级详情\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1584590788038,
+      "stop" : 1584590788038,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取用户上级详情\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea933e1c8504d478",
+      "name" : "地址",
+      "source" : "ea933e1c8504d478.txt",
+      "type" : "text/plain",
+      "size" : 73
+    }, {
+      "uid" : "646b13bd4596fe36",
+      "name" : "请求头",
+      "source" : "646b13bd4596fe36.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "cb6bbdbcee97a0d5",
+      "name" : "响应",
+      "source" : "cb6bbdbcee97a0d5.txt",
+      "type" : "text/plain",
+      "size" : 207
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取用户上级详情"
+  }, {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "57327-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "'userId错误'"
+  }, {
+    "name" : "test1",
+    "value" : "'userId='"
+  }, {
+    "name" : "test2",
+    "value" : "'abc'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f4b7e56440785e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1584514476638,
+        "stop" : 1584514476705,
+        "duration" : 67
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "735076f820b7e16c.json",
+  "parameterValues" : [ "'userId错误'", "'userId='", "'abc'" ]
+}

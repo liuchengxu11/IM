@@ -1,0 +1,143 @@
+{
+    "data": [
+        {
+            "deptName": "广州战营",
+            "roleName": [
+                {
+                    "groupName": "默认",
+                    "name": "子管理员",
+                    "id": 795365508,
+                    "type": 102
+                },
+                {
+                    "groupName": "招商",
+                    "name": "VP",
+                    "id": 947684115
+                }
+            ],
+            "mobile": "18616335314",
+            "userName": "王琦",
+            "userId": "3040650629946683",
+            "email": ""
+        },
+        {
+            "deptName": "广州战团",
+            "roleName": [
+                {
+                    "groupName": "招商",
+                    "name": "CM",
+                    "id": 947651132
+                }
+            ],
+            "mobile": "15616163623",
+            "userName": "石城榕",
+            "userId": "133744432730233274",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roleName": [
+                {
+                    "groupName": "默认",
+                    "name": "主管理员",
+                    "id": 795365507,
+                    "type": 101
+                },
+                {
+                    "groupName": "招商",
+                    "name": "BD",
+                    "id": 911587957
+                },
+                {
+                    "groupName": "招商",
+                    "name": "VP",
+                    "id": 947684115
+                }
+            ],
+            "mobile": "16621176307",
+            "userName": "谢玉霞",
+            "userId": "061052015035430487",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roleName": [
+                {
+                    "groupName": "招商",
+                    "name": "BD",
+                    "id": 911587957
+                }
+            ],
+            "mobile": "18298010327",
+            "userName": "尹文生",
+            "userId": "016147136723523953",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roleName": null,
+            "mobile": "19945602656",
+            "userName": "田汉林",
+            "userId": "051158164929715870",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roleName": [
+                {
+                    "groupName": "招商",
+                    "name": "BD",
+                    "id": 911587957
+                }
+            ],
+            "mobile": "15921856482",
+            "userName": "张婷婷",
+            "userId": "043459222324143360",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roleName": [
+                {
+                    "groupName": "默认",
+                    "name": "子管理员",
+                    "id": 795365508,
+                    "type": 102
+                },
+                {
+                    "groupName": "招商",
+                    "name": "BD",
+                    "id": 911587957
+                }
+            ],
+            "mobile": "18662814157",
+            "userName": "顾文浩",
+            "userId": "070559590238349248",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roleName": [
+                {
+                    "groupName": "默认",
+                    "name": "子管理员",
+                    "id": 795365508,
+                    "type": 102
+                },
+                {
+                    "groupName": "招商",
+                    "name": "BD",
+                    "id": 911587957
+                }
+            ],
+            "mobile": "18217228018",
+            "userName": "谢中星",
+            "userId": "105312386535121460",
+            "email": ""
+        }
+    ],
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584590793
+}

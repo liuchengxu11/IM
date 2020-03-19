@@ -1,0 +1,7 @@
+{
+    "data": null,
+    "code": 500,
+    "desc": "SYSTEM_CALL_FAILED",
+    "info": "{\"errcode\":41,\"errmsg\":\"Invalid arguments:roleId\",\"request_id\":\"6ntb72l2ri3b\"}",
+    "ts": 1584590788
+}

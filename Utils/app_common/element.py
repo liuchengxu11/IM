@@ -1,11 +1,13 @@
+from utils.app_common import appium_driver
 class Element:
     """
     封装Appium中关于元素对象的方法
     """
 
     def __init__(self):
-        at = AppiumTest()
-        self.driver = at.get_driver()
+        ar = appium_driver.driver
+        self.driver=ar.androiddriver()
+
 
     def get_id(self, id):
         element = self.driver.find_element_by_id(id)
@@ -15,6 +17,13 @@ class Element:
         element = self.driver.find_element_by_name(name)
         return element
 
+    def get_xpath(self, xpath):
+        element = self.driver.find_element_by_xpath(xpath)
+        return element
+
+    def get_class(self, classesname):
+        elements = self.driver.find_elements_by_class_name(classesname)
+        return elements
     def over(self):
         element = self.driver.quit()
         return element
@@ -53,16 +62,4 @@ class Element:
     def back(self):
         self.driver.keyevent(4)
 
-    def get_classes(self, classesname):
-        elements = self.driver.find_elements_by_class_name(classesname)
-        return elements
 
-    def get_ids(self, ids):
-        elements = self.driver.find_elements_by_id(ids)
-        return elements
-
-    def switch_h5(self):
-        self.driver.execute(MobileCommand.SWITCH_TO_CONTEXT, {"name": "WEBVIEW_com.weizq"})
-
-    def switch_app(self):
-        self.driver.execute(MobileCommand.SWITCH_TO_CONTEXT, {"name": "NATIVE_APP"})

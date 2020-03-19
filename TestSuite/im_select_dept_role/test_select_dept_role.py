@@ -35,8 +35,8 @@ class Test_case():
             indent=4), "响应", allure.attachment_type.TEXT)
         print(response.text)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
-        code2 = json.loads(response.text)["errmsg"]
+        code1 = json.loads(response.text)["code"]
+        code2 = json.loads(response.text)["desc"]
         if code == 200 and code1 == 0 and code2 == "ok":
             print("——————————/api/user/dingDingDept调用成功")
         else:
@@ -71,8 +71,8 @@ class Test_case():
         allure.attach(json.dumps(response.json(), ensure_ascii=False,
                                  indent=4), "响应", allure.attachment_type.TEXT)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
-        code2 = json.loads(response.text)["errmsg"]
+        code1 = json.loads(response.text)["code"]
+        code2 = json.loads(response.text)["desc"]
         if code == 200 and code1 == 0 and code2 == "ok":
             print("---------/api/user/dingDingUser接口调用成功")
         else:
@@ -101,8 +101,8 @@ class Test_case():
         allure.attach(json.dumps(response.json(), ensure_ascii=False,
                                  indent=4), "响应", allure.attachment_type.TEXT)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
-        code2 = json.loads(response.text)["errmsg"]
+        code1 = json.loads(response.text)["code"]
+        code2 = json.loads(response.text)["desc"]
         if code == 200 and code1 == 0 and code2 == "ok":
             print("---------/api/user/dingDingDeptDetail接口调用成功")
         else:
@@ -131,8 +131,8 @@ class Test_case():
         allure.attach(json.dumps(response.json(), ensure_ascii=False,
                                  indent=4), "响应", allure.attachment_type.TEXT)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
-        code2 = json.loads(response.text)["errmsg"]
+        code1 = json.loads(response.text)["code"]
+        code2 = json.loads(response.text)["desc"]
         if code == 200 and code1 == 0 and code2 == "ok":
             print("---------/api/user/dingDingDeptMember接口调用成功")
         else:
@@ -152,16 +152,18 @@ class Test_case():
             headers,
             ensure_ascii=False,
             indent=4), "请求头", allure.attachment_type.TEXT)
+        data={}
         common = Common()
         response = common.post(
             uri,
+            data=data,
             params1=test1,
             params2=test2,
             headers=headers)
         allure.attach(json.dumps(response.json(), ensure_ascii=False,
                                  indent=4), "响应", allure.attachment_type.TEXT)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
+        code1 = json.loads(response.text)["code"]
 
         if code == 200 and code1 == 0:
             print("---------/api/user/dingDingRoleStaffList接口调用成功")
@@ -182,16 +184,18 @@ class Test_case():
             headers,
             ensure_ascii=False,
             indent=4), "请求头", allure.attachment_type.TEXT)
+        data={}
         common = Common()
         response = common.post(
             uri,
+            data=data,
             params1=test1,
             params2=test2,
             headers=headers)
         allure.attach(json.dumps(response.json(), ensure_ascii=False,
                                  indent=4), "响应", allure.attachment_type.TEXT)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
+        code1 = json.loads(response.text)["code"]
 
         if code == 200 and code1 == 0:
             print("---------/api/user/dingDingRoleDetail接口调用成功")
@@ -200,8 +204,8 @@ class Test_case():
 
     @allure.epic("钉钉")
     @allure.feature("获取角色列表")
-    @pytest.mark.parametrize("test1,test2", DingDing_deptId)
-    def test_post_user_dingDingRoleList(self, test1, test2):
+
+    def test_post_user_dingDingRoleList(self):
         """
         钉钉-获取角色列表
         """
@@ -212,16 +216,16 @@ class Test_case():
             headers,
             ensure_ascii=False,
             indent=4), "请求头", allure.attachment_type.TEXT)
+        data={}
         common = Common()
         response = common.post(
             uri,
-            params1=test1,
-            params2=test2,
+            data=data,
             headers=headers)
         allure.attach(json.dumps(response.json(), ensure_ascii=False,
                                  indent=4), "响应", allure.attachment_type.TEXT)
         code = int(response.status_code)
-        code1 = json.loads(response.text)["errcode"]
+        code1 = json.loads(response.text)["code"]
 
         if code == 200 and code1 == 0:
             print("---------/api/user/dingDingRoleList接口调用成功")

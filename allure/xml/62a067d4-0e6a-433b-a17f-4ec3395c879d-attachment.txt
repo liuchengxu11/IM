@@ -1,0 +1,14 @@
+{
+    "data": {
+        "errcode": 0,
+        "role": {
+            "groupId": 887742286,
+            "name": "BDM"
+        },
+        "request_id": "6ha5x6eibarg"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514476
+}

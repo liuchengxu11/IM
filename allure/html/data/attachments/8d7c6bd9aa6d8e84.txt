@@ -1,0 +1,14 @@
+{
+    "data": {
+        "errcode": 0,
+        "role": {
+            "groupId": 795365511,
+            "name": "研发"
+        },
+        "request_id": "2yd5c4qi3yxu"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514476
+}

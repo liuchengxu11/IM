@@ -1,0 +1,14 @@
+{
+    "data": {
+        "errcode": 0,
+        "role": {
+            "groupId": 887742286,
+            "name": "DM"
+        },
+        "request_id": "rss3detm16j9"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514476
+}

@@ -1,0 +1,19 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "name": "谢玉霞",
+                    "userid": "061052015035430487"
+                }
+            ]
+        },
+        "request_id": "uuegzaqglip8"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514476
+}

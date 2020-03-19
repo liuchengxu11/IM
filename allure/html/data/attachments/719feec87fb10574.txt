@@ -1,0 +1,38 @@
+{
+    "data": {
+        "errcode": 0,
+        "unionid": "ItbdTV89BXXKVFiirfRPChgiEiE",
+        "orderInDepts": "{1:176333800080417512}",
+        "openId": "ItbdTV89BXXKVFiirfRPChgiEiE",
+        "roles": [
+            {
+                "id": 795365508,
+                "name": "子管理员",
+                "groupName": "默认",
+                "type": 102
+            }
+        ],
+        "mobile": "13120681675",
+        "errmsg": "ok",
+        "active": true,
+        "avatar": "",
+        "isAdmin": true,
+        "userid": "120048633333525706",
+        "tags": {},
+        "isHide": false,
+        "isLeaderInDepts": "{1:false}",
+        "isBoss": false,
+        "isSenior": false,
+        "name": "蔡延伟",
+        "extattr": {},
+        "stateCode": "86",
+        "position": "",
+        "department": [
+            1
+        ]
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514475
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "errcode": 0,
+        "userPermits": "",
+        "userPerimits": "",
+        "orgDeptOwner": "043459222324143360",
+        "outerDept": false,
+        "errmsg": "ok",
+        "deptManagerUseridList": "",
+        "parentid": 240450889,
+        "groupContainSubDept": false,
+        "outerPermitUsers": "",
+        "outerPermitDepts": "",
+        "deptPerimits": "",
+        "createDeptGroup": true,
+        "name": "杭州战营工作组2",
+        "deptGroupChatId": "chat3eb08739e47843d74506325963c4b073",
+        "id": 242044930,
+        "autoAddUser": true,
+        "deptHiding": false,
+        "deptPermits": "",
+        "order": 242044930
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514475
+}

@@ -1,0 +1,35 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "manageScopes": [
+                        {
+                            "dept_id": 267097103,
+                            "name": "工作组"
+                        }
+                    ],
+                    "name": "刘程旭",
+                    "userid": "102013620721191002"
+                },
+                {
+                    "manageScopes": [
+                        {
+                            "dept_id": 224110056,
+                            "name": "东部军区"
+                        }
+                    ],
+                    "name": "李建",
+                    "userid": "1926033541844140"
+                }
+            ]
+        },
+        "request_id": "whz6x6c3i4kr"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584590786
+}

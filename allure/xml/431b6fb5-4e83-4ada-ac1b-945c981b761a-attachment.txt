@@ -1,0 +1,28 @@
+{
+    "data": {
+        "errcode": 0,
+        "userPermits": "",
+        "userPerimits": "",
+        "orgDeptOwner": "manager2564",
+        "outerDept": false,
+        "errmsg": "ok",
+        "deptManagerUseridList": "",
+        "parentid": 222994918,
+        "groupContainSubDept": false,
+        "outerPermitUsers": "",
+        "outerPermitDepts": "",
+        "deptPerimits": "",
+        "createDeptGroup": true,
+        "name": "东部军区",
+        "deptGroupChatId": "chat3ad9c23a8fe2e00b746ecd427b2e68ec",
+        "id": 224110056,
+        "autoAddUser": true,
+        "deptHiding": false,
+        "deptPermits": "",
+        "order": 1
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584590785
+}

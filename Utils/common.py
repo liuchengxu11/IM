@@ -29,7 +29,7 @@ class Common(object):
                 print(url)
         else:
             url = self.url + uri
-        if len(data) > 0:
+        if data is not None:
             res = requests.post(url, data=json.dumps(data), headers=headers)
         else:
             res = requests.post(url, headers=headers)

@@ -5,11 +5,11 @@
     "name" : "TestSuite.im_select_dept_role",
     "statistic" : {
       "failed" : 0,
-      "broken" : 83,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 98,
+      "passed" : 161,
       "unknown" : 0,
-      "total" : 181
+      "total" : 161
     }
   } ]
 }

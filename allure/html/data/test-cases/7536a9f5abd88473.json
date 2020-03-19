@@ -1,0 +1,112 @@
+{
+  "uid" : "7536a9f5abd88473",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-南部军区]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingDeptUserList[deptName=-南部军区]",
+  "historyId" : "dd5c5c4d358c083bf8fc6f068e150ee7",
+  "time" : {
+    "start" : 1584514481823,
+    "stop" : 1584514483887,
+    "duration" : 2064
+  },
+  "description" : "\n        钉钉-获取部门下所有员工\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取部门下所有员工\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1584514481822,
+      "stop" : 1584514481822,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取部门下所有员工\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7fa3cc58a82e140c",
+      "name" : "地址",
+      "source" : "7fa3cc58a82e140c.txt",
+      "type" : "text/plain",
+      "size" : 72
+    }, {
+      "uid" : "ba1fc067047c64f4",
+      "name" : "请求头",
+      "source" : "ba1fc067047c64f4.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "c3ad25b7880d3566",
+      "name" : "响应",
+      "source" : "c3ad25b7880d3566.txt",
+      "type" : "text/plain",
+      "size" : 3798
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "feature",
+    "value" : "获取部门下所有员工"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "52769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test1",
+    "value" : "'deptName='"
+  }, {
+    "name" : "test2",
+    "value" : "'南部军区'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7536a9f5abd88473.json",
+  "parameterValues" : [ "'deptName='", "'南部军区'" ]
+}

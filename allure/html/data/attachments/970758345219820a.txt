@@ -1,0 +1,69 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "manageScopes": [],
+                    "name": "隼行（测试小号 BDM）",
+                    "userid": "64255019281231120"
+                },
+                {
+                    "manageScopes": [
+                        {
+                            "dept_id": 242129987,
+                            "name": "广州战团"
+                        },
+                        {
+                            "dept_id": 241141885,
+                            "name": "山东战区"
+                        }
+                    ],
+                    "name": "曹林",
+                    "userid": "manager2564"
+                },
+                {
+                    "manageScopes": [],
+                    "name": "张婷婷",
+                    "userid": "043459222324143360"
+                },
+                {
+                    "manageScopes": [],
+                    "name": "谢中星",
+                    "userid": "105312386535121460"
+                },
+                {
+                    "manageScopes": [],
+                    "name": "顾文浩",
+                    "userid": "070559590238349248"
+                },
+                {
+                    "manageScopes": [],
+                    "name": "尹文生",
+                    "userid": "016147136723523953"
+                },
+                {
+                    "manageScopes": [
+                        {
+                            "dept_id": 240730909,
+                            "name": "福建战区"
+                        }
+                    ],
+                    "name": "谢玉霞",
+                    "userid": "061052015035430487"
+                },
+                {
+                    "manageScopes": [],
+                    "name": "秦加虎",
+                    "userid": "185324170630679060"
+                }
+            ]
+        },
+        "request_id": "5kov0l7zqdrn"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584590786
+}

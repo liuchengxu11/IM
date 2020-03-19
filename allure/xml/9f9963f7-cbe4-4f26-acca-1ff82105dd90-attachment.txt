@@ -1,0 +1,31 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "name": "王琦",
+                    "userid": "3040650629946683"
+                },
+                {
+                    "name": "miya",
+                    "userid": "03023251483351972"
+                },
+                {
+                    "name": "严亮(Yan,Liang)",
+                    "userid": "28373101361631065137"
+                },
+                {
+                    "name": "谢玉霞",
+                    "userid": "061052015035430487"
+                }
+            ]
+        },
+        "request_id": "z6st0db4g0uk"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584590786
+}

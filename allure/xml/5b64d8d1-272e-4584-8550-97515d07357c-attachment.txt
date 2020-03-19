@@ -1,0 +1,14 @@
+{
+    "data": {
+        "errcode": 0,
+        "role": {
+            "groupId": 795365522,
+            "name": "经理"
+        },
+        "request_id": "o7x3iamazdiy"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584590787
+}

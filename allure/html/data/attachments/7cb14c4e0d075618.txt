@@ -1,0 +1,42 @@
+{
+    "data": {
+        "errcode": 0,
+        "unionid": "vkAzno4xtORFiS39ViP5AJZAiEiE",
+        "openId": "vkAzno4xtORFiS39ViP5AJZAiEiE",
+        "roles": [
+            {
+                "id": 947651132,
+                "name": "CM",
+                "groupName": "招商"
+            }
+        ],
+        "remark": "",
+        "userid": "133744432730233274",
+        "isLeaderInDepts": "{242129987:false}",
+        "isBoss": false,
+        "isSenior": false,
+        "tel": "",
+        "department": [
+            242129987
+        ],
+        "workPlace": "",
+        "email": "",
+        "orderInDepts": "{242129987:176333528974196512}",
+        "mobile": "15616163623",
+        "errmsg": "ok",
+        "active": true,
+        "avatar": "https://static-legacy.dingtalk.com/media/lADPDgQ9rVFu7SLNBDvNBDg_1080_1083.jpg",
+        "isAdmin": false,
+        "tags": {},
+        "isHide": false,
+        "jobnumber": "",
+        "name": "石城榕",
+        "extattr": {},
+        "stateCode": "86",
+        "position": ""
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1584514475
+}

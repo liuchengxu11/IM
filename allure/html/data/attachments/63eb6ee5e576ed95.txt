@@ -1,0 +1,7 @@
+{
+    "data": null,
+    "code": 500,
+    "desc": "SYSTEM_CALL_FAILED",
+    "info": "{\"errcode\":60003,\"errmsg\":\"部门不存在\"}",
+    "ts": 1585107682
+}

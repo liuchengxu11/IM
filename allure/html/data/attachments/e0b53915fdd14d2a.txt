@@ -1,0 +1,36 @@
+{
+    "data": {
+        "userId": "manager2564",
+        "userName": "曹林",
+        "workPlace": "",
+        "remark": "",
+        "mobile": "13120691712",
+        "email": "caolin@sunxing.net",
+        "deptVos": [
+            {
+                "deptId": "224110056",
+                "deptName": "东部军区"
+            }
+        ],
+        "position": "",
+        "avatar": "https://static-legacy.dingtalk.com/media/lADPD2eDJx2SBa7NAu_NAu4_750_751.jpg",
+        "roles": [
+            {
+                "roleId": "795365508",
+                "roleName": "子管理员",
+                "groupName": "默认",
+                "type": null
+            },
+            {
+                "roleId": "911587957",
+                "roleName": "BD",
+                "groupName": "招商",
+                "type": null
+            }
+        ]
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107682
+}

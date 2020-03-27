@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "deptId": "267097103",
+            "deptName": "工作组",
+            "userList": [
+                {
+                    "userId": "016147136723523953",
+                    "userName": "尹文生",
+                    "roles": [
+                        {
+                            "roleId": "911587957",
+                            "roleName": "BD",
+                            "groupName": "招商",
+                            "type": null
+                        }
+                    ],
+                    "avatar": "https://static-legacy.dingtalk.com/media/lADPBbCc1e1suhnNBCbNBGU_1125_1062.jpg"
+                },
+                {
+                    "userId": "051158164929715870",
+                    "userName": "田汉林",
+                    "roles": [],
+                    "avatar": "https://static-legacy.dingtalk.com/media/lADORTQK-s0BIs0CgA_640_290.jpg"
+                },
+                {
+                    "userId": "070559590238349248",
+                    "userName": "顾文浩",
+                    "roles": [
+                        {
+                            "roleId": "795365508",
+                            "roleName": "子管理员",
+                            "groupName": "默认",
+                            "type": null
+                        },
+                        {
+                            "roleId": "911587957",
+                            "roleName": "BD",
+                            "groupName": "招商",
+                            "type": null
+                        }
+                    ],
+                    "avatar": ""
+                },
+                {
+                    "userId": "105312386535121460",
+                    "userName": "谢中星",
+                    "roles": [
+                        {
+                            "roleId": "795365508",
+                            "roleName": "子管理员",
+                            "groupName": "默认",
+                            "type": null
+                        },
+                        {
+                            "roleId": "911587957",
+                            "roleName": "BD",
+                            "groupName": "招商",
+                            "type": null
+                        }
+                    ],
+                    "avatar": "https://static-legacy.dingtalk.com/media/lADPDgQ9robrWmvM3Mzd_221_220.jpg"
+                }
+            ],
+            "childDeptVo": []
+        },
+        {
+            "deptId": "276939380",
+            "deptName": "广州战营工作组2",
+            "userList": null,
+            "childDeptVo": []
+        }
+    ],
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107692
+}

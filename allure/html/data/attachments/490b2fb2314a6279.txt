@@ -1,0 +1,28 @@
+{
+    "data": {
+        "errcode": 0,
+        "userPermits": "",
+        "userPerimits": "",
+        "orgDeptOwner": "3040650629946683",
+        "outerDept": false,
+        "errmsg": "ok",
+        "deptManagerUseridList": "",
+        "parentid": 236295909,
+        "groupContainSubDept": false,
+        "outerPermitUsers": "",
+        "outerPermitDepts": "",
+        "deptPerimits": "",
+        "createDeptGroup": true,
+        "name": "浙江战区",
+        "deptGroupChatId": "chat2a4b2003691c77d62c5947ea92c7baaf",
+        "id": 242358873,
+        "autoAddUser": true,
+        "deptHiding": false,
+        "deptPermits": "",
+        "order": 242358873
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107683
+}

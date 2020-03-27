@@ -1,0 +1,14 @@
+{
+    "data": {
+        "errcode": 0,
+        "role": {
+            "groupId": 795365522,
+            "name": "部长"
+        },
+        "request_id": "xruewzn6h4tw"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107683
+}

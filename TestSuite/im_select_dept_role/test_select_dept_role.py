@@ -350,8 +350,35 @@ class Test_case():
         else:
             print("---------/api/user/dingDingDeptList接口调用失败")
 
+    @allure.epic("钉钉")
+    @allure.feature("获取当前登录人树形菜单")
+    @pytest.mark.parametrize("test1,test2,case", DingDing_userid)
+    def test_get_user_dingDingUserTree(self, test1, test2, case):
+        """
+        钉钉-获取当前的扽路人树形菜单
+        """
+        uri = "/api/user/dingDingUserTree"
+        allure.attach(SX_IM_API + uri, "地址", allure.attachment_type.TEXT)
+        headers = Login_Headers
+        allure.attach(json.dumps(
+            headers,
+            ensure_ascii=False,
+            indent=4), "请求头", allure.attachment_type.TEXT)
+        common = Common()
+        response = common.get(
+            uri,
+            params1=test1,
+            params2=test2,
+            headers=headers)
+        allure.attach(json.dumps(response.json(), ensure_ascii=False,
+                                 indent=4), "响应", allure.attachment_type.TEXT)
+        code = int(response.status_code)
+        code1 = json.loads(response.text)["code"]
 
-
+        if code == 200 and str(code1 == 200):
+            print("---------/api/user/dingDingUserTree接口调用成功")
+        else:
+            print("---------/api/user/dingDingUserTree接口调用失败")
 
     # @allure.epic("IM消息中心")
     # @allure.feature("发送消息接口")

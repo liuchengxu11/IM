@@ -1,0 +1,492 @@
+{
+    "data": [
+        {
+            "deptName": "南部军区",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "941504101",
+                    "roleName": "DM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "236295909",
+            "mobile": "17317937115",
+            "userName": "刘程旭",
+            "userId": "102013620721191002",
+            "email": ""
+        },
+        {
+            "deptName": "东部军区",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "BD",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "224110056",
+            "mobile": "13120691712",
+            "userName": "曹林",
+            "userId": "manager2564",
+            "email": "caolin@sunxing.net"
+        },
+        {
+            "deptName": "城市招商部",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "947684115",
+                    "roleName": "VP",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "222994918",
+            "mobile": "13788957116",
+            "userName": "严亮(Yan,Liang)",
+            "userId": "28373101361631065137",
+            "email": ""
+        },
+        {
+            "deptName": "客户管理中心",
+            "roles": [],
+            "deptId": "222420918",
+            "mobile": "13023185060",
+            "userName": "孙鸣",
+            "userId": "1806493113765418",
+            "email": ""
+        },
+        {
+            "deptName": "广州战营",
+            "roles": [
+                {
+                    "roleId": "795365507",
+                    "roleName": "主管理员",
+                    "groupName": "默认",
+                    "type": null
+                }
+            ],
+            "deptId": "241754918",
+            "mobile": "16621176307",
+            "userName": "谢玉霞",
+            "userId": "061052015035430487",
+            "email": ""
+        },
+        {
+            "deptName": "广州战营",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911240948",
+                    "roleName": "BDM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "241754918",
+            "mobile": "18616335314",
+            "userName": "王琦",
+            "userId": "3040650629946683",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "BD",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "267097103",
+            "mobile": "18298010327",
+            "userName": "尹文生",
+            "userId": "016147136723523953",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roles": [],
+            "deptId": "267097103",
+            "mobile": "19945602656",
+            "userName": "田汉林",
+            "userId": "051158164929715870",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "BD",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "267097103",
+            "mobile": "18662814157",
+            "userName": "顾文浩",
+            "userId": "070559590238349248",
+            "email": ""
+        },
+        {
+            "deptName": "工作组",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "BD",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "267097103",
+            "mobile": "18217228018",
+            "userName": "谢中星",
+            "userId": "105312386535121460",
+            "email": ""
+        },
+        {
+            "deptName": "供应链部",
+            "roles": [
+                {
+                    "roleId": "1143464275",
+                    "roleName": "经理",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "294097546",
+            "mobile": "15616163623",
+            "userName": "石城榕",
+            "userId": "133744432730233274",
+            "email": ""
+        },
+        {
+            "deptName": "供应链部",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "1143464275",
+                    "roleName": "经理",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "294097546",
+            "mobile": "13120681675",
+            "userName": "蔡延伟",
+            "userId": "120048633333525706",
+            "email": ""
+        },
+        {
+            "deptName": "供应链部",
+            "roles": [
+                {
+                    "roleId": "1143386391",
+                    "roleName": "主管",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "294097546",
+            "mobile": "15921856482",
+            "userName": "张婷婷",
+            "userId": "043459222324143360",
+            "email": ""
+        },
+        {
+            "deptName": "供应链部",
+            "roles": [
+                {
+                    "roleId": "1146604752",
+                    "roleName": "总监",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "294097546",
+            "mobile": "17611505200",
+            "userName": "姚超凡",
+            "userId": "151634386123248982",
+            "email": ""
+        },
+        {
+            "deptName": "物流部",
+            "roles": [
+                {
+                    "roleId": "1143464275",
+                    "roleName": "经理",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "299208911",
+            "mobile": "15801803774",
+            "userName": "张薇",
+            "userId": "1054372062789095",
+            "email": ""
+        },
+        {
+            "deptName": "物流部",
+            "roles": [
+                {
+                    "roleId": "1143532141",
+                    "roleName": "组长",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "299208911",
+            "mobile": "13817544730",
+            "userName": "徐君雄",
+            "userId": "010800234624215961",
+            "email": ""
+        },
+        {
+            "deptName": "隼行测试",
+            "roles": [
+                {
+                    "roleId": "795365524",
+                    "roleName": "经理",
+                    "groupName": "岗位",
+                    "type": null
+                }
+            ],
+            "deptId": "1",
+            "mobile": "13166227065",
+            "userName": "陈昊",
+            "userId": "10162745201218754",
+            "email": ""
+        },
+        {
+            "deptName": "隼行测试",
+            "roles": [
+                {
+                    "roleId": "795365524",
+                    "roleName": "经理",
+                    "groupName": "岗位",
+                    "type": null
+                }
+            ],
+            "deptId": "1",
+            "mobile": "13166227065",
+            "userName": "陈昊",
+            "userId": "10162745201218754",
+            "email": ""
+        },
+        {
+            "deptName": "隼行测试",
+            "roles": [
+                {
+                    "roleId": "795365523",
+                    "roleName": "普通员工",
+                    "groupName": "岗位",
+                    "type": null
+                }
+            ],
+            "deptId": "1",
+            "mobile": "13524739425",
+            "userName": "陈钊",
+            "userId": "01296408271230658",
+            "email": ""
+        },
+        {
+            "deptName": "隼行测试",
+            "roles": [
+                {
+                    "roleId": "795365523",
+                    "roleName": "普通员工",
+                    "groupName": "岗位",
+                    "type": null
+                }
+            ],
+            "deptId": "1",
+            "mobile": "13524739425",
+            "userName": "陈钊",
+            "userId": "01296408271230658",
+            "email": ""
+        },
+        {
+            "deptName": "采购部",
+            "roles": [
+                {
+                    "roleId": "1143105662",
+                    "roleName": "专员",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "300049882",
+            "mobile": "18736373830",
+            "userName": "孙光磊",
+            "userId": "035820355723148986",
+            "email": ""
+        },
+        {
+            "deptName": "采购部",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "1143464275",
+                    "roleName": "经理",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "300049882",
+            "mobile": "13795213836",
+            "userName": "周东亮",
+            "userId": "2167675321405306",
+            "email": ""
+        },
+        {
+            "deptName": "研发部",
+            "roles": [
+                {
+                    "roleId": "1143532141",
+                    "roleName": "组长",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "300206255",
+            "mobile": "18616752013",
+            "userName": "武西亮",
+            "userId": "140420684527533045",
+            "email": ""
+        },
+        {
+            "deptName": "研发部",
+            "roles": [
+                {
+                    "roleId": "1143532141",
+                    "roleName": "组长",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "300206255",
+            "mobile": "18616752013",
+            "userName": "武西亮",
+            "userId": "140420684527533045",
+            "email": ""
+        },
+        {
+            "deptName": "研发部",
+            "roles": [
+                {
+                    "roleId": "795365524",
+                    "roleName": "经理",
+                    "groupName": "岗位",
+                    "type": null
+                },
+                {
+                    "roleId": "911240948",
+                    "roleName": "BDM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "300206255",
+            "mobile": "13816083660",
+            "userName": "曹雁",
+            "userId": "25220636855784",
+            "email": ""
+        },
+        {
+            "deptName": "研发部",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "1143386391",
+                    "roleName": "主管",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "300206255",
+            "mobile": "15021961279",
+            "userName": "李建",
+            "userId": "1926033541844140",
+            "email": ""
+        },
+        {
+            "deptName": "研发部",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "1143386391",
+                    "roleName": "主管",
+                    "groupName": "供应链",
+                    "type": null
+                }
+            ],
+            "deptId": "300206255",
+            "mobile": "15021961279",
+            "userName": "李建",
+            "userId": "1926033541844140",
+            "email": ""
+        }
+    ],
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107693
+}

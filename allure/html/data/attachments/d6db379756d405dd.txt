@@ -1,0 +1,26 @@
+{
+    "data": {
+        "errcode": 0,
+        "userPermits": "",
+        "userPerimits": "",
+        "outerDept": false,
+        "errmsg": "ok",
+        "deptManagerUseridList": "",
+        "parentid": 242358873,
+        "groupContainSubDept": false,
+        "outerPermitUsers": "",
+        "outerPermitDepts": "",
+        "deptPerimits": "",
+        "createDeptGroup": true,
+        "name": "温州战团",
+        "id": 241974895,
+        "autoAddUser": true,
+        "deptHiding": false,
+        "deptPermits": "",
+        "order": 241974895
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107682
+}

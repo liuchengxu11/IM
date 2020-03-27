@@ -1,0 +1,114 @@
+{
+  "uid" : "1f18ace81c3fe22e",
+  "name" : "test_post_user_dingDingRoleDetail[roleId=-795365512]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_post_user_dingDingRoleDetail[roleId=-795365512]",
+  "historyId" : "f1bbdf1f1d6b54ce636d0f3bd08943fc",
+  "time" : {
+    "start" : 1585107683799,
+    "stop" : 1585107683871,
+    "duration" : 72
+  },
+  "description" : "\n        钉钉-获取角色详情\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取角色详情\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1585107683798,
+      "stop" : 1585107683798,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取角色详情\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2f91d72df918406e",
+      "name" : "地址",
+      "source" : "2f91d72df918406e.txt",
+      "type" : "text/plain",
+      "size" : 70
+    }, {
+      "uid" : "ddc60b1fbb9693be",
+      "name" : "请求头",
+      "source" : "ddc60b1fbb9693be.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "80f5f0a25292da0c",
+      "name" : "响应",
+      "source" : "80f5f0a25292da0c.txt",
+      "type" : "text/plain",
+      "size" : 259
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取角色详情"
+  }, {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "19320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test1",
+    "value" : "'roleId='"
+  }, {
+    "name" : "test2",
+    "value" : "'795365512'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f18ace81c3fe22e.json",
+  "parameterValues" : [ "'roleId='", "'795365512'" ]
+}

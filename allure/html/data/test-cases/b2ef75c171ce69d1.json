@@ -1,0 +1,114 @@
+{
+  "uid" : "b2ef75c171ce69d1",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-宁波战团]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingDeptUserList[deptName=-宁波战团]",
+  "historyId" : "57ff25f36b65de9beb4144990bba3960",
+  "time" : {
+    "start" : 1585107689764,
+    "stop" : 1585107689929,
+    "duration" : 165
+  },
+  "description" : "\n        钉钉-获取部门下所有员工\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取部门下所有员工\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1585107689763,
+      "stop" : 1585107689763,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取部门下所有员工\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d6f95f0c21f002a5",
+      "name" : "地址",
+      "source" : "d6f95f0c21f002a5.txt",
+      "type" : "text/plain",
+      "size" : 72
+    }, {
+      "uid" : "da7167c8591af4ec",
+      "name" : "请求头",
+      "source" : "da7167c8591af4ec.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "a11837213d52003e",
+      "name" : "响应",
+      "source" : "a11837213d52003e.txt",
+      "type" : "text/plain",
+      "size" : 103
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "feature",
+    "value" : "获取部门下所有员工"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "19319-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test1",
+    "value" : "'deptName='"
+  }, {
+    "name" : "test2",
+    "value" : "'宁波战团'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2ef75c171ce69d1.json",
+  "parameterValues" : [ "'deptName='", "'宁波战团'" ]
+}

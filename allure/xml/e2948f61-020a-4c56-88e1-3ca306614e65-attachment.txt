@@ -1,0 +1,28 @@
+{
+    "data": {
+        "errcode": 0,
+        "userPermits": "",
+        "userPerimits": "",
+        "orgDeptOwner": "105312386535121460",
+        "outerDept": false,
+        "errmsg": "ok",
+        "deptManagerUseridList": "",
+        "parentid": 241754918,
+        "groupContainSubDept": false,
+        "outerPermitUsers": "",
+        "outerPermitDepts": "",
+        "deptPerimits": "",
+        "createDeptGroup": true,
+        "name": "工作组",
+        "deptGroupChatId": "chat2a4a7e5abd36cbf6ed0cb12c76d9c565",
+        "id": 267097103,
+        "autoAddUser": true,
+        "deptHiding": false,
+        "deptPermits": "",
+        "order": 267097103
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107682
+}

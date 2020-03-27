@@ -1,0 +1,207 @@
+{
+    "data": {
+        "errcode": 0,
+        "errmsg": "ok",
+        "department": [
+            {
+                "createDeptGroup": true,
+                "name": "隼行测试",
+                "id": 1,
+                "autoAddUser": true
+            },
+            {
+                "createDeptGroup": true,
+                "name": "南部军区",
+                "id": 236295909,
+                "autoAddUser": true,
+                "parentid": 222994918
+            },
+            {
+                "createDeptGroup": true,
+                "name": "东部军区",
+                "id": 224110056,
+                "autoAddUser": true,
+                "parentid": 222994918
+            },
+            {
+                "createDeptGroup": true,
+                "name": "城市招商部",
+                "id": 222994918,
+                "autoAddUser": true,
+                "parentid": 222420918
+            },
+            {
+                "createDeptGroup": true,
+                "name": "客户管理中心",
+                "id": 222420918,
+                "autoAddUser": true,
+                "parentid": 1
+            },
+            {
+                "createDeptGroup": true,
+                "name": "宁波战团",
+                "id": 240405944,
+                "autoAddUser": true,
+                "parentid": 242358873
+            },
+            {
+                "createDeptGroup": true,
+                "name": "杭州战营1",
+                "id": 240450889,
+                "autoAddUser": true,
+                "parentid": 241396898
+            },
+            {
+                "createDeptGroup": true,
+                "name": "福建战区",
+                "id": 240730909,
+                "autoAddUser": true,
+                "parentid": 236295909
+            },
+            {
+                "createDeptGroup": true,
+                "name": "山东战区",
+                "id": 241141885,
+                "autoAddUser": true,
+                "parentid": 224110056
+            },
+            {
+                "createDeptGroup": true,
+                "name": "江苏战区",
+                "id": 241295858,
+                "autoAddUser": true,
+                "parentid": 224110056
+            },
+            {
+                "createDeptGroup": true,
+                "name": "杭州战团",
+                "id": 241396898,
+                "autoAddUser": true,
+                "parentid": 242358873
+            },
+            {
+                "createDeptGroup": true,
+                "name": "杭州战营2",
+                "id": 241570938,
+                "autoAddUser": true,
+                "parentid": 241396898
+            },
+            {
+                "createDeptGroup": true,
+                "name": "广州战营",
+                "id": 241754918,
+                "autoAddUser": true,
+                "parentid": 242129987
+            },
+            {
+                "createDeptGroup": true,
+                "name": "上海战区",
+                "id": 241951934,
+                "autoAddUser": true,
+                "parentid": 224110056
+            },
+            {
+                "createDeptGroup": true,
+                "name": "温州战团",
+                "id": 241974895,
+                "autoAddUser": true,
+                "parentid": 242358873
+            },
+            {
+                "createDeptGroup": true,
+                "name": "广东战区",
+                "id": 242030847,
+                "autoAddUser": true,
+                "parentid": 236295909
+            },
+            {
+                "createDeptGroup": true,
+                "name": "杭州战营工作组2",
+                "id": 242044930,
+                "autoAddUser": true,
+                "parentid": 240450889
+            },
+            {
+                "createDeptGroup": true,
+                "name": "广州战团",
+                "id": 242129987,
+                "autoAddUser": true,
+                "parentid": 242030847
+            },
+            {
+                "createDeptGroup": true,
+                "name": "浙江战区",
+                "id": 242358873,
+                "autoAddUser": true,
+                "parentid": 236295909
+            },
+            {
+                "createDeptGroup": true,
+                "name": "杭州战营工作组1",
+                "id": 243154034,
+                "autoAddUser": true,
+                "parentid": 240450889
+            },
+            {
+                "createDeptGroup": true,
+                "name": "工作组",
+                "id": 267097103,
+                "autoAddUser": true,
+                "parentid": 241754918
+            },
+            {
+                "createDeptGroup": true,
+                "name": "广州战营工作组2",
+                "id": 276939380,
+                "autoAddUser": true,
+                "parentid": 241754918
+            },
+            {
+                "createDeptGroup": false,
+                "name": "供应链部",
+                "id": 294097546,
+                "autoAddUser": false,
+                "parentid": 1
+            },
+            {
+                "createDeptGroup": false,
+                "name": "财法部",
+                "id": 295110182,
+                "autoAddUser": false,
+                "parentid": 1
+            },
+            {
+                "createDeptGroup": true,
+                "name": "物流部",
+                "id": 299208911,
+                "autoAddUser": true,
+                "parentid": 294097546
+            },
+            {
+                "createDeptGroup": true,
+                "name": "客服部",
+                "id": 299303454,
+                "autoAddUser": true,
+                "parentid": 294097546
+            },
+            {
+                "createDeptGroup": true,
+                "name": "采购部",
+                "id": 300049882,
+                "autoAddUser": true,
+                "parentid": 294097546
+            },
+            {
+                "createDeptGroup": true,
+                "name": "研发部",
+                "id": 300206255,
+                "autoAddUser": true,
+                "parentid": 294097546
+            }
+        ]
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107682
+}

@@ -418,19 +418,7 @@ IM_json = [
 ]
 
 
-# IM_json = [
-#     (
-#         "1",
-#         "1",
-#         "1",
-#         "1",
-#         "061052015035430487",
-#         "刘程旭好帅！",
-#         "241951934,236295909",
-#         "",
-#         "鲶鱼pc发给钉钉 工作类型：工作通知 有接收人和部门id"),
-#
-# ]
+
 
 
 app_driver ={
@@ -441,7 +429,12 @@ app_driver ={
     "resetKeyboard":"True",# 程序结束时重置原来的输入法
     "noReset":"True", # 不初始化手机app信息（类似不清楚缓存）
     'automationName':'appium',
-    'deviceName':'c235f170',
-    'platformVersion':'9',
+    'deviceName':'QDY4C17807005548',
+    'platformVersion':'7',
     "autoGrantPermissions":"True" # 让appium自动授权app权限
 }
+
+
+
+
+

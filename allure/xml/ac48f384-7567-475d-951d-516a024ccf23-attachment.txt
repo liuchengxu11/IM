@@ -1,0 +1,25 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "manageScopes": [
+                        {
+                            "dept_id": 267097103,
+                            "name": "工作组"
+                        }
+                    ],
+                    "name": "刘程旭",
+                    "userid": "102013620721191002"
+                }
+            ]
+        },
+        "request_id": "snsxm452t4jd"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107683
+}

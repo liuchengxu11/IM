@@ -1,0 +1,114 @@
+{
+  "uid" : "6b266a94e59030d1",
+  "name" : "test_get_user_dingDingDeptUserList[deptName=-城市招商部]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingDeptUserList[deptName=-城市招商部]",
+  "historyId" : "29ae3221ed4c6e7eb01090180a82da92",
+  "time" : {
+    "start" : 1585107685563,
+    "stop" : 1585107689758,
+    "duration" : 4195
+  },
+  "description" : "\n        钉钉-获取部门下所有员工\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取部门下所有员工\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1585107685562,
+      "stop" : 1585107685562,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取部门下所有员工\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5cf6ce80846d03b6",
+      "name" : "地址",
+      "source" : "5cf6ce80846d03b6.txt",
+      "type" : "text/plain",
+      "size" : 72
+    }, {
+      "uid" : "70ddffab263d1146",
+      "name" : "请求头",
+      "source" : "70ddffab263d1146.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "cbacf58c9fd3bade",
+      "name" : "响应",
+      "source" : "cbacf58c9fd3bade.txt",
+      "type" : "text/plain",
+      "size" : 4675
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "feature",
+    "value" : "获取部门下所有员工"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "19319-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test1",
+    "value" : "'deptName='"
+  }, {
+    "name" : "test2",
+    "value" : "'城市招商部'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b266a94e59030d1.json",
+  "parameterValues" : [ "'deptName='", "'城市招商部'" ]
+}

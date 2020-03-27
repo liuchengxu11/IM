@@ -1,0 +1,23 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "name": "曹雁",
+                    "userid": "25220636855784"
+                },
+                {
+                    "name": "陈昊",
+                    "userid": "10162745201218754"
+                }
+            ]
+        },
+        "request_id": "5z31xdp5niy5"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107683
+}

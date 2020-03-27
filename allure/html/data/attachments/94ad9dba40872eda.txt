@@ -1,0 +1,36 @@
+{
+    "data": {
+        "userId": "120048633333525706",
+        "userName": "蔡延伟",
+        "workPlace": "",
+        "remark": "",
+        "mobile": "13120681675",
+        "email": "",
+        "deptVos": [
+            {
+                "deptId": "294097546",
+                "deptName": "供应链部"
+            }
+        ],
+        "position": "",
+        "avatar": "",
+        "roles": [
+            {
+                "roleId": "795365508",
+                "roleName": "子管理员",
+                "groupName": "默认",
+                "type": null
+            },
+            {
+                "roleId": "1143464275",
+                "roleName": "经理",
+                "groupName": "供应链",
+                "type": null
+            }
+        ]
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107682
+}

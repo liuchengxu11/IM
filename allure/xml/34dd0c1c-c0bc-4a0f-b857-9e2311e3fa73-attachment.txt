@@ -1,0 +1,261 @@
+{
+    "data": [
+        {
+            "deptId": "236295909",
+            "deptName": "南部军区",
+            "userList": [
+                {
+                    "userId": "102013620721191002",
+                    "userName": "刘程旭",
+                    "roles": [
+                        {
+                            "roleId": "795365508",
+                            "roleName": "子管理员",
+                            "groupName": "默认",
+                            "type": null
+                        },
+                        {
+                            "roleId": "941504101",
+                            "roleName": "DM",
+                            "groupName": "招商",
+                            "type": null
+                        }
+                    ],
+                    "avatar": ""
+                }
+            ],
+            "childDeptVo": [
+                {
+                    "deptId": "242030847",
+                    "deptName": "广东战区",
+                    "userList": null,
+                    "childDeptVo": [
+                        {
+                            "deptId": "242129987",
+                            "deptName": "广州战团",
+                            "userList": null,
+                            "childDeptVo": [
+                                {
+                                    "deptId": "241754918",
+                                    "deptName": "广州战营",
+                                    "userList": [
+                                        {
+                                            "userId": "061052015035430487",
+                                            "userName": "谢玉霞",
+                                            "roles": [
+                                                {
+                                                    "roleId": "795365507",
+                                                    "roleName": "主管理员",
+                                                    "groupName": "默认",
+                                                    "type": null
+                                                }
+                                            ],
+                                            "avatar": "https://static-legacy.dingtalk.com/media/lADPDgQ9rtAl4dbNAtDNAtA_720_720.jpg"
+                                        },
+                                        {
+                                            "userId": "3040650629946683",
+                                            "userName": "王琦",
+                                            "roles": [
+                                                {
+                                                    "roleId": "795365508",
+                                                    "roleName": "子管理员",
+                                                    "groupName": "默认",
+                                                    "type": null
+                                                },
+                                                {
+                                                    "roleId": "911240948",
+                                                    "roleName": "BDM",
+                                                    "groupName": "招商",
+                                                    "type": null
+                                                }
+                                            ],
+                                            "avatar": "https://static-legacy.dingtalk.com/media/lADPDgQ9rbEY1l7NAbDNAbQ_436_432.jpg"
+                                        }
+                                    ],
+                                    "childDeptVo": [
+                                        {
+                                            "deptId": "267097103",
+                                            "deptName": "工作组",
+                                            "userList": [
+                                                {
+                                                    "userId": "016147136723523953",
+                                                    "userName": "尹文生",
+                                                    "roles": [
+                                                        {
+                                                            "roleId": "911587957",
+                                                            "roleName": "BD",
+                                                            "groupName": "招商",
+                                                            "type": null
+                                                        }
+                                                    ],
+                                                    "avatar": "https://static-legacy.dingtalk.com/media/lADPBbCc1e1suhnNBCbNBGU_1125_1062.jpg"
+                                                },
+                                                {
+                                                    "userId": "051158164929715870",
+                                                    "userName": "田汉林",
+                                                    "roles": [],
+                                                    "avatar": "https://static-legacy.dingtalk.com/media/lADORTQK-s0BIs0CgA_640_290.jpg"
+                                                },
+                                                {
+                                                    "userId": "070559590238349248",
+                                                    "userName": "顾文浩",
+                                                    "roles": [
+                                                        {
+                                                            "roleId": "795365508",
+                                                            "roleName": "子管理员",
+                                                            "groupName": "默认",
+                                                            "type": null
+                                                        },
+                                                        {
+                                                            "roleId": "911587957",
+                                                            "roleName": "BD",
+                                                            "groupName": "招商",
+                                                            "type": null
+                                                        }
+                                                    ],
+                                                    "avatar": ""
+                                                },
+                                                {
+                                                    "userId": "105312386535121460",
+                                                    "userName": "谢中星",
+                                                    "roles": [
+                                                        {
+                                                            "roleId": "795365508",
+                                                            "roleName": "子管理员",
+                                                            "groupName": "默认",
+                                                            "type": null
+                                                        },
+                                                        {
+                                                            "roleId": "911587957",
+                                                            "roleName": "BD",
+                                                            "groupName": "招商",
+                                                            "type": null
+                                                        }
+                                                    ],
+                                                    "avatar": "https://static-legacy.dingtalk.com/media/lADPDgQ9robrWmvM3Mzd_221_220.jpg"
+                                                }
+                                            ],
+                                            "childDeptVo": []
+                                        },
+                                        {
+                                            "deptId": "276939380",
+                                            "deptName": "广州战营工作组2",
+                                            "userList": null,
+                                            "childDeptVo": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "deptId": "240730909",
+                    "deptName": "福建战区",
+                    "userList": null,
+                    "childDeptVo": []
+                },
+                {
+                    "deptId": "242358873",
+                    "deptName": "浙江战区",
+                    "userList": null,
+                    "childDeptVo": [
+                        {
+                            "deptId": "241396898",
+                            "deptName": "杭州战团",
+                            "userList": null,
+                            "childDeptVo": [
+                                {
+                                    "deptId": "241570938",
+                                    "deptName": "杭州战营2",
+                                    "userList": null,
+                                    "childDeptVo": []
+                                },
+                                {
+                                    "deptId": "240450889",
+                                    "deptName": "杭州战营1",
+                                    "userList": null,
+                                    "childDeptVo": [
+                                        {
+                                            "deptId": "243154034",
+                                            "deptName": "杭州战营工作组1",
+                                            "userList": null,
+                                            "childDeptVo": []
+                                        },
+                                        {
+                                            "deptId": "242044930",
+                                            "deptName": "杭州战营工作组2",
+                                            "userList": null,
+                                            "childDeptVo": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "deptId": "241974895",
+                            "deptName": "温州战团",
+                            "userList": null,
+                            "childDeptVo": []
+                        },
+                        {
+                            "deptId": "240405944",
+                            "deptName": "宁波战团",
+                            "userList": null,
+                            "childDeptVo": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "deptId": "224110056",
+            "deptName": "东部军区",
+            "userList": [
+                {
+                    "userId": "manager2564",
+                    "userName": "曹林",
+                    "roles": [
+                        {
+                            "roleId": "795365508",
+                            "roleName": "子管理员",
+                            "groupName": "默认",
+                            "type": null
+                        },
+                        {
+                            "roleId": "911587957",
+                            "roleName": "BD",
+                            "groupName": "招商",
+                            "type": null
+                        }
+                    ],
+                    "avatar": "https://static-legacy.dingtalk.com/media/lADPD2eDJx2SBa7NAu_NAu4_750_751.jpg"
+                }
+            ],
+            "childDeptVo": [
+                {
+                    "deptId": "241141885",
+                    "deptName": "山东战区",
+                    "userList": null,
+                    "childDeptVo": []
+                },
+                {
+                    "deptId": "241295858",
+                    "deptName": "江苏战区",
+                    "userList": null,
+                    "childDeptVo": []
+                },
+                {
+                    "deptId": "241951934",
+                    "deptName": "上海战区",
+                    "userList": null,
+                    "childDeptVo": []
+                }
+            ]
+        }
+    ],
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1585107697
+}

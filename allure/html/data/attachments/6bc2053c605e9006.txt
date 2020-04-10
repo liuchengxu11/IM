@@ -1,0 +1,19 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "name": "陈钊",
+                    "userid": "01296408271230658"
+                }
+            ]
+        },
+        "request_id": "2x21w2kpzuyp"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1586501567
+}

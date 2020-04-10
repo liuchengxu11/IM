@@ -1,0 +1,147 @@
+{
+  "uid" : "67e2e806d9b0dcdf",
+  "name" : "test_get_user_dingDingUserList[userId=-1926033541844140-李建]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingUserList[userId=-1926033541844140-李建]",
+  "historyId" : "eb67cb48ed9d4d7254a42b28499eeefa",
+  "time" : {
+    "start" : 1586501568387,
+    "stop" : 1586501568964,
+    "duration" : 577
+  },
+  "description" : "\n        钉钉-获取当前用户下所有员工  做缓存\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉-获取当前用户下所有员工  做缓存\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1586501565117,
+      "stop" : 1586501565117,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1586501568386,
+      "stop" : 1586501568386,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉-获取当前用户下所有员工  做缓存\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b28baa564990300",
+      "name" : "地址",
+      "source" : "2b28baa564990300.txt",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "d5e91799aad15ebd",
+      "name" : "请求头",
+      "source" : "d5e91799aad15ebd.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "4cb5bed8a7671ba0",
+      "name" : "响应",
+      "source" : "4cb5bed8a7671ba0.txt",
+      "type" : "text/plain",
+      "size" : 103
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1586501579845,
+      "stop" : 1586501579845,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取当前用户下所有员工"
+  }, {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "13835-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "'李建'"
+  }, {
+    "name" : "test1",
+    "value" : "'userId='"
+  }, {
+    "name" : "test2",
+    "value" : "'1926033541844140'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67e2e806d9b0dcdf.json",
+  "parameterValues" : [ "'李建'", "'userId='", "'1926033541844140'" ]
+}

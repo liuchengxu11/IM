@@ -1,0 +1,346 @@
+{
+    "data": [
+        {
+            "deptName": "城市招商部",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "947684115",
+                    "roleName": "VP",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "222994918",
+            "userName": "严亮(Yan,Liang)",
+            "userId": "28373101361631065137"
+        },
+        {
+            "deptName": "广东",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "947651132",
+                    "roleName": "CM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242030847",
+            "userName": "王琦",
+            "userId": "3040650629946683"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "795365507",
+                    "roleName": "主管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "941504101",
+                    "roleName": "DM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "谢玉霞",
+            "userId": "061052015035430487"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "miya",
+            "userId": "03023251483351972"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "程维聪",
+            "userId": "080503080931064897"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "795365510",
+                    "roleName": "主管",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "941504101",
+                    "roleName": "DM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "邱刘军",
+            "userId": "614109673236268788"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "尹文生",
+            "userId": "016147136723523953"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "王雄",
+            "userId": "1425202234955545"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "田汉林",
+            "userId": "051158164929715870"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "顾文浩",
+            "userId": "070559590238349248"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "谢中星",
+            "userId": "105312386535121460"
+        },
+        {
+            "deptName": "广州",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "1143386391",
+                    "roleName": "主管",
+                    "groupName": "供应链",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "242129987",
+            "userName": "李建",
+            "userId": "1926033541844140"
+        },
+        {
+            "deptName": "北区",
+            "roles": [
+                {
+                    "roleId": "947651132",
+                    "roleName": "CM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312427327",
+            "userName": "周博",
+            "userId": "0157365964691186"
+        },
+        {
+            "deptName": "北区",
+            "roles": [
+                {
+                    "roleId": "795365510",
+                    "roleName": "主管",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "941504101",
+                    "roleName": "DM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312427327",
+            "userName": "檀竹红",
+            "userId": "315002454327209033"
+        },
+        {
+            "deptName": "上海",
+            "roles": [
+                {
+                    "roleId": "1143532141",
+                    "roleName": "组长",
+                    "groupName": "供应链",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312922200",
+            "userName": "武西亮",
+            "userId": "140420684527533045"
+        },
+        {
+            "deptName": "上海",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312922200",
+            "userName": "赵星",
+            "userId": "021524401148746"
+        },
+        {
+            "deptName": "上海",
+            "roles": [
+                {
+                    "roleId": "795365508",
+                    "roleName": "子管理员",
+                    "groupName": "默认",
+                    "type": null
+                },
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312922200",
+            "userName": "秦加虎",
+            "userId": "185324170630679060"
+        },
+        {
+            "deptName": "上海",
+            "roles": [
+                {
+                    "roleId": "911587957",
+                    "roleName": "AE",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312922200",
+            "userName": "舒翔佳",
+            "userId": "080403666533034161"
+        },
+        {
+            "deptName": "济南",
+            "roles": [
+                {
+                    "roleId": "947651132",
+                    "roleName": "CM",
+                    "groupName": "招商",
+                    "type": null
+                }
+            ],
+            "deptId": "312985103",
+            "userName": "测试机iOS",
+            "userId": "64255019281231120"
+        }
+    ],
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1586501573
+}

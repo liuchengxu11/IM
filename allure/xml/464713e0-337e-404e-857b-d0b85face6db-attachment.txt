@@ -1,0 +1,23 @@
+{
+    "data": {
+        "errcode": 0,
+        "result": {
+            "hasMore": false,
+            "list": [
+                {
+                    "name": "邱刘军",
+                    "userid": "614109673236268788"
+                },
+                {
+                    "name": "檀竹红",
+                    "userid": "315002454327209033"
+                }
+            ]
+        },
+        "request_id": "525zgi3ixzpc"
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1586501566
+}

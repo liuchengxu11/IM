@@ -3,224 +3,2668 @@
   "children" : [ {
     "name" : "liuchengxudeMacBook-Pro.local",
     "children" : [ {
-      "name" : "12917-MainThread",
+      "name" : "13835-MainThread",
       "children" : [ {
-        "name" : "test_get_user_dingDingUser[userId=-016147136723523953-尹文生]",
-        "uid" : "bb91078dc60b6d63",
-        "parentUid" : "987929f18e7a45d07de50d9bccf9738d",
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-manager2564-曹林]",
+        "uid" : "ed73472663c6ffda",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
         "status" : "passed",
         "time" : {
-          "start" : 1586490837336,
-          "stop" : 1586490837496,
-          "duration" : 160
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'尹文生'", "'userId='", "'016147136723523953'" ]
-      }, {
-        "name" : "test_get_user_dingDingUser[userId=--userId为空]",
-        "uid" : "ff207bc6d7c24085",
-        "parentUid" : "987929f18e7a45d07de50d9bccf9738d",
-        "status" : "broken",
-        "time" : {
-          "start" : 1586490836858,
-          "stop" : 1586490837080,
-          "duration" : 222
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'userId为空'", "'userId='", "''" ]
-      }, {
-        "name" : "test_get_user_dingDingUser[userId=-102013620721191002-刘程旭]",
-        "uid" : "62910bda3093db6f",
-        "parentUid" : "987929f18e7a45d07de50d9bccf9738d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1586490837175,
-          "stop" : 1586490837328,
-          "duration" : 153
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
-      } ],
-      "uid" : "987929f18e7a45d07de50d9bccf9738d"
-    }, {
-      "name" : "12911-MainThread",
-      "children" : [ {
-        "name" : "test_get_user_dingDingUser[userId=-061052015035430487-谢玉霞]",
-        "uid" : "a76ed32bb4d2cb9b",
-        "parentUid" : "8f5f4465288b5fa1113478f404f39c41",
-        "status" : "passed",
-        "time" : {
-          "start" : 1586490836858,
-          "stop" : 1586490837177,
-          "duration" : 319
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'谢玉霞'", "'userId='", "'061052015035430487'" ]
-      }, {
-        "name" : "test_get_user_dingDingUser[userId=-06130487-userId错误]",
-        "uid" : "be71a122cae56d20",
-        "parentUid" : "8f5f4465288b5fa1113478f404f39c41",
-        "status" : "broken",
-        "time" : {
-          "start" : 1586490837182,
-          "stop" : 1586490837276,
-          "duration" : 94
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
-      } ],
-      "uid" : "8f5f4465288b5fa1113478f404f39c41"
-    }, {
-      "name" : "12915-MainThread",
-      "children" : [ {
-        "name" : "test_get_user_dingDingUser[userId=-manager2564-曹林]",
-        "uid" : "83199fc29801b09a",
-        "parentUid" : "9dac9b0504cfc4f8a76ff331cca992a5",
-        "status" : "broken",
-        "time" : {
-          "start" : 1586490836858,
-          "stop" : 1586490837076,
-          "duration" : 218
+          "start" : 1586501567474,
+          "stop" : 1586501567541,
+          "duration" : 67
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'曹林'", "'userId='", "'manager2564'" ]
       }, {
-        "name" : "test_get_user_dingDingUser[userId=-08016413351174767-邓欢]",
-        "uid" : "149f08c813547711",
-        "parentUid" : "9dac9b0504cfc4f8a76ff331cca992a5",
-        "status" : "broken",
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365524]",
+        "uid" : "38cae309eb8acf31",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
         "time" : {
-          "start" : 1586490837332,
-          "stop" : 1586490837398,
-          "duration" : 66
+          "start" : 1586501566444,
+          "stop" : 1586501566539,
+          "duration" : 95
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+        "parameters" : [ "'roleId='", "'795365524'" ]
       }, {
-        "name" : "test_get_user_dingDingUser[userId=-140420684527533045-武西亮]",
-        "uid" : "90faa59d25f58391",
-        "parentUid" : "9dac9b0504cfc4f8a76ff331cca992a5",
+        "name" : "test_get_user_dingDingUserTree[userId=-28373101361631065137-严亮(Yan,Liang)]",
+        "uid" : "1098400cbdbf1a5f",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
         "status" : "passed",
         "time" : {
-          "start" : 1586490837171,
-          "stop" : 1586490837325,
-          "duration" : 154
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'武西亮'", "'userId='", "'140420684527533045'" ]
-      } ],
-      "uid" : "9dac9b0504cfc4f8a76ff331cca992a5"
-    }, {
-      "name" : "12912-MainThread",
-      "children" : [ {
-        "name" : "test_get_user_dingDingUser[userId=-abc-userId错误]",
-        "uid" : "fef179a5b1ee3b44",
-        "parentUid" : "dcfda86f92fae8ceca132f46ceffdc6e",
-        "status" : "broken",
-        "time" : {
-          "start" : 1586490837218,
-          "stop" : 1586490837292,
-          "duration" : 74
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
-      }, {
-        "name" : "test_get_user_dingDingUser[userId=-120048633333525706-蔡延伟]",
-        "uid" : "753fdd70bd3f0742",
-        "parentUid" : "dcfda86f92fae8ceca132f46ceffdc6e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1586490836858,
-          "stop" : 1586490837211,
-          "duration" : 353
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'蔡延伟'", "'userId='", "'120048633333525706'" ]
-      } ],
-      "uid" : "dcfda86f92fae8ceca132f46ceffdc6e"
-    }, {
-      "name" : "12913-MainThread",
-      "children" : [ {
-        "name" : "test_get_user_dingDingUser[userId=-28373101361631065137-严亮(Yan,Liang)]",
-        "uid" : "fc53b21b292a8d42",
-        "parentUid" : "29cb8a54b8569cc0dc6fa88c2c69bf63",
-        "status" : "passed",
-        "time" : {
-          "start" : 1586490836858,
-          "stop" : 1586490837168,
-          "duration" : 310
+          "start" : 1586501575217,
+          "stop" : 1586501579843,
+          "duration" : 4626
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'严亮(Yan,Liang)'", "'userId='", "'28373101361631065137'" ]
       }, {
-        "name" : "test_get_user_dingDingUser[userId=-1926033541844140-李建]",
-        "uid" : "5d35e4dec5902457",
-        "parentUid" : "29cb8a54b8569cc0dc6fa88c2c69bf63",
+        "name" : "test_get_user_dingDingDeptList[userId=-061052015035430487-谢玉霞]",
+        "uid" : "44a8e19686cc7e9a",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
         "status" : "passed",
         "time" : {
-          "start" : 1586490837342,
-          "stop" : 1586490837510,
-          "duration" : 168
+          "start" : 1586501570042,
+          "stop" : 1586501570468,
+          "duration" : 426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'谢玉霞'", "'userId='", "'061052015035430487'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-abc-userId错误]",
+        "uid" : "f7918b83506cfea5",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568215,
+          "stop" : 1586501568307,
+          "duration" : 92
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-192912201426134076-朱宋其]",
+        "uid" : "c592e3f4c49b852e",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571170,
+          "stop" : 1586501571486,
+          "duration" : 316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'朱宋其'", "'userId='", "'192912201426134076'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365526]",
+        "uid" : "dfd931af1704fc10",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566634,
+          "stop" : 1586501566707,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365526'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-上海战区]",
+        "uid" : "b5af25e98e07bf87",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569755,
+          "stop" : 1586501569827,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'上海战区'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-08016413351174767-邓欢]",
+        "uid" : "a86164e27cb8398c",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501572619,
+          "stop" : 1586501572680,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365530]",
+        "uid" : "76adf082a12a669a",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567396,
+          "stop" : 1586501567471,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365530'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-224110056]",
+        "uid" : "8fba804fea23a06e",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565876,
+          "stop" : 1586501565950,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'224110056'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-]",
+        "uid" : "adfa3053c0454337",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501570022,
+          "stop" : 1586501570037,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "''" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-06130487-userId错误]",
+        "uid" : "d456057e7aea3eb0",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568126,
+          "stop" : 1586501568209,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365528]",
+        "uid" : "7ea4e4b550da852d",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567178,
+          "stop" : 1586501567297,
+          "duration" : 119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365528'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-016147136723523953-尹文生]",
+        "uid" : "23f9f37cc91cdada",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568970,
+          "stop" : 1586501569269,
+          "duration" : 299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'尹文生'", "'userId='", "'016147136723523953'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营1]",
+        "uid" : "932ffd0b33f885f5",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569273,
+          "stop" : 1586501569371,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'杭州战营1'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241754918]",
+        "uid" : "99c8e0087af95d8a",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566373,
+          "stop" : 1586501566440,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241754918'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-120048633333525706-蔡延伟]",
+        "uid" : "5c0c11d668079a56",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501572685,
+          "stop" : 1586501575211,
+          "duration" : 2526
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'蔡延伟'", "'userId='", "'120048633333525706'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-1926033541844140-李建]",
+        "uid" : "2bd17173cc660063",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565668,
+          "stop" : 1586501565872,
+          "duration" : 204
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'李建'", "'userId='", "'1926033541844140'" ]
       }, {
-        "name" : "test_get_user_dingDingUser[userId=-192912201426134076-朱宋其]",
-        "uid" : "6541acae7c9d633a",
-        "parentUid" : "29cb8a54b8569cc0dc6fa88c2c69bf63",
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-242044930]",
+        "uid" : "5145b6cf5550c938",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
         "status" : "passed",
         "time" : {
-          "start" : 1586490837174,
-          "stop" : 1586490837338,
-          "duration" : 164
+          "start" : 1586501566066,
+          "stop" : 1586501566153,
+          "duration" : 87
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "'朱宋其'", "'userId='", "'192912201426134076'" ]
-      } ],
-      "uid" : "29cb8a54b8569cc0dc6fa88c2c69bf63"
-    }, {
-      "name" : "12916-MainThread",
-      "children" : [ {
-        "name" : "test_get_user_dingDingUser[userId=-056336380824088128-张博强]",
-        "uid" : "80c1d809077c11da",
-        "parentUid" : "cd20be8663b3cfd4e188605b247c3369",
+        "parameters" : [ "'deptId='", "'242044930'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=--userId为空]",
+        "uid" : "fcab5d49aa18e469",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
         "status" : "passed",
         "time" : {
-          "start" : 1586490837175,
-          "stop" : 1586490837348,
-          "duration" : 173
+          "start" : 1586501568049,
+          "stop" : 1586501568122,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId为空'", "'userId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营工作组1]",
+        "uid" : "419ad4866e1ab5",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569906,
+          "stop" : 1586501570016,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'杭州战营工作组1'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-120048633333525706-蔡延伟]",
+        "uid" : "c703b7478fb000f9",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565118,
+          "stop" : 1586501565482,
+          "duration" : 364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'蔡延伟'", "'userId='", "'120048633333525706'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-08016413351174767-邓欢]",
+        "uid" : "fafeedd445535d3",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568312,
+          "stop" : 1586501568382,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-广州战营]",
+        "uid" : "bee6019167af5fef",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569685,
+          "stop" : 1586501569751,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'广州战营'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-福建战区]",
+        "uid" : "933ea7e06363de1c",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569376,
+          "stop" : 1586501569478,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'福建战区'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365525]",
+        "uid" : "235fcb841beea5bd",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566544,
+          "stop" : 1586501566630,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365525'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-1926033541844140-李建]",
+        "uid" : "67e2e806d9b0dcdf",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568387,
+          "stop" : 1586501568964,
+          "duration" : 577
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李建'", "'userId='", "'1926033541844140'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-06130487-userId错误]",
+        "uid" : "13bafcc3387d6bc4",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571094,
+          "stop" : 1586501571164,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-24]",
+        "uid" : "f43f73fd0eca3bd8",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566158,
+          "stop" : 1586501566224,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'24'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=--userId为空]",
+        "uid" : "aa70238d75b53805",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571026,
+          "stop" : 1586501571088,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId为空'", "'userId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-120048633333525706-蔡延伟]",
+        "uid" : "52eef9e3dcc7ac40",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501570474,
+          "stop" : 1586501570919,
+          "duration" : 445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'蔡延伟'", "'userId='", "'120048633333525706'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营2]",
+        "uid" : "9a54efcabfd4559",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569594,
+          "stop" : 1586501569681,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'杭州战营2'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365527]",
+        "uid" : "44f43fe455e56b20",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566711,
+          "stop" : 1586501567174,
+          "duration" : 463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365527'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-140420684527533045-武西亮]",
+        "uid" : "35c35e5fea5f4d4",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571492,
+          "stop" : 1586501572613,
+          "duration" : 1121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'武西亮'", "'userId='", "'140420684527533045'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-abc-userId错误]",
+        "uid" : "a3c027ed6c9299f5",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586501565485,
+          "stop" : 1586501565573,
+          "duration" : 88
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战团]",
+        "uid" : "9e2a5f0d079bd1fc",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569483,
+          "stop" : 1586501569589,
+          "duration" : 106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'杭州战团'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-浙江战区]",
+        "uid" : "25d9383e92e090a9",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569831,
+          "stop" : 1586501569901,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'浙江战区'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-240450889]",
+        "uid" : "a1896655b67fe2d9",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566228,
+          "stop" : 1586501566369,
+          "duration" : 141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'240450889'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-133744432730233274-石城榕]",
+        "uid" : "4108faa9de4641d3",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567545,
+          "stop" : 1586501568045,
+          "duration" : 500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'石城榕'", "'userId='", "'133744432730233274'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-manager2564-曹林]",
+        "uid" : "2bb6573b947d1a88",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501570926,
+          "stop" : 1586501571020,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'曹林'", "'userId='", "'manager2564'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365529]",
+        "uid" : "adc0627bbf395fd4",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567302,
+          "stop" : 1586501567391,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365529'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241295858]",
+        "uid" : "b83b225c49c58dee",
+        "parentUid" : "960842a4fe31517888335b5645b84638",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565955,
+          "stop" : 1586501566061,
+          "duration" : 106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241295858'" ]
+      } ],
+      "uid" : "960842a4fe31517888335b5645b84638"
+    }, {
+      "name" : "13836-MainThread",
+      "children" : [ {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-941504101]",
+        "uid" : "ecd133e4535dfa0c",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566565,
+          "stop" : 1586501566664,
+          "duration" : 99
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'941504101'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365509]",
+        "uid" : "3800d455e812f78f",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567412,
+          "stop" : 1586501567475,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365509'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-abc-userId错误]",
+        "uid" : "34bf015d995736ed",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573577,
+          "stop" : 1586501573644,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-manager2564-曹林]",
+        "uid" : "4409bcd942023a22",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573315,
+          "stop" : 1586501573397,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'曹林'", "'userId='", "'manager2564'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-056336380824088128-张博强]",
+        "uid" : "c5dd033bb8b12ef5",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501574019,
+          "stop" : 1586501578954,
+          "duration" : 4935
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'张博强'", "'userId='", "'056336380824088128'" ]
       }, {
-        "name" : "test_get_user_dingDingUser[userId=-133744432730233274-石城榕]",
-        "uid" : "fcc2aa0a929a2a6f",
-        "parentUid" : "cd20be8663b3cfd4e188605b247c3369",
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-140420684527533045-武西亮]",
+        "uid" : "376bda8a4c85b4f8",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
         "status" : "passed",
         "time" : {
-          "start" : 1586490836858,
-          "stop" : 1586490837170,
-          "duration" : 312
+          "start" : 1586501568082,
+          "stop" : 1586501568532,
+          "duration" : 450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'武西亮'", "'userId='", "'140420684527533045'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-016147136723523953-尹文生]",
+        "uid" : "70791533cb4a8943",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565589,
+          "stop" : 1586501565801,
+          "duration" : 212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'尹文生'", "'userId='", "'016147136723523953'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-056336380824088128-张博强]",
+        "uid" : "f8420256f42f8270",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571467,
+          "stop" : 1586501572489,
+          "duration" : 1022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张博强'", "'userId='", "'056336380824088128'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-102013620721191002-刘程旭]",
+        "uid" : "dec7324315e7ea5c",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501572495,
+          "stop" : 1586501572958,
+          "duration" : 463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-山东]",
+        "uid" : "86f2789b58e8fc16",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501570048,
+          "stop" : 1586501570618,
+          "duration" : 570
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'山东'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-192912201426134076-朱宋其]",
+        "uid" : "b61c0efc20c99387",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567545,
+          "stop" : 1586501568079,
+          "duration" : 534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'朱宋其'", "'userId='", "'192912201426134076'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-102013620721191002-刘程旭]",
+        "uid" : "ba3eeb5133ff3e2d",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569083,
+          "stop" : 1586501569617,
+          "duration" : 534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-911587957]",
+        "uid" : "f3f6a610ac7aa840",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566465,
+          "stop" : 1586501566561,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'911587957'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-温州战团]",
+        "uid" : "4ae63771076a1970",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569813,
+          "stop" : 1586501569888,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'温州战团'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-140420684527533045-武西亮]",
+        "uid" : "24fd55592975bab",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573649,
+          "stop" : 1586501574013,
+          "duration" : 364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'武西亮'", "'userId='", "'140420684527533045'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-7953655070]",
+        "uid" : "37e059a9d723ca2b",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567342,
+          "stop" : 1586501567408,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365507'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-28373101361631065137-严亮(Yan,Liang)]",
+        "uid" : "3aa23625a15c7109",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501570624,
+          "stop" : 1586501571038,
+          "duration" : 414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'严亮(Yan,Liang)'", "'userId='", "'28373101361631065137'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241396898]",
+        "uid" : "7a4d4f4710e0b059",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565971,
+          "stop" : 1586501566070,
+          "duration" : 99
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241396898'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-]",
+        "uid" : "aeaa286ff85dd159",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567266,
+          "stop" : 1586501567339,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-016147136723523953-尹文生]",
+        "uid" : "1327171f084cbf2b",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501572963,
+          "stop" : 1586501573309,
+          "duration" : 346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'尹文生'", "'userId='", "'016147136723523953'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-192912201426134076-朱宋其]",
+        "uid" : "16edc1fc274f743f",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565388,
+          "stop" : 1586501565585,
+          "duration" : 197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'朱宋其'", "'userId='", "'192912201426134076'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-abc-userId错误]",
+        "uid" : "a4efd59ac7cdf41",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571373,
+          "stop" : 1586501571461,
+          "duration" : 88
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-222994918]",
+        "uid" : "6ca61fd7cdca72f0",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565805,
+          "stop" : 1586501565967,
+          "duration" : 162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'222994918'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-1926033541844140-李建]",
+        "uid" : "a0335eba8e740e7c",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501578959,
+          "stop" : 1586501579513,
+          "duration" : 554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李建'", "'userId='", "'1926033541844140'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-江苏战区]",
+        "uid" : "6bf60535035ee37e",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569693,
+          "stop" : 1586501569808,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'江苏战区'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-133744432730233274-石城榕]",
+        "uid" : "296ac1bf31828d1a",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571043,
+          "stop" : 1586501571367,
+          "duration" : 324
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'石城榕'", "'userId='", "'133744432730233274'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-240730909]",
+        "uid" : "23f1a0b6a8feca94",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566275,
+          "stop" : 1586501566369,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'240730909'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-28373101361631065137-严亮(Yan,Liang)]",
+        "uid" : "ab3566f922db12a3",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565118,
+          "stop" : 1586501565385,
+          "duration" : 267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'严亮(Yan,Liang)'", "'userId='", "'28373101361631065137'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-工作组]",
+        "uid" : "e1cb1dc9b2b48920",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569967,
+          "stop" : 1586501570043,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'工作组'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-]",
+        "uid" : "cdde768d27597014",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566192,
+          "stop" : 1586501566271,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "''" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-947651132]",
+        "uid" : "34a8579cd2880f96",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567169,
+          "stop" : 1586501567263,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'947651132'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-dasdasda]",
+        "uid" : "53d2977552c97fea",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566669,
+          "stop" : 1586501567163,
+          "duration" : 494
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'dasdasda'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-056336380824088128-张博强]",
+        "uid" : "7f868c844238eadd",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568538,
+          "stop" : 1586501569078,
+          "duration" : 540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张博强'", "'userId='", "'056336380824088128'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365510]",
+        "uid" : "e32016d73619efa1",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567478,
+          "stop" : 1586501567541,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365510'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=--userId为空]",
+        "uid" : "f4ba4f694b97d826",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573403,
+          "stop" : 1586501573492,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId为空'", "'userId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-广东战区]",
+        "uid" : "f9ed0926d0d374cc",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569894,
+          "stop" : 1586501569962,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'广东战区'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-242129987]",
+        "uid" : "68065bdad4098428",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566075,
+          "stop" : 1586501566188,
+          "duration" : 113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242129987'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-911240948]",
+        "uid" : "8c3e6ca20d4016cc",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566374,
+          "stop" : 1586501566460,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'911240948'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-山东战区]",
+        "uid" : "eaaf015ebf027875",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569622,
+          "stop" : 1586501569688,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'山东战区'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-06130487-userId错误]",
+        "uid" : "506968789ddd38d3",
+        "parentUid" : "5776815ace9a1c66240af09413f08a6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573497,
+          "stop" : 1586501573571,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
       } ],
-      "uid" : "cd20be8663b3cfd4e188605b247c3369"
+      "uid" : "5776815ace9a1c66240af09413f08a6a"
+    }, {
+      "name" : "13837-MainThread",
+      "children" : [ {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-242358873]",
+        "uid" : "9230bcc7748ffe70",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565924,
+          "stop" : 1586501566007,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242358873'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-056336380824088128-张博强]",
+        "uid" : "874f151f37cf5317",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569060,
+          "stop" : 1586501573822,
+          "duration" : 4762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张博强'", "'userId='", "'056336380824088128'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-102013620721191002-刘程旭]",
+        "uid" : "79c06647967b7f94",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573827,
+          "stop" : 1586501573842,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-947684115]",
+        "uid" : "29edd4581ada2512",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566611,
+          "stop" : 1586501566705,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'947684115'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-192912201426134076-朱宋其]",
+        "uid" : "7179dfbb8ff8890",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568041,
+          "stop" : 1586501568623,
+          "duration" : 582
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'朱宋其'", "'userId='", "'192912201426134076'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-947651132]",
+        "uid" : "6139473fbd431c34",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567688,
+          "stop" : 1586501567814,
+          "duration" : 126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'947651132'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365521]",
+        "uid" : "9a6ad092875eda15",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567169,
+          "stop" : 1586501567250,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365521'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-abc-userId错误]",
+        "uid" : "33df075ff7f02b67",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567968,
+          "stop" : 1586501568036,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-102013620721191002-刘程旭]",
+        "uid" : "a2ac1e99a9371b23",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573847,
+          "stop" : 1586501574596,
+          "duration" : 749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-dasdasda]",
+        "uid" : "c35ba1eb088a4533",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567633,
+          "stop" : 1586501567685,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'dasdasda'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365518]",
+        "uid" : "7b2dd9f9cb555d2",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566374,
+          "stop" : 1586501566445,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365518'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-879471193]",
+        "uid" : "baaba2ffa2547679",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567254,
+          "stop" : 1586501567326,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'879471193'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-911587957]",
+        "uid" : "34afc531e2d84a59",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567498,
+          "stop" : 1586501567565,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'911587957'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-236295909]",
+        "uid" : "c9b1532fdc650909",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566011,
+          "stop" : 1586501566178,
+          "duration" : 167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'236295909'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-140420684527533045-武西亮]",
+        "uid" : "7fc1d5a4995a4a6",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568629,
+          "stop" : 1586501569055,
+          "duration" : 426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'武西亮'", "'userId='", "'140420684527533045'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-06130487-userId错误]",
+        "uid" : "f8ddcfa6cf9aa7be",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567883,
+          "stop" : 1586501567963,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241951934]",
+        "uid" : "f6f63a33b4f39fb4",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565589,
+          "stop" : 1586501565692,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241951934'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-911240948]",
+        "uid" : "72efde6652834f18",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567421,
+          "stop" : 1586501567494,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'911240948'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=--userId为空]",
+        "uid" : "e05e4c15f9ffd18a",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567819,
+          "stop" : 1586501567880,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId为空'", "'userId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-016147136723523953-尹文生]",
+        "uid" : "28e5fd7317ef223c",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501574675,
+          "stop" : 1586501575028,
+          "duration" : 353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'尹文生'", "'userId='", "'016147136723523953'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365519]",
+        "uid" : "85362110bfa819b2",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566448,
+          "stop" : 1586501566522,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365519'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-941504101]",
+        "uid" : "307eca47a63172ed",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567569,
+          "stop" : 1586501567628,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'941504101'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241570938]",
+        "uid" : "162388339cd78288",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565798,
+          "stop" : 1586501565919,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241570938'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-140420684527533045-武西亮]",
+        "uid" : "ab69c4c493c2eff4",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565381,
+          "stop" : 1586501565584,
+          "duration" : 203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'武西亮'", "'userId='", "'140420684527533045'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241141885]",
+        "uid" : "47cff03957bf9b79",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566182,
+          "stop" : 1586501566268,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241141885'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-manager2564-曹林]",
+        "uid" : "adb62c33cde9d84e",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586501565118,
+          "stop" : 1586501565287,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'曹林'", "'userId='", "'manager2564'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-240405944]",
+        "uid" : "6bb00876b6d54a2b",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565695,
+          "stop" : 1586501565793,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'240405944'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-08016413351174767-邓欢]",
+        "uid" : "a220dc8ddce6c530",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501574602,
+          "stop" : 1586501574669,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365517]",
+        "uid" : "199fd9fbbb847403",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566271,
+          "stop" : 1586501566369,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365517'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365520]",
+        "uid" : "cc0cea2fe0440b25",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566527,
+          "stop" : 1586501566606,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365520'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-7953655071]",
+        "uid" : "1ab5c6ff31e42deb",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566709,
+          "stop" : 1586501567163,
+          "duration" : 454
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365507'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365523]",
+        "uid" : "44dcd5f1cca57ffd",
+        "parentUid" : "e5866cabb51f67cba3be05bb23cd48ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567330,
+          "stop" : 1586501567417,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365523'" ]
+      } ],
+      "uid" : "e5866cabb51f67cba3be05bb23cd48ce"
+    }, {
+      "name" : "13838-MainThread",
+      "children" : [ {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365519]",
+        "uid" : "12e6fa9cad55e501",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567244,
+          "stop" : 1586501567305,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365519'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365520]",
+        "uid" : "a8241f2dc9788daa",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567310,
+          "stop" : 1586501567367,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365520'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-28373101361631065137-严亮(Yan,Liang)]",
+        "uid" : "cad6a409ab3691e6",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568624,
+          "stop" : 1586501569036,
+          "duration" : 412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'严亮(Yan,Liang)'", "'userId='", "'28373101361631065137'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-243154034]",
+        "uid" : "bc9a464bb8f03650",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566615,
+          "stop" : 1586501566678,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'243154034'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-947684115]",
+        "uid" : "1ce04ac23976dcbb",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567372,
+          "stop" : 1586501567429,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'947684115'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-242129987]",
+        "uid" : "fb76d3b9280a789b",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566484,
+          "stop" : 1586501566545,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242129987'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241295858]",
+        "uid" : "ac23daa40c9f22e0",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566160,
+          "stop" : 1586501566225,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241295858'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-南区]",
+        "uid" : "7d068a18eea51dac",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501577196,
+          "stop" : 1586501579514,
+          "duration" : 2318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'南区'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-056336380824088128-张博强]",
+        "uid" : "8f5deac7b9433a95",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565444,
+          "stop" : 1586501565648,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张博强'", "'userId='", "'056336380824088128'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-7953655071]",
+        "uid" : "4b7adc3efe7d1dfc",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567432,
+          "stop" : 1586501567486,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365507'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241974895]",
+        "uid" : "ac35c9fc75a2af61",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566229,
+          "stop" : 1586501566319,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241974895'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleList",
+        "uid" : "63139db0981646ad",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567550,
+          "stop" : 1586501567628,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-24]",
+        "uid" : "a3b0ff21590bcce7",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565651,
+          "stop" : 1586501565741,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'24'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-]",
+        "uid" : "efd6c9a7209f050f",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567489,
+          "stop" : 1586501567547,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "''" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-242358873]",
+        "uid" : "c3d354223ded6d86",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566550,
+          "stop" : 1586501566611,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242358873'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-240450889]",
+        "uid" : "258744308b74f431",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565745,
+          "stop" : 1586501565836,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'240450889'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-133744432730233274-石城榕]",
+        "uid" : "d0a26518a638ce0",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565118,
+          "stop" : 1586501565441,
+          "duration" : 323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'石城榕'", "'userId='", "'133744432730233274'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241754918]",
+        "uid" : "dc2320a4f6a02455",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565842,
+          "stop" : 1586501565950,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241754918'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-242044930]",
+        "uid" : "7380d2159c7700a5",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566420,
+          "stop" : 1586501566479,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242044930'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-隼行测试]",
+        "uid" : "fb688cbbbb851ac2",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569041,
+          "stop" : 1586501577192,
+          "duration" : 8151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'隼行测试'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-242030847]",
+        "uid" : "f615cf254996f891",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566323,
+          "stop" : 1586501566414,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242030847'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-243154034]",
+        "uid" : "5e2e09ff3374493",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565955,
+          "stop" : 1586501566061,
+          "duration" : 106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'243154034'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365518]",
+        "uid" : "2011c3ca3d375289",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567169,
+          "stop" : 1586501567239,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365518'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-东部军区]",
+        "uid" : "206421ab7acda97a",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501579520,
+          "stop" : 1586501579594,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'东部军区'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-061052015035430487-谢玉霞]",
+        "uid" : "9fedde35a1045a2e",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567633,
+          "stop" : 1586501568107,
+          "duration" : 474
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'谢玉霞'", "'userId='", "'061052015035430487'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-120048633333525706-蔡延伟]",
+        "uid" : "98b87bffb2e30050",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568111,
+          "stop" : 1586501568618,
+          "duration" : 507
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'蔡延伟'", "'userId='", "'120048633333525706'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-224110056]",
+        "uid" : "256bd569230feb76",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566066,
+          "stop" : 1586501566156,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'224110056'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-267097103]",
+        "uid" : "72281e1b7cc68582",
+        "parentUid" : "77a84ff348715717a7a77ca0e25254b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566682,
+          "stop" : 1586501567163,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'267097103'" ]
+      } ],
+      "uid" : "77a84ff348715717a7a77ca0e25254b1"
+    }, {
+      "name" : "13839-MainThread",
+      "children" : [ {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-杭州战营工作组2]",
+        "uid" : "2f47cb6af145335f",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501571710,
+          "stop" : 1586501572489,
+          "duration" : 779
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'杭州战营工作组2'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365508]",
+        "uid" : "ad87db73acc2aafd",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566486,
+          "stop" : 1586501566571,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365508'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-240730909]",
+        "uid" : "8c39439b63585a3c",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565695,
+          "stop" : 1586501565793,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'240730909'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241974895]",
+        "uid" : "3eed1575a7dfc35d",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565798,
+          "stop" : 1586501565893,
+          "duration" : 95
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241974895'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-manager2564-曹林]",
+        "uid" : "2452bf9190f7150",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569646,
+          "stop" : 1586501569727,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'曹林'", "'userId='", "'manager2564'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-267097103]",
+        "uid" : "15255f5856bb14cd",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565898,
+          "stop" : 1586501566014,
+          "duration" : 116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'267097103'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365516]",
+        "uid" : "5d200ef383d3c05f",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567327,
+          "stop" : 1586501567403,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365516'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptList[userId=-1926033541844140-李建]",
+        "uid" : "869880e1dff484b2",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501572573,
+          "stop" : 1586501573165,
+          "duration" : 592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李建'", "'userId='", "'1926033541844140'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365509]",
+        "uid" : "9f5f257cc0ef2d4e",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566304,
+          "stop" : 1586501566379,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365509'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-133744432730233274-石城榕]",
+        "uid" : "8a7085d949967f29",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569733,
+          "stop" : 1586501571705,
+          "duration" : 1972
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'石城榕'", "'userId='", "'133744432730233274'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-102013620721191002-刘程旭]",
+        "uid" : "24395965dca4e798",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565403,
+          "stop" : 1586501565573,
+          "duration" : 170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-061052015035430487-谢玉霞]",
+        "uid" : "b483287bf5bef52d",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573171,
+          "stop" : 1586501573529,
+          "duration" : 358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'谢玉霞'", "'userId='", "'061052015035430487'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365510]",
+        "uid" : "d6fbee687bdf59b5",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566382,
+          "stop" : 1586501566481,
+          "duration" : 99
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365510'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241396898]",
+        "uid" : "a6840ef3a5d43e44",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566093,
+          "stop" : 1586501566195,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241396898'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-28373101361631065137-严亮(Yan,Liang)]",
+        "uid" : "f61465d21ee672f5",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569625,
+          "stop" : 1586501569641,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'严亮(Yan,Liang)'", "'userId='", "'28373101361631065137'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365513]",
+        "uid" : "1d1407bdeb3a3ae8",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566678,
+          "stop" : 1586501567169,
+          "duration" : 491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365513'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserList[userId=-120048633333525706-蔡延伟]",
+        "uid" : "af613da11109a111",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567739,
+          "stop" : 1586501569621,
+          "duration" : 1882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'蔡延伟'", "'userId='", "'120048633333525706'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-]",
+        "uid" : "f777b7bacb13ad63",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565578,
+          "stop" : 1586501565692,
+          "duration" : 114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-192912201426134076-朱宋其]",
+        "uid" : "f97a31f19d694f6b",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501575922,
+          "stop" : 1586501576335,
+          "duration" : 413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'朱宋其'", "'userId='", "'192912201426134076'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=--userId为空]",
+        "uid" : "6b5f00582f137d30",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586501565118,
+          "stop" : 1586501565309,
+          "duration" : 191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId为空'", "'userId='", "''" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365515]",
+        "uid" : "91d9d618bc6bc986",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567254,
+          "stop" : 1586501567324,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365515'" ]
+      }, {
+        "name" : "test_get_user_dingDingUserTree[userId=-133744432730233274-石城榕]",
+        "uid" : "98b32e088d3ed56b",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573535,
+          "stop" : 1586501575917,
+          "duration" : 2382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'石城榕'", "'userId='", "'133744432730233274'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-广州战团]",
+        "uid" : "34037a486d3547cf",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501572494,
+          "stop" : 1586501572568,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'广州战团'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365512]",
+        "uid" : "8e288287e39a586c",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566574,
+          "stop" : 1586501566673,
+          "duration" : 99
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365512'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365526]",
+        "uid" : "b4c19ec358713f43",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567407,
+          "stop" : 1586501567471,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365526'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-7953655070]",
+        "uid" : "7fdc5d15d5307f67",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566199,
+          "stop" : 1586501566300,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365507'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleStaffList[roleId=-795365514]",
+        "uid" : "fae00d489168fa02",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567175,
+          "stop" : 1586501567250,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365514'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365528]",
+        "uid" : "7a9b7aa6d3f2d3d2",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567537,
+          "stop" : 1586501567595,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365528'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365527]",
+        "uid" : "970bc4fe2b68f31a",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567474,
+          "stop" : 1586501567533,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365527'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365529]",
+        "uid" : "b6c8a477c9ef2c1f",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567600,
+          "stop" : 1586501567669,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365529'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365530]",
+        "uid" : "585e4d02fa701374",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567673,
+          "stop" : 1586501567734,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365530'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-222994918]",
+        "uid" : "a28035ed9b18f361",
+        "parentUid" : "259cac4dfcd31ecfd73de28f93dc44d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566018,
+          "stop" : 1586501566090,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'222994918'" ]
+      } ],
+      "uid" : "259cac4dfcd31ecfd73de28f93dc44d7"
+    }, {
+      "name" : "13834-MainThread",
+      "children" : [ {
+        "name" : "test_get_user_dingDingUserList[userId=-061052015035430487-谢玉霞]",
+        "uid" : "e3b20f5ee0820407",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568629,
+          "stop" : 1586501569005,
+          "duration" : 376
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'谢玉霞'", "'userId='", "'061052015035430487'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365516]",
+        "uid" : "735334481e80c96a",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567169,
+          "stop" : 1586501567242,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365516'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-879471193]",
+        "uid" : "5fa939bae656b75e",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567373,
+          "stop" : 1586501567434,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'879471193'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-016147136723523953-尹文生]",
+        "uid" : "460b13fb1fd2f175",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501568168,
+          "stop" : 1586501568623,
+          "duration" : 455
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'尹文生'", "'userId='", "'016147136723523953'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365524]",
+        "uid" : "90049db06dbb274",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567524,
+          "stop" : 1586501567578,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365524'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365525]",
+        "uid" : "abad11f43885124f",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567582,
+          "stop" : 1586501567638,
+          "duration" : 56
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365525'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365513]",
+        "uid" : "ae9cd76b5f4451b0",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566572,
+          "stop" : 1586501566627,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365513'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365508]",
+        "uid" : "cc2d7010c93280a8",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566423,
+          "stop" : 1586501566491,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365508'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-08016413351174767-邓欢]",
+        "uid" : "7990eb0f2507787e",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586501565710,
+          "stop" : 1586501565793,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-客户管理中心]",
+        "uid" : "34e6b96c2b5931d8",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501573873,
+          "stop" : 1586501578489,
+          "duration" : 4616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'客户管理中心'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-08016413351174767-邓欢]",
+        "uid" : "d0ef8ca6921fac42",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567642,
+          "stop" : 1586501567716,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-061052015035430487-谢玉霞]",
+        "uid" : "6e0a1e5cf3a2c016",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565118,
+          "stop" : 1586501565508,
+          "duration" : 390
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'谢玉霞'", "'userId='", "'061052015035430487'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-240405944]",
+        "uid" : "6ac7388818098a5b",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566276,
+          "stop" : 1586501566336,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'240405944'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241951934]",
+        "uid" : "c08d227b529e5370",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566199,
+          "stop" : 1586501566271,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241951934'" ]
+      }, {
+        "name" : "test_get_user_dindDingGetUserLeader[userId=-1926033541844140-李建]",
+        "uid" : "c31df4151f38deec",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567721,
+          "stop" : 1586501568162,
+          "duration" : 441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李建'", "'userId='", "'1926033541844140'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-宁波战团]",
+        "uid" : "a6e3742f70ff7602",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501578493,
+          "stop" : 1586501578566,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'宁波战团'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365521]",
+        "uid" : "1b6cd5b7eaf9cdb",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567313,
+          "stop" : 1586501567369,
+          "duration" : 56
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365521'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365515]",
+        "uid" : "ee7d14926101ca02",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566707,
+          "stop" : 1586501567163,
+          "duration" : 456
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365515'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-06130487-userId错误]",
+        "uid" : "33722f05f7806da2",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586501565512,
+          "stop" : 1586501565619,
+          "duration" : 107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365523]",
+        "uid" : "5818d55f6d8bbedf",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567438,
+          "stop" : 1586501567519,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365523'" ]
+      }, {
+        "name" : "test_get_user_dindDingDeptMember[deptId=-241570938]",
+        "uid" : "6e42116468b638bb",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566340,
+          "stop" : 1586501566419,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241570938'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptUserList[deptName=-城市招商部]",
+        "uid" : "f7f3dbcd38289a1f",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501569010,
+          "stop" : 1586501573869,
+          "duration" : 4859
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptName='", "'城市招商部'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365514]",
+        "uid" : "f17027be071ff6ab",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566631,
+          "stop" : 1586501566703,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365514'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365512]",
+        "uid" : "d9db3728b1dc8c6b",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566494,
+          "stop" : 1586501566568,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365512'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-242030847]",
+        "uid" : "23de25478a2b3681",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501566075,
+          "stop" : 1586501566195,
+          "duration" : 120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'242030847'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-241141885]",
+        "uid" : "8f5ae1cb263ccfb7",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565970,
+          "stop" : 1586501566070,
+          "duration" : 100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'241141885'" ]
+      }, {
+        "name" : "test_get_user_dingDingDeptDetail[deptId=-236295909]",
+        "uid" : "65eebdd592a36a42",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501565807,
+          "stop" : 1586501565966,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'deptId='", "'236295909'" ]
+      }, {
+        "name" : "test_post_user_dingDingRoleDetail[roleId=-795365517]",
+        "uid" : "575098cb10e3594c",
+        "parentUid" : "a664fbb81f45f717ec54d35cc410894d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586501567246,
+          "stop" : 1586501567309,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'roleId='", "'795365517'" ]
+      } ],
+      "uid" : "a664fbb81f45f717ec54d35cc410894d"
     } ],
     "uid" : "a1e0a2e782738ac758e4007b94ccfcf6"
   } ],

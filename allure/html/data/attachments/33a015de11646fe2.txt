@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "deptId": "312971166",
+            "deptName": "财务BP",
+            "userList": null,
+            "childDeptVo": []
+        }
+    ],
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1586501574
+}

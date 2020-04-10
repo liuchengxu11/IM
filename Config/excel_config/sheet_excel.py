@@ -5,7 +5,7 @@ import json
 
 class Sheet():
 
-    def dingding_userid(self,row_id,column_id):
+    def dingding_sheet(self,row_id,column_id):
         excel=Get_excel()
         set=excel.get_excel("dingding")
         parameter=set.cell(row=row_id, column=column_id).value

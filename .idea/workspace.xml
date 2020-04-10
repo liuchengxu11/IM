@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de0cfeae-3067-42e1-932a-05882a4d2530" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Customer_Service_Center.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Customer_Service_Center.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/excel_config/sheet_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/excel_config/sheet_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSuite/im_select_dept_role/test_select_dept_role.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite/im_select_dept_role/test_select_dept_role.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Utils" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,11 +55,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Config" />
       <recent name="$PROJECT_DIR$/Utils" />
+      <recent name="$PROJECT_DIR$/Utils/db_tool" />
+      <recent name="$PROJECT_DIR$/TestSuite" />
+      <recent name="$PROJECT_DIR$/Config" />
       <recent name="$PROJECT_DIR$/TestData/sunxing_ny_app/page" />
-      <recent name="$PROJECT_DIR$/TestData" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Python.run">

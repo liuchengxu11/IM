@@ -1,0 +1,155 @@
+{
+  "uid" : "ff207bc6d7c24085",
+  "name" : "test_get_user_dingDingUser[userId=--userId为空]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingUser[userId=--userId为空]",
+  "historyId" : "971f204734175cc66f630cfd0ffe27b5",
+  "time" : {
+    "start" : 1586490836858,
+    "stop" : 1586490837080,
+    "duration" : 222
+  },
+  "description" : "\n        钉钉——获取用户详情\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉——获取用户详情\n    :return:\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "TypeError: 'NoneType' object is not subscriptable",
+  "statusTrace" : "self = <TestSuite.im_select_dept_role.test_select_dept_role.Test_case object at 0x7f9268667390>\ntest1 = 'userId=', test2 = '', case = 'userId为空'\n\n    @allure.epic(\"钉钉\")\n    @allure.feature(\"获取用户详情\")\n    @pytest.mark.parametrize(\"test1,test2,case\", Sheet().dingding_userid(row_id=2,column_id=3))\n    def test_get_user_dingDingUser(self, test1, test2, case):\n        \"\"\"\n        钉钉——获取用户详情\n        :return:\n        \"\"\"\n        print(test1)\n        print(test2)\n        print(case)\n        uri = \"/api/user/dingDingUser\"\n        allure.attach(\n            SX_IM_API +\n            uri,\n            \"地址\",\n            allure.attachment_type.TEXT)\n        headers = Login_Headers\n        allure.attach(json.dumps(\n            headers,\n            ensure_ascii=False,\n            indent=4), \"请求头\", allure.attachment_type.TEXT)\n        common = Common()\n        response = common.get(\n            uri,\n            params1=test1,\n            params2=test2,\n            headers=headers)\n        allure.attach(json.dumps(response.json(), ensure_ascii=False,\n                                 indent=4), \"响应\", allure.attachment_type.TEXT)\n        code = int(response.status_code)\n        code1 = int(json.loads(response.text)[\"code\"])\n        code2 = json.loads(response.text)[\"desc\"]\n>       assert case == json.loads(response.text)[\"data\"]['userName']\nE       TypeError: 'NoneType' object is not subscriptable\n\nTestSuite/im_select_dept_role/test_select_dept_role.py:82: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1586490836857,
+      "stop" : 1586490836857,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1586490836857,
+      "stop" : 1586490836857,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉——获取用户详情\n        :return:\n        ",
+    "status" : "broken",
+    "statusMessage" : "TypeError: 'NoneType' object is not subscriptable",
+    "statusTrace" : "self = <TestSuite.im_select_dept_role.test_select_dept_role.Test_case object at 0x7f9268667390>\ntest1 = 'userId=', test2 = '', case = 'userId为空'\n\n    @allure.epic(\"钉钉\")\n    @allure.feature(\"获取用户详情\")\n    @pytest.mark.parametrize(\"test1,test2,case\", Sheet().dingding_userid(row_id=2,column_id=3))\n    def test_get_user_dingDingUser(self, test1, test2, case):\n        \"\"\"\n        钉钉——获取用户详情\n        :return:\n        \"\"\"\n        print(test1)\n        print(test2)\n        print(case)\n        uri = \"/api/user/dingDingUser\"\n        allure.attach(\n            SX_IM_API +\n            uri,\n            \"地址\",\n            allure.attachment_type.TEXT)\n        headers = Login_Headers\n        allure.attach(json.dumps(\n            headers,\n            ensure_ascii=False,\n            indent=4), \"请求头\", allure.attachment_type.TEXT)\n        common = Common()\n        response = common.get(\n            uri,\n            params1=test1,\n            params2=test2,\n            headers=headers)\n        allure.attach(json.dumps(response.json(), ensure_ascii=False,\n                                 indent=4), \"响应\", allure.attachment_type.TEXT)\n        code = int(response.status_code)\n        code1 = int(json.loads(response.text)[\"code\"])\n        code2 = json.loads(response.text)[\"desc\"]\n>       assert case == json.loads(response.text)[\"data\"]['userName']\nE       TypeError: 'NoneType' object is not subscriptable\n\nTestSuite/im_select_dept_role/test_select_dept_role.py:82: TypeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b7ff38eddb5e7dc",
+      "name" : "地址",
+      "source" : "b7ff38eddb5e7dc.txt",
+      "type" : "text/plain",
+      "size" : 64
+    }, {
+      "uid" : "7a038d5d0b296094",
+      "name" : "请求头",
+      "source" : "7a038d5d0b296094.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "8a2218264dfa1137",
+      "name" : "响应",
+      "source" : "8a2218264dfa1137.txt",
+      "type" : "text/plain",
+      "size" : 162
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1586490837498,
+      "stop" : 1586490837498,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "feature",
+    "value" : "获取用户详情"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "12917-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "'userId为空'"
+  }, {
+    "name" : "test1",
+    "value" : "'userId='"
+  }, {
+    "name" : "test2",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ff207bc6d7c24085.json",
+  "parameterValues" : [ "'userId为空'", "'userId='", "''" ]
+}

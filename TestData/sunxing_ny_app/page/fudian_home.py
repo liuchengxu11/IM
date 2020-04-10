@@ -8,9 +8,9 @@ import time
 
 class FuDian_Home(Config_page):
     # 联系人
-    _name=("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1]")
+    _name=(By.XPATH,"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1]")
     # 联系电话
-    _iphone=(By.XPATH,"//*[@text='联系电话 请输入联系电话']")
+    _iphone=(By.XPATH,"//*[@resource-id='android:id/content']/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.EditText[2]")
     # 店铺名称
     _store_name=(By.XPATH,"//*[@text='店铺名称 请输入店铺名称']")
     # 店铺区域
@@ -25,7 +25,7 @@ class FuDian_Home(Config_page):
     _no=(By.XPATH,"//*[@text='取消']")
 
     def found_xiansuo(self):
-        self.find_element_and_sendkeys(self._name,send="光头强")
+        self.find_element_and_sendkeys(self._name,sendkeys="光头强")
         time.sleep(3)
         self.find_element_and_sendkeys(self._iphone,"15000000000")
         self.find_element_and_sendkeys(self._store_name,"熊大熊二烧烤")

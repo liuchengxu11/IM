@@ -2,29 +2,40 @@
 
 SX_IM_API = "http://test.gateway.sunxing.net/sunxing-im"
 
+
+
+Excel_Path = "/Users/liuchengxu/work/sunxing/IM/Config/Customer_Service_Center.xlsx"
+
 Login_Headers = {
     'Accept': 'application/json',
     'Content-Type': 'application/json',
     "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6IntcInJvbGVzXCI6W3tcImlkXCI6MjEzMixcInJvbGVJZFwiOlwiYWU3MWEyOTQtZGY4My00YWI4LTk2MzgtNTE5M2YxZTE4YmFlXCIsXCJkaW5UYWxrUm9sZUlkXCI6XCI5NDc2ODQxMTVcIixcInJvbGVDb2RlXCI6bnVsbCxcInJvbGVOYW1lXCI6XCJWUFwiLFwicm9sZUNvbnRlbnRcIjpudWxsLFwicm9sZURlcHRpZFwiOm51bGwsXCJyb2xlRGVwdG5hbWVcIjpudWxsLFwiZGlzYWJsZWRcIjowfV19IiwibmFtZSI6IuS4peS6rihZYW4sTGlhbmcpIiwiY2hhbm5lbCI6Ik5ZLVBDIiwiZGVwYXJ0bWVudCI6IlsyMjI5OTQ5MThdIiwiZXhwIjoxNTg5MjY0NDI4LCJ1c2VyaWQiOiIyODM3MzEwMTM2MTYzMTA2NTEzNyJ9.np_qoy3_BpyFPNtVzmDOWwcQSjrh1oTQad-z6zoM4bw"
 }
+DB_redis_host='192.168.100.70'
+
+DB_redis_pwd='Sunxing321'
+
+DB_redis_port=6379
+
+
 
 
 DingDing_userid = [
     ("userId=",
      "061052015035430487",
-     "id为谢玉霞"),
+     "谢玉霞"),
     ("userId=",
      "120048633333525706",
-     "id为蔡延伟"),
+     "蔡延伟"),
     ("userId=",
      "28373101361631065137",
-     "id为严亮"),
+     "严亮(Yan,Liang)"),
     ("userId=",
      "manager2564",
-     "id为曹林"),
+     "曹林"),
     ("userId=",
      "133744432730233274",
-     "id为石城榕"),
+     "石城榕"),
     ("userId=",
      "",
      "userId为空"),
@@ -34,6 +45,28 @@ DingDing_userid = [
     ("userId=",
      "abc",
      "userId错误"),
+    ("userId=",
+     "192912201426134076",
+     "朱宋其"),
+    ("userId=",
+     "140420684527533045",
+     "武西亮"),
+    ("userId=",
+     "056336380824088128",
+     "张博强"),
+    ("userId=",
+     "102013620721191002",
+     "刘程旭"),
+    ("userId=",
+     "08016413351174767",
+     "邓欢"),
+    ("userId=",
+     "1926033541844140",
+     "李建"),
+    ("userId=",
+     "016147136723523953",
+     "尹文生"),
+
 ]
 
 
@@ -150,7 +183,7 @@ DingDing_deptName = [
     ("deptName=",
      "隼行测试"),
     ("deptName=",
-     "南部军区"),
+     "南区"),
     ("deptName=",
      "东部军区"),
     ("deptName=",
@@ -192,36 +225,36 @@ DingDing_deptName = [
     ("deptName=",
      ""),
     ("deptName=",
-     "abc"),
+     "山东"),
 ]
 
 
-IM_json = [
-    ("userId=",
-     "061052015035430487",
-     "id为谢玉霞"),
-    ("userId=",
-     "120048633333525706",
-     "id为蔡延伟"),
-    ("userId=",
-     "28373101361631065137",
-     "id为严亮"),
-    ("userId=",
-     "manager2564",
-     "id为曹林"),
-    ("userId=",
-     "133744432730233274",
-     "id为石城榕"),
-    ("userId=",
-     "",
-     "userId为空"),
-    ("userId=",
-     "06130487",
-     "userId错误"),
-    ("userId=",
-     "abc",
-     "userId错误"),
-]
+# IM_json = [
+#     ("userId=",
+#      "061052015035430487",
+#      "id为谢玉霞"),
+#     ("userId=",
+#      "120048633333525706",
+#      "id为蔡延伟"),
+#     ("userId=",
+#      "28373101361631065137",
+#      "id为严亮"),
+#     ("userId=",
+#      "manager2564",
+#      "id为曹林"),
+#     ("userId=",
+#      "133744432730233274",
+#      "id为石城榕"),
+#     ("userId=",
+#      "",
+#      "userId为空"),
+#     ("userId=",
+#      "06130487",
+#      "userId错误"),
+#     ("userId=",
+#      "abc",
+#      "userId错误"),
+# ]
 
 
 IM_json = [

@@ -1,517 +1,61 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Mar 25 11:41:28 CST 2020","Wed Mar 25 11:41:29 CST 2020","201","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-山东战区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","98","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365508]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:31 CST 2020","1203","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-工作组]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:33 CST 2020","8815","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-隼行测试]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","56","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-242129987]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","106","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-240730909]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","556","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-061052015035430487-id为谢玉霞]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:29 CST 2020","58","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=--userId为空]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:31 CST 2020","82","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-abc-userId错误]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","61","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=--userId为空]","
+"passed","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","160","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-016147136723523953-尹文生]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","100","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-242030847]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","95","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241951934]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:32 CST 2020","608","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-manager2564-id为曹林]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","95","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-224110056]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:29 CST 2020","266","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-江苏战区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:25 CST 2020","478","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-120048633333525706-id为蔡延伟]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","69","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-06130487-userId错误]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","360","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-manager2564-id为曹林]","
+"broken","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","94","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-06130487-userId错误]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","101","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-267097103]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:29 CST 2020","195","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-温州战团]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:24 CST 2020","67","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365529]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","64","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365530]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:24 CST 2020","81","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365524]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","66","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-24]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","71","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241295858]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:23 CST 2020","81","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-243154034]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","115","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365529]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:30 CST 2020","198","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-福建战区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:30 CST 2020","235","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-杭州战营1]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","72","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365521]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:31 CST 2020","74","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-06130487-userId错误]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","76","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365526]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","77","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365520]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","92","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241141885]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","74","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365510]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","82","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleList","
-        钉钉-获取角色列表
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:30 CST 2020","283","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-杭州战营工作组1]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:24 CST 2020","65","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365514]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","118","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365513]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","88","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-240450889]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","84","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-240405944]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","85","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365513]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","85","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365518]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","69","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-abc-userId错误]","
+"passed","Fri Apr 10 11:53:56 CST 2020","Fri Apr 10 11:53:57 CST 2020","319","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-061052015035430487-谢玉霞]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:29 CST 2020","385","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-杭州战团]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:28 CST 2020","4268","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-28373101361631065137-id为严亮]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","63","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365518]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","94","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-06130487-userId错误]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","103","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241396898]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","67","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-dasdasda]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","103","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-911587957]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","70","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-06130487-userId错误]","
+"broken","Fri Apr 10 11:53:56 CST 2020","Fri Apr 10 11:53:57 CST 2020","222","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=--userId为空]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:30 CST 2020","81","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","78","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365516]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","93","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-941504101]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","99","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241754918]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","83","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-7953655070]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:25 CST 2020","611","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-133744432730233274-id为石城榕]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:25 CST 2020","Wed Mar 25 11:41:25 CST 2020","427","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-东部军区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","65","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365527]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","87","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-236295909]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:31 CST 2020","423","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-manager2564-id为曹林]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","94","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365517]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:23 CST 2020","57","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","68","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-947684115]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","72","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365512]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","67","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-abc-userId错误]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","60","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:30 CST 2020","1285","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-广州战营]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","63","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-941504101]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","68","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365516]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","85","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-947684115]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:30 CST 2020","537","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-浙江战区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","60","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241754918]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:33 CST 2020","1700","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-广州战团]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","66","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:31 CST 2020","85","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=--userId为空]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","66","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241974895]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:34 CST 2020","2701","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-133744432730233274-id为石城榕]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:32 CST 2020","Wed Mar 25 11:41:32 CST 2020","62","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=--userId为空]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:31 CST 2020","407","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-28373101361631065137-id为严亮]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","65","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365528]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","87","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365530]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:24 CST 2020","63","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-7953655071]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","90","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365515]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:25 CST 2020","Wed Mar 25 11:41:29 CST 2020","4321","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-客户管理中心]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:23 CST 2020","58","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241951934]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:28 CST 2020","Wed Mar 25 11:41:28 CST 2020","441","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-manager2564-id为曹林]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","68","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365510]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","80","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-947651132]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","101","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-911240948]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","55","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365515]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","70","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-240405944]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:25 CST 2020","Wed Mar 25 11:41:29 CST 2020","4195","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-城市招商部]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","69","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-911240948]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","72","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241570938]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:33 CST 2020","Wed Mar 25 11:41:35 CST 2020","2323","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-南部军区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:32 CST 2020","1351","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-061052015035430487-id为谢玉霞]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:32 CST 2020","Wed Mar 25 11:41:37 CST 2020","4769","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-28373101361631065137-id为严亮]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","69","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365519]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","92","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-241570938]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:34 CST 2020","Wed Mar 25 11:41:34 CST 2020","162","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-06130487-userId错误]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","110","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365525]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:25 CST 2020","1475","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-061052015035430487-id为谢玉霞]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","345","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-061052015035430487-id为谢玉霞]","
+"broken","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","74","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-abc-userId错误]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","55","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-242044930]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","69","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365526]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","102","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-267097103]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","77","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365521]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:25 CST 2020","Wed Mar 25 11:41:29 CST 2020","4385","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-120048633333525706-id为蔡延伟]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","71","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-243154034]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:30 CST 2020","206","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-杭州战营工作组2]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","55","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241396898]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:24 CST 2020","77","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365509]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","98","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-222994918]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","59","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-911587957]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","74","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365525]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:23 CST 2020","66","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-222994918]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","86","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365514]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","67","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241295858]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","316","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-28373101361631065137-id为严亮]","
+"passed","Fri Apr 10 11:53:56 CST 2020","Fri Apr 10 11:53:57 CST 2020","310","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-28373101361631065137-严亮(Yan,Liang)]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","63","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-242358873]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","56","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-236295909]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","326","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-133744432730233274-id为石城榕]","
+"broken","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","66","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-08016413351174767-邓欢]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:23 CST 2020","111","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-242358873]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","69","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-dasdasda]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","64","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-240730909]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","387","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-28373101361631065137-id为严亮]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:34 CST 2020","2834","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-120048633333525706-id为蔡延伟]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","537","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-manager2564-id为曹林]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","66","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365523]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:28 CST 2020","4728","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserList[userId=-133744432730233274-id为石城榕]","
-        钉钉-获取当前用户下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","97","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365524]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","283","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-120048633333525706-id为蔡延伟]","
+"passed","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","153","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-102013620721191002-刘程旭]","
         钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","95","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365528]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","122","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365519]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","70","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=-abc-userId错误]","
-        钉钉-获取用户上级详情
-        "
-"passed","Wed Mar 25 11:41:34 CST 2020","Wed Mar 25 11:41:34 CST 2020","57","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUserTree[userId=-abc-userId错误]","
-        钉钉-获取当前的扽路人树形菜单
-        "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:31 CST 2020","348","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-133744432730233274-id为石城榕]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:23 CST 2020","56","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-24]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","284","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDept","
-        钉钉——获取部门列表
+"passed","Fri Apr 10 11:53:56 CST 2020","Fri Apr 10 11:53:57 CST 2020","353","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-120048633333525706-蔡延伟]","
+        钉钉——获取用户详情
         :return:
         "
-"passed","Wed Mar 25 11:41:31 CST 2020","Wed Mar 25 11:41:31 CST 2020","401","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-061052015035430487-id为谢玉霞]","
-        钉钉-获取当前登录人部门列表
+"passed","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","173","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-056336380824088128-张博强]","
+        钉钉——获取用户详情
+        :return:
         "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:29 CST 2020","168","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-杭州战营2]","
-        钉钉-获取部门下所有员工
+"passed","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","168","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-1926033541844140-李建]","
+        钉钉——获取用户详情
+        :return:
         "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","94","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365520]","
-        钉钉-获取角色下员工列表
+"passed","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","154","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-140420684527533045-武西亮]","
+        钉钉——获取用户详情
+        :return:
         "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","68","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingGetUserLeader[userId=--userId为空]","
-        钉钉-获取用户上级详情
+"passed","Fri Apr 10 11:53:56 CST 2020","Fri Apr 10 11:53:57 CST 2020","312","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-133744432730233274-石城榕]","
+        钉钉——获取用户详情
+        :return:
         "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:29 CST 2020","165","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-宁波战团]","
-        钉钉-获取部门下所有员工
+"passed","Fri Apr 10 11:53:57 CST 2020","Fri Apr 10 11:53:57 CST 2020","164","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-192912201426134076-朱宋其]","
+        钉钉——获取用户详情
+        :return:
         "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:30 CST 2020","102","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-abc]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","59","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-240450889]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","92","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-242044930]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","68","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-879471193]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:30 CST 2020","243","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-上海战区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","110","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-242030847]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","90","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-7953655071]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:29 CST 2020","Wed Mar 25 11:41:31 CST 2020","2028","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptUserList[deptName=-广东战区]","
-        钉钉-获取部门下所有员工
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","60","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241974895]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","87","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365517]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","130","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365523]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","60","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-795365508]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","68","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-7953655070]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:24 CST 2020","Wed Mar 25 11:41:24 CST 2020","58","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleDetail[roleId=-947651132]","
-        钉钉-获取角色详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","71","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-241141885]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","89","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-242129987]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:30 CST 2020","Wed Mar 25 11:41:30 CST 2020","415","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptList[userId=-120048633333525706-id为蔡延伟]","
-        钉钉-获取当前登录人部门列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","80","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365509]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","76","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365512]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:22 CST 2020","Wed Mar 25 11:41:22 CST 2020","53","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingDeptDetail[deptId=-]","
-        钉钉-获取部门详情
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","80","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-795365527]","
-        钉钉-获取角色下员工列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","61","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dindDingDeptMember[deptId=-224110056]","
-        钉钉-获取部门下用户列表
-        "
-"passed","Wed Mar 25 11:41:23 CST 2020","Wed Mar 25 11:41:23 CST 2020","84","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_post_user_dingDingRoleStaffList[roleId=-879471193]","
-        钉钉-获取角色下员工列表
+"broken","Fri Apr 10 11:53:56 CST 2020","Fri Apr 10 11:53:57 CST 2020","218","TestSuite.im_select_dept_role","test_select_dept_role","Test_case","","","test_get_user_dingDingUser[userId=-manager2564-曹林]","
+        钉钉——获取用户详情
+        :return:
         "

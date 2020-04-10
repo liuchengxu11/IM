@@ -1,5 +1,78 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: 'NoneType' object is not subscriptable",
+      "children" : [ {
+        "name" : "test_get_user_dingDingUser[userId=--userId为空]",
+        "uid" : "ff207bc6d7c24085",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586490836858,
+          "stop" : 1586490837080,
+          "duration" : 222
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId为空'", "'userId='", "''" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-manager2564-曹林]",
+        "uid" : "83199fc29801b09a",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586490836858,
+          "stop" : 1586490837076,
+          "duration" : 218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'曹林'", "'userId='", "'manager2564'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-06130487-userId错误]",
+        "uid" : "be71a122cae56d20",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586490837182,
+          "stop" : 1586490837276,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'06130487'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-abc-userId错误]",
+        "uid" : "fef179a5b1ee3b44",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586490837218,
+          "stop" : 1586490837292,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'userId错误'", "'userId='", "'abc'" ]
+      }, {
+        "name" : "test_get_user_dingDingUser[userId=-08016413351174767-邓欢]",
+        "uid" : "149f08c813547711",
+        "parentUid" : "86a928d47f47009c564bd8e345a40463",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586490837332,
+          "stop" : 1586490837398,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'邓欢'", "'userId='", "'08016413351174767'" ]
+      } ],
+      "uid" : "86a928d47f47009c564bd8e345a40463"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }

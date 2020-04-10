@@ -1,0 +1,30 @@
+{
+    "data": {
+        "userId": "192912201426134076",
+        "userName": "朱宋其",
+        "workPlace": "",
+        "remark": "",
+        "mobile": "13127662187",
+        "email": "",
+        "deptVos": [
+            {
+                "deptId": "222420918",
+                "deptName": "客户管理中心"
+            }
+        ],
+        "position": "",
+        "avatar": "",
+        "roles": [
+            {
+                "roleId": "947651132",
+                "roleName": "CM",
+                "groupName": "招商",
+                "type": null
+            }
+        ]
+    },
+    "code": 200,
+    "desc": "ok",
+    "info": "处理成功",
+    "ts": 1586490837
+}

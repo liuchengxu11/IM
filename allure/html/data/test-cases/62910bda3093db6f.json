@@ -1,0 +1,147 @@
+{
+  "uid" : "62910bda3093db6f",
+  "name" : "test_get_user_dingDingUser[userId=-102013620721191002-刘程旭]",
+  "fullName" : "TestSuite.im_select_dept_role.test_select_dept_role.Test_case#test_get_user_dingDingUser[userId=-102013620721191002-刘程旭]",
+  "historyId" : "d0b8920f3d8eed097cb464b49916d3c3",
+  "time" : {
+    "start" : 1586490837175,
+    "stop" : 1586490837328,
+    "duration" : 153
+  },
+  "description" : "\n        钉钉——获取用户详情\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    钉钉——获取用户详情\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1586490837174,
+      "stop" : 1586490837174,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1586490836857,
+      "stop" : 1586490836857,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        钉钉——获取用户详情\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5849ba4fb57290f1",
+      "name" : "地址",
+      "source" : "5849ba4fb57290f1.txt",
+      "type" : "text/plain",
+      "size" : 64
+    }, {
+      "uid" : "5a69201c4bb2c029",
+      "name" : "请求头",
+      "source" : "5a69201c4bb2c029.txt",
+      "type" : "text/plain",
+      "size" : 654
+    }, {
+      "uid" : "9c5383041e14dbd3",
+      "name" : "响应",
+      "source" : "9c5383041e14dbd3.txt",
+      "type" : "text/plain",
+      "size" : 845
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1586490837498,
+      "stop" : 1586490837498,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "钉钉"
+  }, {
+    "name" : "feature",
+    "value" : "获取用户详情"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.im_select_dept_role"
+  }, {
+    "name" : "suite",
+    "value" : "test_select_dept_role"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "12917-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.im_select_dept_role.test_select_dept_role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "'刘程旭'"
+  }, {
+    "name" : "test1",
+    "value" : "'userId='"
+  }, {
+    "name" : "test2",
+    "value" : "'102013620721191002'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62910bda3093db6f.json",
+  "parameterValues" : [ "'刘程旭'", "'userId='", "'102013620721191002'" ]
+}

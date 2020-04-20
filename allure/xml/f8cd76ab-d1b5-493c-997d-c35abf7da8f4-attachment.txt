@@ -1,7 +1,0 @@
-{
-    "data": null,
-    "code": 500,
-    "desc": "SYSTEM_CALL_FAILED",
-    "info": "{\"errcode\":40009,\"errmsg\":\"不合法的部门id\"}",
-    "ts": 1586501565
-}

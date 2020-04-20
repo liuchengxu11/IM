@@ -1,0 +1,11 @@
+{
+    "msgType": "text",
+    "businessSystem": "NY_APP",
+    "dingWebHookUrl": "",
+    "atMobiles": [],
+    "isAtAll": "",
+    "title": "帅过金城武",
+    "content": "https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1",
+    "messageUrl": "",
+    "picUrl": ""
+}

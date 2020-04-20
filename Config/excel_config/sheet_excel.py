@@ -11,5 +11,9 @@ class Sheet():
         parameter=set.cell(row=row_id, column=column_id).value
         return eval(parameter)
 
-
+    def kf_sheet(self,row_id,column_id):
+        excel=Get_excel()
+        set=excel.get_excel("kf")
+        parameter=set.cell(row=row_id, column=column_id).value
+        return eval(parameter)
 

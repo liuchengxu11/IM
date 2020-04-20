@@ -1,6 +1,6 @@
 import pytest
 import allure
-from Config.Config import SX_IM_API, Login_Headers, DingDing_deptId, DingDing_roleId, DingDing_userid, DingDing_deptName,IM_json
+from Config.Config import SX_IM_API, Login_Headers
 from Utils.common import Common
 import json
 from Utils.db_tool.rides_db import Db_redis
@@ -20,35 +20,35 @@ ding_IM=Sheet().dingding_sheet(row_id=13,column_id=3)
 class Test_case():
     def setup_class(self):
         self.db = Db_redis()
-    # @allure.epic("钉钉")
-    # @allure.feature("获取部门列表")
-    # def test_get_user_dingDingDept(self):
-    #     """
-    #     钉钉——获取部门列表
-    #     :return:
-    #     """
-    #     uri = "/api/user/dingDingDept"
-    #     allure.attach(SX_IM_API + uri, "地址", allure.attachment_type.TEXT)
-    #     headers = Login_Headers
-    #     allure.attach(json.dumps(
-    #         headers,
-    #         ensure_ascii=False,
-    #         indent=4),
-    #         '请求头', allure.attachment_type.TEXT)
-    #     common = Common()
-    #     response = common.get(uri, headers=headers)
-    #     allure.attach(json.dumps(
-    #         response.json(),
-    #         ensure_ascii=False,
-    #         indent=4), "响应", allure.attachment_type.TEXT)
-    #     print(response.text)
-    #     code = int(response.status_code)
-    #     code1 = json.loads(response.text)["code"]
-    #     code2 = json.loads(response.text)["desc"]
-    #     if code == 200 and code1 == 0 and code2 == "ok":
-    #         print("——————————/api/user/dingDingDept调用成功")
-    #     else:
-    #         print("——————————/api/user/dingDingDept调用失败")
+    @allure.epic("钉钉")
+    @allure.feature("获取部门列表")
+    def test_get_user_dingDingDept(self):
+        """
+        钉钉——获取部门列表
+        :return:
+        """
+        uri = "/api/user/dingDingDept"
+        allure.attach(SX_IM_API + uri, "地址", allure.attachment_type.TEXT)
+        headers = Login_Headers
+        allure.attach(json.dumps(
+            headers,
+            ensure_ascii=False,
+            indent=4),
+            '请求头', allure.attachment_type.TEXT)
+        common = Common()
+        response = common.get(uri, headers=headers)
+        allure.attach(json.dumps(
+            response.json(),
+            ensure_ascii=False,
+            indent=4), "响应", allure.attachment_type.TEXT)
+        print(response.text)
+        code = int(response.status_code)
+        code1 = json.loads(response.text)["code"]
+        code2 = json.loads(response.text)["desc"]
+        if code == 200 and code1 == 0 and code2 == "ok":
+            print("——————————/api/user/dingDingDept调用成功")
+        else:
+            print("——————————/api/user/dingDingDept调用失败")
 
     @allure.epic("钉钉")
     @allure.feature("获取用户详情")

@@ -6,6 +6,7 @@ import os
 if __name__ == "__main__":
     test_case1 = "TestSuite/im_select_dept_role/test_select_dept_role.py"
     test_case2 = "TestSuite/im_select_dept_role/test_regression.py"
+    kf_pc_case = "TestSuite/pc_customer_service_center/test_im.py"
     xml_allure = './allure/xml/'
     html_allure = './allure/html/'
 
@@ -19,7 +20,7 @@ if __name__ == "__main__":
                 os.remove(c_path)
     del_file(xml_allure)
     pytest.main(["-s", "-n", "6", '--alluredir',
-                 xml_allure, html_allure, test_case1])
+                 xml_allure, html_allure, kf_pc_case])
     # pytest.main(["-s", '--alluredir',
     #              xml_allure, html_allure, test_case2])
     cmd1 = 'allure generate %s -o %s --clean' % (

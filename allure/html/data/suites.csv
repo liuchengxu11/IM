@@ -1,25 +1,105 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Apr 20 10:56:25 CST 2020","Mon Apr 20 10:56:25 CST 2020","57","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_dingding_news_sendMessage[markdown--DataGroup-atMobiles3--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---业务系统未传]","
-        钉钉机器人群消息推送
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","16","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[zhangsan-zhangsan-1-自己发给自己 客户]","
+        结束会话
         :return:
         "
-"passed","Mon Apr 20 10:56:25 CST 2020","Mon Apr 20 10:56:25 CST 2020","56","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_dingding_news_sendMessage[text-NY_APP--atMobiles5--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---文本消息类型  内容传递的是图片链接]","
-        钉钉机器人群消息推送
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","16","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[102013620721191002--客服状态没传]","
+        更新客服状态
         :return:
         "
-"passed","Mon Apr 20 10:56:25 CST 2020","Mon Apr 20 10:56:25 CST 2020","105","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_dingding_news_sendMessage[markdown-NY_PC-DataGroup-atMobiles0--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---markdown消息-鲶鱼pc发给数据组]","
-        钉钉机器人群消息推送
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","17","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[102013620721191002-1-离线]","
+        更新客服状态
         :return:
         "
-"passed","Mon Apr 20 10:56:25 CST 2020","Mon Apr 20 10:56:25 CST 2020","57","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_dingding_news_sendMessage[-NY_PC-DataGroup-atMobiles1--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---未传msgType 内容]","
-        钉钉机器人群消息推送
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","14","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[-lisi-0-未填 发送账户]","
+        结束会话
         :return:
         "
-"passed","Mon Apr 20 10:56:25 CST 2020","Mon Apr 20 10:56:25 CST 2020","56","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_dingding_news_sendMessage[lalal-NY_PC-DataGroup-atMobiles2--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---错误的msg内容]","
-        钉钉机器人群消息推送
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","15","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭--15000000000-liuchengxu@163.com-web-用户身份未传]","
+        初始化登陆接口
         :return:
         "
-"passed","Mon Apr 20 10:56:25 CST 2020","Mon Apr 20 10:56:25 CST 2020","57","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_dingding_news_sendMessage[markdown-NY_APP--atMobiles4--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---机器人 roup没传]","
-        钉钉机器人群消息推送
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","17","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[zhangsan-lisi--未填 userType]","
+        结束会话
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","15","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[---必填项都未填]","
+        结束会话
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","15","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭--15000000000-liuchengxu@163.com-web-用户身份 未传]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","21","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[102013620721191002-2-忙碌]","
+        更新客服状态
+        :return:
+        "
+"passed","Fri May 08 15:13:42 CST 2020","Fri May 08 15:13:42 CST 2020","14","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-1-15000000000-liuchengxu@163.com-web-客户 类型为web0]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","22","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[zhangsan-lisi-1-异对 客户]","
+        结束会话
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","13","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-3-15000000000--web-邮箱未填写]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","15","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu--0-15000000000-liuchengxu@163.com-web-用户昵称 未传]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","15","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[zhangsan-zhangsan-0-自己发给自己 客服]","
+        结束会话
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","65","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[10086-77-错误的客服账号]","
+        更新客服状态
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","14","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-3-15000000000-liuchengxu@163.com--loginType未填写]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:42 CST 2020","Fri May 08 15:13:42 CST 2020","15","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-0-15000000000-liuchengxu@163.com-app-客服 类型为app]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","42","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[-刘程旭-0-15000000000-liuchengxu@163.com-web-登陆账号 未传]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:42 CST 2020","Fri May 08 15:13:43 CST 2020","14","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-1-15000000000-liuchengxu@163.com-web-客户 类型为web1]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:42 CST 2020","Fri May 08 15:13:42 CST 2020","42","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-0-15000000000-liuchengxu@163.com-web-客服 类型为web]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","22","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[102013620721191002-0-在线]","
+        更新客服状态
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","18","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[-77-客服账号没传]","
+        更新客服状态
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","18","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[zhangsan--0-未填 接受账户]","
+        结束会话
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","16","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init[liuchengxu-刘程旭-3-15000000000-liuchengxu@163.com-web-错误的用户身份  3]","
+        初始化登陆接口
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","22","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_updateCustomerServiceStatus[102013620721191002-77-错误的客服状态]","
+        更新客服状态
+        :return:
+        "
+"passed","Fri May 08 15:13:43 CST 2020","Fri May 08 15:13:43 CST 2020","21","TestSuite.pc_customer_service_center","test_im","Test_case","","","test_im_init_disconnect[zhangsan-lisi-0-异对 客服]","
+        结束会话
         :return:
         "

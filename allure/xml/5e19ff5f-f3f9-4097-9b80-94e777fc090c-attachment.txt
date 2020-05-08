@@ -1,0 +1,5 @@
+{
+    "fromAccount": "zhangsan",
+    "to": "lisi",
+    "userType": "1"
+}

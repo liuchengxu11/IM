@@ -1,0 +1,5 @@
+{
+    "fromAccount": "",
+    "to": "",
+    "userType": ""
+}

@@ -2,11 +2,13 @@
 
 SX_IM_API = "http://test.gateway.sunxing.net/sunxing-im"
 
-SX_PC_kf_API= "http://test.gateway.sunxing.net"
+SX_PC_kf_API= "http://192.168.100.209:8300"
 
 SX_PC_kf_IM_API = "http://test.gateway.sunxing.net/sunxing-im"
 
 Excel_Path = "/Users/liuchengxu/work/sunxing/IM/Config/Customer_Service_Center.xlsx"
+
+sx_zs_api = "http://test.gateway.sunxing.net/sunxing-service-merchants"
 
 SX_PC_IM_headers = {
     "Content-Type": "application/json",

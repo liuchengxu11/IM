@@ -19,13 +19,14 @@ if __name__ == "__main__":
             else:
                 os.remove(c_path)
     del_file(xml_allure)
-    pytest.main(["-s", "-n", "6", '--alluredir',
+    # pytest.main(["-s", "-n", "6", '--alluredir',
+    #              xml_allure, html_allure, kf_pc_case])
+    pytest.main(["-s", '--alluredir',
                  xml_allure, html_allure, kf_pc_case])
-    # pytest.main(["-s", '--alluredir',
-    #              xml_allure, html_allure, test_case2])
     cmd1 = 'allure generate %s -o %s --clean' % (
         xml_allure, html_allure)
     cmd2 = 'allure serve %s' % (xml_allure)
     shell_tool.invoke(cmd1)
     shell_tool.invoke(cmd2)
+
 

@@ -1,0 +1,123 @@
+{
+  "uid" : "a8896660f4e83095",
+  "name" : "test_im_updateCustomerServiceStatus[10086-77-错误的客服账号]",
+  "fullName" : "TestSuite.pc_customer_service_center.test_im.Test_case#test_im_updateCustomerServiceStatus[10086-77-错误的客服账号]",
+  "historyId" : "89ea00dd1cd8fdd8e92cfbc4b8c23f05",
+  "time" : {
+    "start" : 1588922023507,
+    "stop" : 1588922023572,
+    "duration" : 65
+  },
+  "description" : "\n        更新客服状态\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    更新客服状态\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1588922023506,
+      "stop" : 1588922023506,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        更新客服状态\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d7483b40d6237be9",
+      "name" : "地址",
+      "source" : "d7483b40d6237be9.txt",
+      "type" : "text/plain",
+      "size" : 90
+    }, {
+      "uid" : "af98ea7df8a30eec",
+      "name" : "请求头",
+      "source" : "af98ea7df8a30eec.txt",
+      "type" : "text/plain",
+      "size" : 975
+    }, {
+      "uid" : "baf90d1acbc2d87e",
+      "name" : "body",
+      "source" : "baf90d1acbc2d87e.txt",
+      "type" : "text/plain",
+      "size" : 46
+    }, {
+      "uid" : "1e02b4b60751d4ad",
+      "name" : "响应",
+      "source" : "1e02b4b60751d4ad.txt",
+      "type" : "text/plain",
+      "size" : 120
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "更新客服状态"
+  }, {
+    "name" : "epic",
+    "value" : "即时通讯"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.pc_customer_service_center"
+  }, {
+    "name" : "suite",
+    "value" : "test_im"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "20620-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.pc_customer_service_center.test_im"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "account",
+    "value" : "'10086'"
+  }, {
+    "name" : "case",
+    "value" : "'错误的客服账号'"
+  }, {
+    "name" : "status",
+    "value" : "'77'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8896660f4e83095.json",
+  "parameterValues" : [ "'10086'", "'错误的客服账号'", "'77'" ]
+}

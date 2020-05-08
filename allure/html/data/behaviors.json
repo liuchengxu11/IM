@@ -1,91 +1,359 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
-    "name" : "IM消息推送",
+    "name" : "即时通讯",
     "children" : [ {
-      "name" : "钉钉机器人群消息推送",
+      "name" : "初始化登陆",
       "children" : [ {
-        "name" : "test_dingding_news_sendMessage[markdown--DataGroup-atMobiles3--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---业务系统未传]",
-        "uid" : "6fc09481f49c1aeb",
-        "parentUid" : "c6a86cecb438ce98c4ff3c7b41755f8e",
+        "name" : "test_im_init[liuchengxu-刘程旭-0-15000000000-liuchengxu@163.com-web-客服 类型为web]",
+        "uid" : "c8bc0a0eb100e721",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
         "status" : "passed",
         "time" : {
-          "start" : 1587351385191,
-          "stop" : 1587351385248,
-          "duration" : 57
+          "start" : 1588922022895,
+          "stop" : 1588922022937,
+          "duration" : 42
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "[]", "''", "'业务系统未传'", "'https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1'", "'DataGroup'", "''", "''", "'markdown'", "''", "'帅过金城武'" ]
+        "parameters" : [ "'liuchengxu'", "'客服 类型为web'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "'0'" ]
       }, {
-        "name" : "test_dingding_news_sendMessage[text-NY_APP--atMobiles5--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---文本消息类型  内容传递的是图片链接]",
-        "uid" : "a4abddde8e570439",
-        "parentUid" : "c6a86cecb438ce98c4ff3c7b41755f8e",
+        "name" : "test_im_init[liuchengxu-刘程旭-0-15000000000-liuchengxu@163.com-app-客服 类型为app]",
+        "uid" : "c399a11f3c04d61e",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
         "status" : "passed",
         "time" : {
-          "start" : 1587351385191,
-          "stop" : 1587351385247,
-          "duration" : 56
+          "start" : 1588922022946,
+          "stop" : 1588922022961,
+          "duration" : 15
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "[]", "'NY_APP'", "'文本消息类型  内容传递的是图片链接'", "'https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1'", "''", "''", "''", "'text'", "''", "'帅过金城武'" ]
+        "parameters" : [ "'liuchengxu'", "'客服 类型为app'", "'liuchengxu@163.com'", "'app'", "'刘程旭'", "'15000000000'", "'0'" ]
       }, {
-        "name" : "test_dingding_news_sendMessage[markdown-NY_PC-DataGroup-atMobiles0--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---markdown消息-鲶鱼pc发给数据组]",
-        "uid" : "3e172e510c9cc056",
-        "parentUid" : "c6a86cecb438ce98c4ff3c7b41755f8e",
+        "name" : "test_im_init[liuchengxu-刘程旭-1-15000000000-liuchengxu@163.com-web-客户 类型为web0]",
+        "uid" : "3414effd2b4b243",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
         "status" : "passed",
         "time" : {
-          "start" : 1587351385191,
-          "stop" : 1587351385296,
-          "duration" : 105
+          "start" : 1588922022967,
+          "stop" : 1588922022981,
+          "duration" : 14
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "[]", "'NY_PC'", "'markdown消息-鲶鱼pc发给数据组'", "'https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1'", "'DataGroup'", "''", "''", "'markdown'", "''", "'帅过金城武'" ]
+        "parameters" : [ "'liuchengxu'", "'客户 类型为web'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "'1'" ]
       }, {
-        "name" : "test_dingding_news_sendMessage[-NY_PC-DataGroup-atMobiles1--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---未传msgType 内容]",
-        "uid" : "3c10bbeb60cd7460",
-        "parentUid" : "c6a86cecb438ce98c4ff3c7b41755f8e",
+        "name" : "test_im_init[liuchengxu-刘程旭-1-15000000000-liuchengxu@163.com-web-客户 类型为web1]",
+        "uid" : "5e83f14e76daab8e",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
         "status" : "passed",
         "time" : {
-          "start" : 1587351385191,
-          "stop" : 1587351385248,
-          "duration" : 57
+          "start" : 1588922022987,
+          "stop" : 1588922023001,
+          "duration" : 14
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "[]", "'NY_PC'", "'未传msgType 内容'", "'https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1'", "'DataGroup'", "''", "''", "''", "''", "'帅过金城武'" ]
+        "parameters" : [ "'liuchengxu'", "'客户 类型为web'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "'1'" ]
       }, {
-        "name" : "test_dingding_news_sendMessage[lalal-NY_PC-DataGroup-atMobiles2--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---错误的msg内容]",
-        "uid" : "120d28ec4cdc1feb",
-        "parentUid" : "c6a86cecb438ce98c4ff3c7b41755f8e",
+        "name" : "test_im_init[liuchengxu-刘程旭--15000000000-liuchengxu@163.com-web-用户身份未传]",
+        "uid" : "89ca7d4ccf56c2a",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
         "status" : "passed",
         "time" : {
-          "start" : 1587351385191,
-          "stop" : 1587351385247,
-          "duration" : 56
+          "start" : 1588922023006,
+          "stop" : 1588922023021,
+          "duration" : 15
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "[]", "'NY_PC'", "'错误的msg内容'", "'https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1'", "'DataGroup'", "''", "''", "'lalal'", "''", "'帅过金城武'" ]
+        "parameters" : [ "'liuchengxu'", "'用户身份未传'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "''" ]
       }, {
-        "name" : "test_dingding_news_sendMessage[markdown-NY_APP--atMobiles4--帅过金城武-https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1---机器人 roup没传]",
-        "uid" : "940a23d0b4c0b008",
-        "parentUid" : "c6a86cecb438ce98c4ff3c7b41755f8e",
+        "name" : "test_im_init[-刘程旭-0-15000000000-liuchengxu@163.com-web-登陆账号 未传]",
+        "uid" : "b2521ba143864017",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
         "status" : "passed",
         "time" : {
-          "start" : 1587351385191,
-          "stop" : 1587351385248,
-          "duration" : 57
+          "start" : 1588922023028,
+          "stop" : 1588922023070,
+          "duration" : 42
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "[]", "'NY_APP'", "'机器人 roup没传'", "'https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912309f965f9a5345982b2b78026?x-bce-process=image/resize,m_lfit,w_500,h_500,limit_1'", "''", "''", "''", "'markdown'", "''", "'帅过金城武'" ]
+        "parameters" : [ "''", "'登陆账号 未传'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "'0'" ]
+      }, {
+        "name" : "test_im_init[liuchengxu--0-15000000000-liuchengxu@163.com-web-用户昵称 未传]",
+        "uid" : "4fc58551e0370923",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023077,
+          "stop" : 1588922023092,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'liuchengxu'", "'用户昵称 未传'", "'liuchengxu@163.com'", "'web'", "''", "'15000000000'", "'0'" ]
+      }, {
+        "name" : "test_im_init[liuchengxu-刘程旭--15000000000-liuchengxu@163.com-web-用户身份 未传]",
+        "uid" : "e3042d71220c9c05",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023097,
+          "stop" : 1588922023112,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'liuchengxu'", "'用户身份 未传'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "''" ]
+      }, {
+        "name" : "test_im_init[liuchengxu-刘程旭-3-15000000000-liuchengxu@163.com-web-错误的用户身份  3]",
+        "uid" : "3a56d1dc48f4dcd7",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023117,
+          "stop" : 1588922023133,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'liuchengxu'", "'错误的用户身份  3'", "'liuchengxu@163.com'", "'web'", "'刘程旭'", "'15000000000'", "'3'" ]
+      }, {
+        "name" : "test_im_init[liuchengxu-刘程旭-3-15000000000--web-邮箱未填写]",
+        "uid" : "de6eb89d8ac4e808",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023138,
+          "stop" : 1588922023151,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'liuchengxu'", "'邮箱未填写'", "''", "'web'", "'刘程旭'", "'15000000000'", "'3'" ]
+      }, {
+        "name" : "test_im_init[liuchengxu-刘程旭-3-15000000000-liuchengxu@163.com--loginType未填写]",
+        "uid" : "af5951ac7ec73f5e",
+        "parentUid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023161,
+          "stop" : 1588922023175,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'liuchengxu'", "'loginType未填写'", "'liuchengxu@163.com'", "''", "'刘程旭'", "'15000000000'", "'3'" ]
       } ],
-      "uid" : "c6a86cecb438ce98c4ff3c7b41755f8e"
+      "uid" : "e9c55a3dd9a8e3abc5eab99a33ecbb14"
+    }, {
+      "name" : "结束会话",
+      "children" : [ {
+        "name" : "test_im_init_disconnect[zhangsan-lisi-0-异对 客服]",
+        "uid" : "86fdc46c3c1966ad",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023183,
+          "stop" : 1588922023204,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'异对 客服'", "'zhangsan'", "'lisi'", "'0'" ]
+      }, {
+        "name" : "test_im_init_disconnect[zhangsan-lisi-1-异对 客户]",
+        "uid" : "7e9e5d9800636ce0",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023209,
+          "stop" : 1588922023231,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'异对 客户'", "'zhangsan'", "'lisi'", "'1'" ]
+      }, {
+        "name" : "test_im_init_disconnect[zhangsan-zhangsan-0-自己发给自己 客服]",
+        "uid" : "a5e28d5ee5cc2c03",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023236,
+          "stop" : 1588922023251,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'自己发给自己 客服'", "'zhangsan'", "'zhangsan'", "'0'" ]
+      }, {
+        "name" : "test_im_init_disconnect[zhangsan-zhangsan-1-自己发给自己 客户]",
+        "uid" : "3382b70d995076ed",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023257,
+          "stop" : 1588922023273,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'自己发给自己 客户'", "'zhangsan'", "'zhangsan'", "'1'" ]
+      }, {
+        "name" : "test_im_init_disconnect[zhangsan-lisi--未填 userType]",
+        "uid" : "321c980d9d6f52bb",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023277,
+          "stop" : 1588922023294,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'未填 userType'", "'zhangsan'", "'lisi'", "''" ]
+      }, {
+        "name" : "test_im_init_disconnect[zhangsan--0-未填 接受账户]",
+        "uid" : "3ca82537abd235a2",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023299,
+          "stop" : 1588922023317,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'未填 接受账户'", "'zhangsan'", "''", "'0'" ]
+      }, {
+        "name" : "test_im_init_disconnect[-lisi-0-未填 发送账户]",
+        "uid" : "234c36b73eb6f057",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023322,
+          "stop" : 1588922023336,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'未填 发送账户'", "''", "'lisi'", "'0'" ]
+      }, {
+        "name" : "test_im_init_disconnect[---必填项都未填]",
+        "uid" : "251cbe27f489d825",
+        "parentUid" : "24875f097ced2e398e0e5822b0833939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023340,
+          "stop" : 1588922023355,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'必填项都未填'", "''", "''", "''" ]
+      } ],
+      "uid" : "24875f097ced2e398e0e5822b0833939"
+    }, {
+      "name" : "更新客服状态",
+      "children" : [ {
+        "name" : "test_im_updateCustomerServiceStatus[102013620721191002-0-在线]",
+        "uid" : "283af48e473aa6a0",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023359,
+          "stop" : 1588922023381,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'102013620721191002'", "'在线'", "'0'" ]
+      }, {
+        "name" : "test_im_updateCustomerServiceStatus[102013620721191002-1-离线]",
+        "uid" : "1d1b3d36191b5d88",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023385,
+          "stop" : 1588922023402,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'102013620721191002'", "'离线'", "'1'" ]
+      }, {
+        "name" : "test_im_updateCustomerServiceStatus[102013620721191002-2-忙碌]",
+        "uid" : "60ffa13e2fd490e1",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023408,
+          "stop" : 1588922023429,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'102013620721191002'", "'忙碌'", "'2'" ]
+      }, {
+        "name" : "test_im_updateCustomerServiceStatus[102013620721191002--客服状态没传]",
+        "uid" : "7cc33d122a0ae4a3",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023434,
+          "stop" : 1588922023450,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'102013620721191002'", "'客服状态没传'", "''" ]
+      }, {
+        "name" : "test_im_updateCustomerServiceStatus[102013620721191002-77-错误的客服状态]",
+        "uid" : "370b8e15b4a36b25",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023459,
+          "stop" : 1588922023481,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'102013620721191002'", "'错误的客服状态'", "'77'" ]
+      }, {
+        "name" : "test_im_updateCustomerServiceStatus[-77-客服账号没传]",
+        "uid" : "def2d410a7b5c1ba",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023485,
+          "stop" : 1588922023503,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "'客服账号没传'", "'77'" ]
+      }, {
+        "name" : "test_im_updateCustomerServiceStatus[10086-77-错误的客服账号]",
+        "uid" : "a8896660f4e83095",
+        "parentUid" : "0073a3c8e0028eb28e544f2b4e201e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588922023507,
+          "stop" : 1588922023572,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'10086'", "'错误的客服账号'", "'77'" ]
+      } ],
+      "uid" : "0073a3c8e0028eb28e544f2b4e201e4f"
     } ],
-    "uid" : "77cfe64aed39eab5be7a89a96d3bf857"
+    "uid" : "1ddfcc05ce0319e0c3619dfd3645fb37"
   } ],
   "name" : "behaviors"
 }

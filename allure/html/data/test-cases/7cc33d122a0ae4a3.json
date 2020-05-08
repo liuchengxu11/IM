@@ -1,0 +1,123 @@
+{
+  "uid" : "7cc33d122a0ae4a3",
+  "name" : "test_im_updateCustomerServiceStatus[102013620721191002--客服状态没传]",
+  "fullName" : "TestSuite.pc_customer_service_center.test_im.Test_case#test_im_updateCustomerServiceStatus[102013620721191002--客服状态没传]",
+  "historyId" : "a80a1d29889dc1f35c74060730494b2c",
+  "time" : {
+    "start" : 1588922023434,
+    "stop" : 1588922023450,
+    "duration" : 16
+  },
+  "description" : "\n        更新客服状态\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    更新客服状态\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1588922023433,
+      "stop" : 1588922023433,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        更新客服状态\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5875574004049e9c",
+      "name" : "地址",
+      "source" : "5875574004049e9c.txt",
+      "type" : "text/plain",
+      "size" : 90
+    }, {
+      "uid" : "7aae0c0a7b6bac98",
+      "name" : "请求头",
+      "source" : "7aae0c0a7b6bac98.txt",
+      "type" : "text/plain",
+      "size" : 975
+    }, {
+      "uid" : "da4da8cb1c89ece9",
+      "name" : "body",
+      "source" : "da4da8cb1c89ece9.txt",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "f74c5a1b9d49bbbc",
+      "name" : "响应",
+      "source" : "f74c5a1b9d49bbbc.txt",
+      "type" : "text/plain",
+      "size" : 120
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "更新客服状态"
+  }, {
+    "name" : "epic",
+    "value" : "即时通讯"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.pc_customer_service_center"
+  }, {
+    "name" : "suite",
+    "value" : "test_im"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "20620-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.pc_customer_service_center.test_im"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "account",
+    "value" : "'102013620721191002'"
+  }, {
+    "name" : "case",
+    "value" : "'客服状态没传'"
+  }, {
+    "name" : "status",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cc33d122a0ae4a3.json",
+  "parameterValues" : [ "'102013620721191002'", "'客服状态没传'", "''" ]
+}

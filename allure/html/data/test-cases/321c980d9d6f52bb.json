@@ -1,0 +1,126 @@
+{
+  "uid" : "321c980d9d6f52bb",
+  "name" : "test_im_init_disconnect[zhangsan-lisi--未填 userType]",
+  "fullName" : "TestSuite.pc_customer_service_center.test_im.Test_case#test_im_init_disconnect[zhangsan-lisi--未填 userType]",
+  "historyId" : "fc6d200a414475427e914b1198be28a1",
+  "time" : {
+    "start" : 1588922023277,
+    "stop" : 1588922023294,
+    "duration" : 17
+  },
+  "description" : "\n        结束会话\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    结束会话\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1588922023276,
+      "stop" : 1588922023276,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        结束会话\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f102bc9131f5a67d",
+      "name" : "地址",
+      "source" : "f102bc9131f5a67d.txt",
+      "type" : "text/plain",
+      "size" : 73
+    }, {
+      "uid" : "7dba8bf5ce2147ec",
+      "name" : "请求头",
+      "source" : "7dba8bf5ce2147ec.txt",
+      "type" : "text/plain",
+      "size" : 975
+    }, {
+      "uid" : "22ba6bd329450341",
+      "name" : "body",
+      "source" : "22ba6bd329450341.txt",
+      "type" : "text/plain",
+      "size" : 71
+    }, {
+      "uid" : "de7bdc1adfed0821",
+      "name" : "响应",
+      "source" : "de7bdc1adfed0821.txt",
+      "type" : "text/plain",
+      "size" : 120
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "即时通讯"
+  }, {
+    "name" : "feature",
+    "value" : "结束会话"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestSuite.pc_customer_service_center"
+  }, {
+    "name" : "suite",
+    "value" : "test_im"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "host",
+    "value" : "liuchengxudeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "20620-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite.pc_customer_service_center.test_im"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "'未填 userType'"
+  }, {
+    "name" : "fromAccount",
+    "value" : "'zhangsan'"
+  }, {
+    "name" : "to",
+    "value" : "'lisi'"
+  }, {
+    "name" : "userType",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "321c980d9d6f52bb.json",
+  "parameterValues" : [ "'未填 userType'", "'zhangsan'", "'lisi'", "''" ]
+}

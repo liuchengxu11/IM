@@ -1,0 +1,8 @@
+{
+    "accountName": "liuchengxu",
+    "name": "刘程旭",
+    "userType": "0",
+    "phone": "15000000000",
+    "email": "liuchengxu@163.com",
+    "loginType": "web"
+}

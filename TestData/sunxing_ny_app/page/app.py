@@ -9,6 +9,8 @@ from TestData.sunxing_ny_app.page.work_bench import Work_Bench
 """
 查找app包的命令 adb shell dumpsys window windows | grep -E 'mCurrentFocus|FocusedApp'
 
+adb shell dumpsys window w |grep \/ |grep name=
+
 adb shell "dumpsys window w|grep \/|grep name=|sed 's/mSurface=Surface(name=//g'|sed 's/)//g'|sed 's/ //g'"
 
 adb shell pm clear com.baidu.searchbox   包名  清理包的缓存数据  
